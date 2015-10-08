@@ -1,0 +1,132 @@
+#+TITLE What makes a genome?
+#+SUBTITLE Organisation of Complex Genomes
+#+AUTHOR Dr Ben Skinner, Mammalian Molecular Genetics Group, Dept of Pathology
+#+DATE Thu 8 Oct, 2015
+
+* Slide 1,2,3,4,5
+- No notes taken
+* Slide 6
+- Mammals: ~3gigabases
+- Genome sizes  do not correlate with complexity
+* Slide 7
+- No notes taken
+* Slide 8
+- Correlation in prokaryotes but not eukaryotes -> So what is the rest of the dna doing if not coding for proteins?
+* Slide 9
+- No notes taken
+* Slide 10
+- Polyploidy from whole genome duplications several times, again and again
+* Slide 11
+- Birds - ~72-78 diploid number of chromosomes, with selective constraints on number of chromosomes
+- Mammals - widest distribution of chromosome number, from 6 to 100. More prone somehow to genomic rearrangements, and hence to diseases resulting from genomic rearrangements
+* Slide 12
+- DNA needs to be packaged, but it ALSO needs to be read -> needs to be stored in a way that it is readily accessible
+* Slide 13
+- Histones as octamers
+- Histones replaced by protamines in sperm. gives an even tighter packing (since does not need to be accessible in same way as normal cell, it is just transferring dna)
+* Slide 14
+- Hence, can unwind local bit, fold it up again when needed
+* Slide 15
+- Telomeres have highly conserved repetitive sequences
+* Slide 16
+- No notes taken
+* Slide 17
+- Humans have a variety of these types of packaging
+- Different species are different - e.g. mostly acrocentric in 
+- Human acrocentric chromosomes - 13, 14, 15, 21, 22, Y (acro = greek for peak)
+- Humans do not posess telocentric chromosomes
+- Metacentric can be formed by balanced translocation - fusion of two acrocentric chromosomes
+- Human metacentric chromosomes - 1, 3, 16
+- Rest are submetacentric in humans
+* Slide 18
+- Can already diagnose diseases from goss morphology of chromosomes - e.g. Downs
+* Slide 19
+- Sex chromosomes also called gonosomes
+- Environmental determination of sex in some species, e.g. crocodiles - temperature at which egg is incubated, due to temperature-activated transcription factor
+- Some dont even stay same sex during life - Finding Nemo, clownfish are sequential hermaphrodites, one female with harem of males, when female dies, alpha male becomes female, new alpha male is chosen.
+* Slide 20
+- No notes taken
+* Slide 21
+- DNA is like meatballs in a stew, not spaghetti - even in interphase, chromosomes occupy spatially well defined regions.
+- Diagram is of chromosome 6
+* Slide 22, 23
+- No notes taken
+* Slide 24
+- Learn this organisation!
+- Organelle DNA = mitochondrial, chloroplasts, etc
+- Unique sequences only a small part of genome
+* Slide 25
+- No notes taken
+* Slide 26
+- Minisatellites found mainly toward telomeric regions *in humans*
+- Microsatellites are smaller
+- Variability in number of repeats useful for fingerprinting - forensics, paternity testing, population genetics
+* Slide 27
+- Satellite = stands out if DNA sheared
+- Assume ACTG have some proportions, should get a normally distributed curve if separated by density (most DNA)
+- But repetitive sequences (e.g. ATATAT) will have different density and so show up as another peak on a sucrose gradient because of the different density
+* Slide 28
+- Beta satellites are in centromeres
+* Slide 29
+- Total size of satellite repeats several Mb - sizable fraction of coding DNA, but enough to account for entire of non coding dna (coding dna = ~1.2%)
+* Slide 30
+- No notes taken
+* Slide 31
+- Second copy accumulates mutations, perhaps resulting in a novel function
+* Slide 32
+- Paralogs are within SAME species, eg. FRGM1
+- Orthologs are BETWEEN species, e.g. UbeY1
+-Copies can take on new functionality, or the two copies can specialise for different things
+- GENE DUPLICATION PROVIDES A SUBSTRATE FOR EVOLUTIONARY EXPERIMENTATION AND INNOVATION
+* Slide 33
+- Hox = HomebOX
+- Linearly organised in many invertebrates, we have multiple copies from whole genome duplications
+* Slide 34
+- WGD = whole genome duplications
+- Some copies -> pseudogenes
+- Others remain
+* Slide 35, 36
+- No notes taken
+* Slide 37
+- PPT - for reverse transcriptase binding
+- 5' target site duplications important for insertions due to mechanism
+* Slide 38
+- Hanging edges from inserted dna, duplicates whatever was there
+- If a gene regulatory sequence, consequences!
+* Slide 39
+- LINEs encode reverse transcriptase and often endonuclease
+- SINEs do not encode functional protein, rely on other mobile elements for transposition
+* Slide 40
+- No notes taken
+* Slide 41
+- Rely on another active transposase
+* Slide 42
+- Another mature mRNA requence inserted instead? Processed pseudogene.
+* Slide 43
+- Processed pseudogenes are:
+   + Dispersed
+   + TSDs, same mechanism with the staggered breaks
+   + No, mature mRNA
+   + Yes, polyA tail because mRNA
+   + No promoter
+   + 5' deletion because processivity of reverse transcriptase, falls off
+   + Arises through an RNA intermediate
+* Slide 44
+- Junk DNA? Or roles not sequence specific but based on sequence bulk?
+- Unlikely much structural role, hude variations in genome size between species!
+* Slide 45
+- Distinguish between garbage (actively harmful and deleterious, removed by natural selection) and junk - no detrimental effects - no selection pressure to remove
+* Slide 46
+- 80% of genome has biochemical functionality, but only 20% have biological functionality
+- Salamander - 10x as much as human
+- Two closely related plant species, huge variation in genome sizes
+* Slide 47, 48
+- No notes taken
+* Slide 49
+- "Jesus gene"
+- Inactivated by Alu insert, so remained inactive in old and new world monkeys
+- Reactivated by endogenous retroviral element in great apes
+- Implicated in Crohn's disease
+* Slide 50
+- Know the evolutionary history of your model organisms! Different genes activated/inactivated/used/unused
+- Different evolutionary history -> novel functionality

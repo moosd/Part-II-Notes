@@ -1,0 +1,152 @@
+#+TITLE Introduction to innate immunity
+#+AUTHOR Dr Brian Ferguson, University of Cambridge, Department of Pathology)
+#+DATE Thu 8 Oct, 2015
+bibliography:Refs.bib
+
+Innate immunity is still a young field - need to analyse evidence critically!
+
+* What is innate immunity?
+Many ways of defining it. Must choose own definition and justify it.
+** Philosophical definitions
+- First line defence - but what about the physical barriers (e.g. skin)?
+- Germ-line encoded hard-wired immune responses - but not always, can change!
+- Ancient set of responses against non-self - but shaped by newer adaptive immune systems and works with it.
+** Cellular definitions
+- Pattern Recognition Receptors
+- Soluble, extracellular mediators
+- Innate cellular responses
+- All at the same time?!
+
+* Innate vs Adaptive
+** Innate
+- Ready to go (constitutive), *fast* - takes minutes, detect and respond immediately
+- Conserved pathogen features detected (PAMPs) - immediate alarm system - can't fight an enemy if you don't know it's there
+- Required for adaptive response
+- Some diversity
+- Some specificity
+- "Evolutionary memory" (somewhat Lamarckian) - changes, but very slowly on an evolutionary timescale
+** Adaptive
+- Changes over course of infection
+- Recognises everything
+- Needs time - randomly generated then selected - weeks
+- REQUIRES innate response
+- Enormous diversity
+- Exquisite specificity
+- "somatic memory" - memory developed can last lifetime
+
+* Where is innate immunity?
+- EVERYWHERE - ubiquitous in every cell
+- All cells have pattern recognition
+- All organisms have innate defenses
+
+* Why do we need it?
+- Initial defence mechanisms
+- Starts overall immune response
+- Drives adaptive immunity
+- Timescales:
+   + Preformed innate responses
+   + Induced innate responses (+presentation to lymph nodes)
+   + Lymphocytes
+   + Antibody appears
+
+* Molecular and Cellular mechanisms
+** Pattern recognition
+- Receptors bind to ligands that are part of pathogens (PAMPs)
+- Initiate pro-inflammatory signalling pathways
+- Toll receptor only discovered in 1996 (famous picture of a dead fly infected with fungus because could not sense infection)
+** Signalling
+- TLRs binding to different patterns
+- Dectin1, Dectin2, Mincle
+- Increase in transcription factors like AP1, NK-kB, IRF3/7
+- Two waves of signalling downstream of PRRs - initiation of IFN production, then IFN -> STAT -> ISG upregulation cite:pmid18039395
+- Cytokines, chemokines, interferons (induced in minutes) - cell intrinsic factors
+- *Interferon stimulated genes (ISGs) enable an antiviral state in cells surrounding sites of infection*
+- Complicated network of genes and redundancy arisen through evolution cite:pmid21743478
+- ISGs in four broad categories
+   + Inhibit translation
+      - PKR
+      - 2'5' OAS
+   + Viral nucleic acid degradation
+      - 2'5' OAS
+   + Affect nucleic acid metabolism (ATP, CTP balance, etc)
+      - SAMHD1
+      - ADAR
+   + Transcription of cytokines -> leukocyte recruitment
+      - IRF1
+
+* Why so complex?
+- Evolutionary arms race
+- Rapid huge populations of pathogens vs small slowly reproducing populations of hosts
+- All organisms have innate responses, all of which are complex and diverse
+- Evidence from COMPARATIVE IMMUNOLOGY across species
+- Complexity driven by exposure to equally diverse and evolving pathogens
+- The key is generation of diversity and there are many different approaches taken by different species to the problem
+- Invertebrates - massive genetic diversity in innate receptors
+   + cyclostomes :: VLRs
+   + echinoderms :: TLRs
+   + molluscs :: FREPs
+   + insects :: DSCAM
+
+* Immune evasion techniques by pathogens
+- Counter-measures to block host immunity, inducing greater complexity over time
+- Co-evolutionary balance - *RED QUEEN HYPOTHESIS* - must run to stay in the same place, twice as fast to go anywhere
+- ALL pathogens make countermeasures or are destroyed by natural selection
+** Viral examples
+- Viruses commonly target PRR signalling to stop interferon-mediated effects cite:pmid18089727
+** Bacterial examples
+- Bacteria are prime targets for opsonisation (rendering of bacteria/other cells susceptible to phagocytosis) - phagocytes follow bacteria around through CHEMOTAXIS
+- S. aureus - CHIPS and eaps - bind to chemotaxis receptors and stop neutrophils following them!
+** Parasite examples
+- Schistosoma mansoni
+- Bilharzia
+- eggs laid in liver
+- Powerful immunomodulatory compounds secreted
+- egg antigens polarise towards Th2 response - Th1 would destroy egg, Th2 causes its release into fecal matter to complete life cycle in snail
+- omega-1 protein can do this on its own, polarising DCs to Th2
+
+* Not just PAMPs, but DAMPs too
+- Damaged tissue detection intrinsically linked to infection - infection can destroy cells releasing their contents or damage can remove physical "first-line-of-defence" barriers.
+- Same pathways as pathogen recognition. Self-ligands = DAMPs
+- Can be *sterile* (absence of infection -> autoimmune diseases) or *enhance pathogen-induced inflammation* (infected cell dies, releases cellular contents into ECF, detected by other cells as danger signal)
+- Different TLRs respond to both DAMPs and PAMPs
+- PRRs = danger, outside or inside, need to know there is a problem to repair, remove damage. Same with infection.
+
+* Overview of timeline
+- Breach of barrier
+- Infection of some cells initially (e.g. keratinocytes, epithelial, fibroblasts in skin)
+- Produce cytokines, chemokines, interferons warning of the problem
+- Chemokines recruit *tissue-resident* cells, which arrive and perform phagocytosis and degranulation
+   + NK cells, \gamma\delta T cells, neutrophils, macrophages, ILCs (innate lymphoid cells), DCs
+- Chemokines eventually recruit more of these cells from the blood itself, which are educated by the cytokine profile on the nature of the threat (what kind of danger, how to respond)
+- More antimicrobial mediators - e.g. NK cells produce lots of IFN\gamma rapidly
+- Macrophages/DCs migrate to lymph nodes and initiate an adaptive response with clonal expansion and a permanent immune memory developing
+- Repeats until infection is taken care of or host is dead
+
+Need to know this process to understand how to intervene and e.g. make vaccines - all low hanging fruit is gone and we have viruses that would be nice to vaccinate against, e.g. HIV, malaria, TB, etc
+
+* How to investigate this in-vivo
+- Vaccinia - large dsDNA poxvirus
+- model = intradermal infection in mouse ear, live intra-vital confocal imaging cite:pmid23414756
+- virus expressing GFP, lesion eventually resolved
+- Can challenge 20-30 days later with same virus and mouse is completely resistant (strong protective memory) 
+
+* What happens when innate immunity is impaired?
+- Devastating, but subtle effects - REDUNDANCY has evolved because Red Queen!
+** Cellular deficiency example
+- NK cell deficiency - autosomal CD16 mutation results in loss of *functional* NK cells
+- COMPLETE NK cell loss seen in autosomal dominant GATA2 mutations
+- Multiple severe viral infection vulnerabilities - validates experimental data on what function of NK cells are!
+** Molecular deficiency example
+- Children with mutation in TLR3 or downstream signalling pathway (TRIF, TRAF) [hence not feature of mutating the receptor itself, but a feature of losing this system]
+- All suffer from severe herpesvirus infections
+** DAMPs can be impaired too
+- Sterile inflammatory responses - not susceptibility to infections, but autoimmune diseases instead!
+- self-DNA - Aicardi-Goutiere syndrome
+- Caused by Trex1 mutation
+- Trex1 is a negative regulator to control levels of infection
+- More PRR signalling in mutants, hence autoimmune symptoms
+
+* Take home message
+- Innate immunity is ubiquitous and essential for life
+- Evolved side by side with pathogens problematic in that organism, hence each organism has different style of immune responses - complex systems of alarms and responses
+- Many aspects are newly discovered, not everything is still fully known

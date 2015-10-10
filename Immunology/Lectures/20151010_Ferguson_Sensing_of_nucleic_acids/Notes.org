@@ -1,0 +1,149 @@
+#+TITLE Introduction to nucleic acid sensing
+#+AUTHOR Dr Brian Ferguson, University of Cambridge, Department of Pathology)
+#+DATE Sat 10 Oct, 2015
+bibliography:Refs.bib
+
+* Intro
+- Intracellular detection of nucleic acids
+- Many PAMPs in a virus, but the detection of genomes themselves in crucial
+- Genomes must be exposed to the cell in order to replicate
+- Cannot evolve away from DNA and RNA!
+- Investigate:
+   + How they are sensed and recognised?
+   + How they are responded to?
+   + Mechanisms on a molecular level?
+
+* Innate responses to DNA
+- Investigate using Vaccinia, unusual because it is a DNA virus that replicates in the cytoplasm
+- Cytoplasm, should not be any DNA there! Sensing to trigger alarm
+- *APPROPRIATE LOCALISATION* important for particular molecules
+
+* Not just viruses
+- Bacteria, e.g. Listeria monocytogenes inject their RNA, RNA into the cytoplasm following infection
+- Protozoa, e.g. Plasmodium falciparum, DNA genome sensed by innate mechanisms
+
+* PRR sensing
+- RIG-I
+- MDA5
+- DHX36
+- Also TLRs like TLR2, 4
+- Signalling via MyD88, MAVS and STING
+
+* Viral RNA sensing
+- RIG-I, MDA5 sensors in cytoplasm, both similar structures
+- RLRs -> type I interferon response
+- The problem is that the host cell has much RNA in the cytoplasm - e.g. mRNAs
+- Different types of RNA detected - e.g. panhandle genomes in influenza, defetive interfering RNA, cite:pmid23896194
+
+* RIG I ligands
+- 5'PPP detected - in viral RNA but not human RNA (TODO reason?)
+- Crystallography studies show a nice binding groove for it
+
+* RLR signalling
+- IPS-1 (MAVS), RIG-I detection of dsRNA
+- homotypic CARD-CARD interactions
+- IRF3, IRF7,  NFkB -> IFN, ISGs activated
+- 5'ppp binding groove deep in helicase pocket
+- comparative crystal structures
+
+* MDA5 structure
+- cite:pmid23273991 - detects really long RNAs that probably shouldnt be there
+- Using in vitro systems
+- forms filaments (lots strung together like beads on a string) around dsRNA
+- CARD domains dimerise to form higher order structure, activates MAVS
+- ligand -> receptor -> conformational change -> signalling cascade activated
+
+* Pattern recognition with DNA
+- DNA detected by several receptors - cGAS, IFI16, DNA-PK
+- DNA-PK, IFI16 activate TBK1, STING pathway
+- IFI16 activates NFkB
+- Presence of DNA in cytoplasm -> IRF3 activation
+** Negatively regulated too
+- DNases to dampen down ability to respond to cytoplasmic DNA
+- Control levels of inflammation - otherwise, inflammatory pathogenesis
+
+* Immune response to pathogens
+- Intracellular innate immune DNA signalling is required for protection against DNA virus infection
+- STING is like MAVS but for DNA instead of RNA - adapter protein for the signalling!
+- Mice without dna sensing infected with herpes simplex?
+   + STING -/- die
+   + cGAS -/- die
+   + IRF3 -/- die
+- With huge viral loads in brain (because HSV likes neurones)
+- Cellular consequences - can no longer make ifn\beta or chemokines like cxcl10
+- DNA-PK cite:pmid23251783
+- cGAS - cite:pmid23989956
+
+* Enzymatic regulation of DNA levels
+- nucleases regulate levels of circulating and cellular nucleic acids
+- Blood :: DNase I
+- Endosomes :: DNase II
+- Cytoplasm :: DNase III / Trex1
+- CHop up DNA where there should not be any
+- Without DNase, self-DNA triggers inflammation
+- DNase II knockout - spontaneous TNF driven "arthritis", IFN response limits development
+- DNase -/-, STING -/- double ko rescues phenotype
+
+* Autoimmunity
+- Aicardi-Goutieres syndrome -> autoinflammation
+- Severe neurological and developmental symptoms because too much IFN
+- TrexI mutation, stops DNA clearance, DNA builds up from dying cells, e.g. apoptosis, triggers IFN response
+
+* DNA vaccination
+- Exploit DNA sensing to develop prophylaxis
+- Plasmid encoding antigen from pathogen
+- Inject into body
+- Antigen expressed by some cells and T cell + antibody response develops
+- DNA itself acts as adjuvant because of innate DNA sensing
+- Tolerance develops if no adjuvant!
+- No DNA sensing in TBK -/-, STING -/- or cGAS -/- mice -> no protective response!
+- For DNA immunity, need entry to cells, effective stimulation of DNA sensing for danger signal, expression of antigen in MHC
+
+* Molecular mechanisms of DNA sensing
+** Endosomal
+- TLR9 -> detects CpG DNA from bacteria
+- NOT how DNA vaccination works, though thought to be previously because can knockout TLR9 and still have DNA vaccination work
+- Activates NFkB, IRF3, IRF7, etc -> Inflammation
+** Cytoplasmic
+- DNA_PK, IFI-16 (also in nucleus? Mysterious), cGAS activate IRF3.
+- ??? -> NFkB
+** Inflammasome
+- Complex of AIM2 (PRR), ASC1 (adaptor) and caspase-1 (enzyme that is activated)
+- Caspase-1 cleaves pro-IL1\beta to IL1\beta, secreted from cell
+
+* STING
+- cite:pmid23238760
+- DNA activates STING, moves to ER
+- Like MAVS moves to mitochondria - localisation to a membranous structure seems important
+- Recruits TBK1, phosphorylates IRF3 to dissociate it from IKK\epsilon, IRF3 moves to nucleus and transcribes IFN\beta
+
+* cGAS
+- cite:pmid23959130
+- enzyme is a PRR
+- very rare protein
+- synthesises cGAMP upon binding to foreign DNA
+- cGAMP activates STING by binding to a pocket formed by dimer, causes it to shut and somehow translocates
+- STING structure binds to cyclic dinucleotides cite:pmid23238760
+- Structure of AIM2 resolved too
+- PYD-HIN200
+- PYD domain binds to PYD of ASC1
+- ASC1 is PYD-CARD
+- CARD domain binds to caspase CARD domain
+- homotypic binding, forms aggregates of signalling complexes
+
+* DNA-PKcs
+- DNA-PKcs and Ku localise to viral DNA factories during MVA infection
+- DNA-PK activates TBK1, STING, etc
+
+* Important innate signalling pathways are targeted by pathogens!
+- If important, selective pressure on pathogens -> pathogens develop countermeasures -> Red queen
+- C16 protein from Vaccinia directly targets and disables DNA-PK complex
+- Provides confidence that pathway is important
+
+* Take home messages
+- Nucleic acids are potently immunostimulatory when found as non-self structures or in the wrong location
+- Detection of DNA by innate immune system is crucial for fighting pathogens or to warn of tissue damage
+- Multiple mechanisms for detection of DNA
+- Cytoplasmic sensing of DNA is crucial for fighting pathogens
+- Regulation is important, dysregulation results in imunopathology, e.g. autoimmunity
+- Buildup of DNA leads to inflammatory signalling!

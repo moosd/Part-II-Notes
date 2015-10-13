@@ -1,0 +1,48 @@
+#+TITLE Literature Searching
+#+AUTHOR Isla Kuhn
+
+* Introducing the research project
+- Clarifying the question
+- Setting parameters
+- Achievable goals, question is important
+- Check nobodys done it before, or can be built upon
+
+* Reviewing relative literature
+- get all the stuff, not biasing towards what you think is the right answer
+- Structure search with boolean logic
+- Identify relevant sources, differences between different resources
+
+* References
+- Dont plagiarise, dont lose marks through sloppy references
+
+* Why reference?
+- Shows you have researched breath of field
+- Not making assumptions, acknowledging other viewpoints
+
+* Topic to results
+- topic -> question -> keywords/symptoms
+- is consuming chocolate effective in reducing risk of heart disease
+- themes/pico - problem, intervention, comparison, outcome ; synonyms?
+- heart disease, chocolate, chocolate, ?, risk
+- coronary, cardiovasclar
+- cocoa, sugar, cacao
+- risk/prevention
+- chocolate and risk - background reading -> about risks that exist already
+- then risks spec to do with heart disease
+- back up all elements, not just single question at top! uhealthy, healthy, then to do with disease
+* places to look
+- pubmed - medical
+- web of science - multidisciplinary
+- google who knows?
+- sciencedirect
+- jstor
+- scopus
+- mbase
+* Times cited more - bias
+- Biased towards some publications
+- Heading towards older materials
+- Dogma - everyone citing same stuff because everyones cited it before
+* look at
+- review, one paper thats read 70 papers!
+* Asterisks
+- Truncate words and add *s?

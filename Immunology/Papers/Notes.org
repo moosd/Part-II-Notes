@@ -24,3 +24,6 @@
 STING resides in the ER either as a monomer or more probably as a dimer (shown) in an autoinhibited state and is “activated” by intracellular DNA, CDNs, and membrane perturbation. This leads to formation of an active STING dimer and mobilization to perinuclear vesicular structures where the C-terminal domain of STING serves as a platform for TBK1-mediated phosphorylation of IRF3.
 
 (B) Based on the current literature, several models for STING “activation” are possible. (1) DNA is sensed by a DNA sensor that initiates downstream signaling involving production of a second messenger (cGAMP) that binds to STING, causing a conformational change essential for STING to recruit TBK1. (2) cGAS is the initial sensor of DNA and is activated by DNA binding to produce cGAMP, thereby triggering STING activation as in (1). (3) DNA sensors directly interact with STING upon DNA binding and thereby stimulate the conformational change required for STING to recruit TBK1. (4) STING “activation” involves other mechanisms such as redox-regulated covalent linkage of the monomers (Jin et al., 2011). (5) STING binds DNA directly and stimulates downstream signaling (Abe et al., 2013).
+
+* Other stuff
+- Nitroglycerin to blow up rock to create tunnels, also through derivative NO to open up biological tunnels (arteries)

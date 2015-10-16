@@ -1,0 +1,99 @@
+#+TITLE Pattern Recognition Receptors
+#+SUBTITLE Seeing and responding to danger
+#+AUTHOR Dr Tom Monie, University of Cambridge, Department of Pathology)
+#+DATE Thu 15 Oct, 2015
+bibliography:Refs.bib
+
+* TIR domains
+- TIR dimers act as scaffold
+- MyDD88 (death domain----intermediate region (crucial for function)---- tir domain)
+- MAL (TIR---PIP2 binding domain)
+- TIR domain
+- BB loop is key functional part. BB = alpha helix B + beta sheet B
+- Proline - glycine - can mutate and disrupt signalling
+- Proline mutated to histidine to show TLR4 responds to LPS
+- TLR3 - alanine instead of proline used to recruit TRIF signalling instead of MyDD88
+- Symmetric TLR - inactive, asymmetric - active
+
+* Death domains
+- After TIR:TIR interactions, DD:DD interactions with DD, Death Effector DOmains, CARD domains, Pyrin domains
+- Myddosome forms
+- TLR4 at top
+- MYDD88 -- MAL
+- IRAK4
+- IRAK1/2/M
+- IRAK-M is a negative regulator
+
+* Interaction interfaces
+- Type I, II, III - each different parts of the death domain fold, no overlap - hence, same protein can be involved in three at once!
+- Scaffolding potential for macromolecular signalling complexes
+- FOrm symmetrical interactions
+- Myddosome - helical arrangement
+- helical structures can form from any DD protein overexpressed
+
+* NLRs
+- Effector ----- NACHT ----- LRR
+- NACHT mediates oligomerisation and signalling complexes and nucleotide binding - e.g. ATP, also GTP/CTP. Crucial for activating receptor
+- Autoinhibited - LRR inhibits NACHT folding back on itself
+- ATP loosens autoinhibition, allowing recognition of ligand
+- ATP hydrolysed afterwards, closing NLR back up again
+- Hence, an opening and closing sensing process
+
+* Effectors
+- NLRC (C for CARD) - leads to NFkB
+- NLRP (P for Pyrin) - inflammasome
+- Humans ~22 NLRs
+- Mice  ~35 NLRs
+- Zebrafish/sea urchins ~200 NLRs
+- NLRC4/NAIP
+- NLRC5 - antiviral, also transcriptional controol of MHC I (may be cell type dependant!)
+- CIITA - MHC II
+- NLRP7,8,2 - developmental, mutations lead to hydratid moles during pregnancy and loss of fetus
+- Target NLRs in disease - no immunosuppressive effects like when targetting IL1/TNF
+
+* NOD1/NOD2 signalling
+- Cytosolic receptors, but ligands are extracellular!
+- 5/6 pathways of stuff getting into the cell
+- Peptide transporters
+- GRam -ve bacteria - outer membrane vesicles bleb off eith fragments, fuse with cell membrane
+- Autophagy in phagosome
+- Endosomal migration
+- Direct injection by bacteria, e.g. type IV secretion systems
+- Not membrane bound proteins, but they associate with membrane bound proteins as part of signalling complexes! (ko membanr bound proteins, ko signalling activity)
+- Active signalling at membranes - erbin1 negative regulator, FRMP2 promotes signalling
+- NOD2 - Paneth cells, secretes antimicrobial peptides
+- NLRP6 = intestinal response to viruses
+- NLRP1,3, NLRC4 -> inflammasome (ASC speck) -> oligomerisation of receptor
+- NLRP1b has definitive ligand (Anthrax lethal toxin)
+- NALP - ligand recognition
+- NLRC4 - drives inflammasome formation
+- NLRP3 - detects cellular pertubation? ALl ligands alter homeostatic balance in cell, most changes -> K+ efflux, hence activation of NLRP3? But not conclusive
+- NLRC4 -> cell death
+- NLRP3 - IL1B production
+- NOD2 - surface plasma resonance, LRR bound muramyl dipeptide, but still unclear
+- poly(I:C) mimics dsRNA
+- (mouse) NAIP2,5 - flagellin
+- (mouse) NAIL1,6 - type III secretion systems
+- humans - single NAIP with functionality of all murine ones
+- 2 signals for NLRP3
+   + NFkb -> increase IL1B, increase NLRP3-ubiquitinated
+   + Deubiquitinating NLRP3 by whatever damages cell
+
+* Inflammasome
+- Adaptor ASC - primary driver of inflammasome formation
+- Overexpress to form speck structures
+- Caspase 4,5 in humans, same as 11 in mouse
+- Can have multiple PRRs - Salmonella activates NLRP3,4, AIM, one structure, more than one protein
+- Doesnt disassemble - once formed, stays forever, only disappears when cell dies
+
+* Looking at it
+- 1 NAIP, rest NLRC4
+- Filaments forming in cell - discs stack via CARD domains
+- ASC filaments recruit caspase 1 filaments
+- Pyroptosis - cleavage of gasdermin D -> death of cell
+- Non canonical = no massive inflammasome
+- LPS inside cell seen as more serious danger signal
+- Septic shock - classic PRR disease
+- Mutations in PRRs increase susceptibility to certain diseases
+- Cryopyrin related diseases -> NLRP3 -> releases inhibited conformation of NLRs?
+

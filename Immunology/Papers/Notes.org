@@ -27,3 +27,24 @@ STING resides in the ER either as a monomer or more probably as a dimer (shown) 
 
 * Other stuff
 - Nitroglycerin to blow up rock to create tunnels, also through derivative NO to open up biological tunnels (arteries)
+
+* M tuberculosis escape (Flannagan et al, 2009)
+- IgG -> ITAM activates SYK kinases
+- Bacterial ESX secretion system
+- M tuberculosis has presence of Rab5A but effectors (EEA1 and hVPS34) not recruited
+- Hence, PIP3 does not accumulate 
+- cell wall lipoarabinomannan shed from live bacteria, spreads through endocytic network of cell prevents increase in Ca normally following phagocytosis, thought to activate hVPS34 through calmodulin 
+- also inhibits sphingosine kinase, which converts sphingosine to sphingosine-1-phosphate which promotes Ca2+ efflux from ER, impairing Ca2+ flux in cell
+- Also ZmpA blocks inflammasome
+- Also makes phosphatase SapM which hydrolyses PI(3)P depleting it from early phagosomes, preventing transition to late phagosomal and phagolysosomal stages
+
+* Antimicrobials (MacMicking, 2014)
+- NOS induced by IFN\gamma -> S-nitrolysate haem-containing compounds like haemozoin and protozoal cysteine proteases, inactivating them
+- APOBEC and ADAR1 hypermutate HIV genome
+- SAMHD1 in macrophages and dendritic cells , hydrolyses deoxynucleotides from cellular pool
+- ISG15 - ISGylation ubiquitinates viral proteins, e.g. influenza NS1, Ebola VP40
+- IRGs and GBPs
+- IFN induced resistome
+
+In sum, synergistic IFN-inducible effector mechanisms are deployed in the cytosol and in diverse intracellular compartments to control bacterial infection. For example, IRGs, GBPs and recognition receptors help to direct vacuolar bacteria as well as ‘marked’ cytosolic bacteria to acidified autophagolysosomes. Low lysosomal pH, in turn, accelerates the
+dismutation of O2− to the more powerful oxidant H2O2, converts NO2− back to the toxic radical NO and drives hydroxyl radical formation with the aid of imported Cu+. Together, these IFN-regulated proteins help to maximize oxidative, nitrosative, protonative and membranolytic damage to bacterial targets in the lysosome.

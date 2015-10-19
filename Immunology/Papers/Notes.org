@@ -1,31 +1,41 @@
-* Stuff
+* Martin-Serrano and Neil, 2011
 - Virological synapse. ESCRT
 - Restriction-modification, crispr/cas, abortive infection
+- Vpu against tetherin in HIV
+
+* Stern and Sorek, 2010
 - Van Valen 1973 Red Queen Hypothesis - "Now see, here, it takes all the running you can do to stay in the same place. If you want to go somewhere, you need to run twice as fast as that!"
    + Originally predator-prey, must keep evolving to stay same fitness, now host-parasite
  - Immune evolve to defeat disease vs need parasites to prevent autoimmune
+- Abi = Toxin-Antitoxin systems like mazEF and hok-sok
+- Glycosylated to avoid restriction modification systems
+- Behaviour of defence mechanisms as selfish mobile elements - RM (RM systems destroy invading RM systems, attempts to lose RM system -> host death and assoc with phages, transposons, etc) and Abi
+
+* Lectures
 - DNA Vaccines
 - GC increase over time (TODO ask about this and Shiga)
-- Vpu against tetherin in HIV
+
+* Pluddemann, 2011
 - F tularemia modules macrophage M1 vs M2
 - RSV promotes repair at site of infection
 - Immunity related GTPases induced by ifn\gamma accumulate in in parasitophorous vacuole of toxoplasma gondii destroying vacuole and parasite
 - CD200/CD200R negatively regulates TLRs, NLRs and inflammasomes, SOCS (suppressors of cytokine synthesis) help limit tissue cell injury
-- Abi = Toxin-Antitoxin systems like mazEF and hok-sok
-- Glycosylated to avoid restriction modification systems
-- Behaviour of defence mechanisms as selfish mobile elements - RM (RM systems destroy invading RM systems, attempts to lose RM system -> host death and assoc with phages, transposons, etc) and Abi
-- AT rich stem loop regions (SHarma et al 2011) activate immune resp (P falciparum genome)
-- dnase ii ko -> amnaemia,death, rescued by ko of ifn receptor but tnf->polyarthritis. Embryonic survival and no arthritis when dnase ii and sting ko'd
-- rig i -> 5'ppp
-- mda5 = molecular ruler, 2'o methylation of 5; cap as host marker,  (zust et al, 2011)
-- mavs = ips-1= cardif = visa
 
-* STING
+* Pauldan and Bowie, 2013
+- AT rich stem loop regions (Sharma et al 2011) activate immune resp (P falciparum genome)
+- dnase ii ko -> amnaemia,death, rescued by ko of ifn receptor but tnf->polyarthritis. Embryonic survival and no arthritis when dnase ii and sting ko'd
+
+* STING (Pauldan and Bowie, 2013)
 STING resides in the ER either as a monomer or more probably as a dimer (shown) in an autoinhibited state and is “activated” by intracellular DNA, CDNs, and membrane perturbation. This leads to formation of an active STING dimer and mobilization to perinuclear vesicular structures where the C-terminal domain of STING serves as a platform for TBK1-mediated phosphorylation of IRF3.
 
 (B) Based on the current literature, several models for STING “activation” are possible. (1) DNA is sensed by a DNA sensor that initiates downstream signaling involving production of a second messenger (cGAMP) that binds to STING, causing a conformational change essential for STING to recruit TBK1. (2) cGAS is the initial sensor of DNA and is activated by DNA binding to produce cGAMP, thereby triggering STING activation as in (1). (3) DNA sensors directly interact with STING upon DNA binding and thereby stimulate the conformational change required for STING to recruit TBK1. (4) STING “activation” involves other mechanisms such as redox-regulated covalent linkage of the monomers (Jin et al., 2011). (5) STING binds DNA directly and stimulates downstream signaling (Abe et al., 2013).
 
-* Other stuff
+* Goubou et al, 2013
+- rig i -> 5'ppp
+- mda5 = molecular ruler, 2'o methylation of 5; cap as host marker,  (zust et al, 2011)
+- mavs = ips-1= cardif = visa
+
+* Other stuff (Pucciarelli, 2013; Nutrients)
 - Nitroglycerin to blow up rock to create tunnels, also through derivative NO to open up biological tunnels (arteries)
 
 * M tuberculosis escape (Flannagan et al, 2009)
@@ -39,6 +49,7 @@ STING resides in the ER either as a monomer or more probably as a dimer (shown) 
 - Also makes phosphatase SapM which hydrolyses PI(3)P depleting it from early phagosomes, preventing transition to late phagosomal and phagolysosomal stages
 
 * Antimicrobials (MacMicking, 2014)
+- ROS and RNS
 - NOS induced by IFN\gamma -> S-nitrolysate haem-containing compounds like haemozoin and protozoal cysteine proteases, inactivating them
 - APOBEC and ADAR1 hypermutate HIV genome
 - SAMHD1 in macrophages and dendritic cells , hydrolyses deoxynucleotides from cellular pool

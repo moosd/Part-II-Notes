@@ -72,7 +72,22 @@ dismutation of O2− to the more powerful oxidant H2O2, converts NO2− back to 
    + kinocidins (related to chemokines) released from contact with platelets (thrombocidins)
 - Also further ones, dermicidins from sweat, hepcidin, split products from \alpha-MSH
 
-
 * Bismarck
 - The great questions of this age will be answered not by debates and great speeches but by iron and blood
 
+* Penberthy et al, 2011
+- Vaginal delivery
+- HIV inhibitors blocking entry more effective than RTIs
+
+* Soscia et al, 2010
+- histatins as another class of AMPs
+- Anionic AMPs as host countermeasure to bacterial countermeasures
+- Amyloid B as downstream of inflammatory trigger (see inflammasome)
+
+* Brogden, 2005
+- AMPs an activate autolysins eg in Staph stimulans, 
+- Histatins bind receptor, enter cell, non-lytic loss of ATP
+- AMPs synergistic egffects with other host innate responses, e.g. human lacrimal fluid secretory PhosphoLipase A2
+
+* Tang et al, 1999
+- Two truncated alpha defensins joined together posttranslationally and cyclised

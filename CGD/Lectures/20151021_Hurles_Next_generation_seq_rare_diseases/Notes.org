@@ -1,0 +1,253 @@
+#+TITLE Next generation sequencing approaches to rare diseases
+#+AUTHOR Dr Matthew Hurles, Dept of Pathology
+#+DATE Wed 21 Oct, 2015
+
+* Slide 1
+- No notes taken
+
+* Slide 2
+- Exome sequencing - sequencing of genes in a genome
+
+* Slide 3
+- Cumulative impact - 1 in 16 of us
+
+* Slide 4
+- Rare diseases - mendelian diseases
+- Not at right hand side - if common, would not be a rare disease!
+- Not top right - large negative impact never gets to high frequency in population because of selection pressures
+- CHD = congenital heart defect
+- ID = intellectual disability
+- These are catch all terms for lots of rare diseases being clumped together!
+- Are common diseases collections of rare diseases? Open question!
+
+* Slide 5
+- Genetic/locus heterogeneity
+- Multiple genotypes -> one phenotype - e.g. intellectual disability
+- Incomplete penetrance - not in every patient, just higher risk
+- Variable expressivity - expressed in many tissues, by chance different organs affected?
+- Some gene -> lots of phenotypes
+- many ways to damage a gene - no longer functional, change function, functions when not supposed to, etc
+
+* Slide 6
+- Correlate genotype and phenotypes, start with phenotype and work backwards
+- Mapping - classical methods to home in on region of interest
+- Important when sequencing very expensive!
+- Chromosomal rearrangements - dont use family info but still using genome
+- hypothesis-free approach means looking everywhere without mapping to home down
+- Karyotyping = oldest type, trisomies, translocations - just a handful of genetic analyses
+- Microarrays - rare deletions of 20 genes?
+- So next gen sequencing just extension of this approach of looking over whole genome to see if there is something different
+- Sequence whole or part of human genome
+
+* Slide 7
+- Map to trace which bit of chromosomes cosegregate with disease
+
+* Slide 8
+- Rare recessive dont tend to transmit vertically
+- Reproductively lethal - dont survive to reproductive age or infertile - cant transmit vertically
+- Phenotype may be caused by many different genes, can't lump everyone together, may not share same regions of the genome affected!
+
+* Slide 9
+- No notes taken
+
+* Slide 10
+- Still not there for how variants influence function!
+- New information on rare diseases lead to new information on genome architecture and function!
+
+* Slide 11
+- Multiple disorders from different types of gene disruption
+- Gene regulatory have lower impact than gene exons
+- AD = autosomal dominant
+- AR = autosomal recessive
+- ADAR = dominant and recessive
+- XL = X linked
+
+* Slide 12
+- Any way a book might be misprinted
+- Page wrong way round, misspelling, etc
+- Missense = changed one sequence of protein
+- Nonsense = truncate protein
+
+* Slide 13
+- Autosomal recessive -> loss of function
+- Autosomal dominant -> may have different mechanisms of dominance
+** Loss of function
+- Diploid = evolving away from haploinsufficiency, backup wildtype allele
+- Haploinsufficiency - truncation, so only one makes protein
+- Small minority of proteins
+- Evolve towards making wt dominant
+- Developmental regulator - most common - gradients of different morphogens
+** Gain of function
+- Dominant negative = protein made but interferes with healthy one
+- e.g. enzyme that binds substrate and has no catalytic activity, effectively sequestering it
+- Lots of ways to kill a gene, few ways to make it do something different
+
+* Slide 14
+- Nonsense mediated decay
+- Roundabout homolog = autosomal recessive - has mutations spread through protein
+- Kinesin = dominant because mutations cluster
+- If loss of function, location would not matter
+- Disease caused by mutation in specific area but no others = gain of function
+- Filamin a  - first one gives loss of function, nodules. insufficient migration of neurones
+- Rest are gain of function. Lots of different disorders from different mutations of same protein
+
+* Slide 15
+- Alpha thalassemia = deficiency of alpha globin
+- But its not on the X chromosome!
+- ATRX - also mental retardation! How?
+- Found to smooth secondary structure of G quadruplexes which form in VNTR regions, used to allow transcription
+- Alpha globin has an intron with a VNTR
+- Explains variable clinical presentations - VNTRs vary in length, longer = more secondary structure = less transcription = less alpha globin made = more alpha thalassemia
+- ~ 3500 examples of these...
+
+* Slide 16
+- No notes taken
+
+* Slide 17
+- 4.5 milliom - most shared with other people, not rare, so no rare diseases
+- Most are silent
+- Dispensible genes
+- any 50-60 mutations new on average
+
+* Slide 18
+- Mutation is a molecular event that occurs in one specific cell at one specific time
+- DNA in sperm is copied a lot more (continuous spermatogenesis) than in eggs (halt during fetal development)
+- Older men have sperm cells that have been copied more than in younger men
+- Most mutations predicted to be from dad, and more mutations expected from older dads
+- This is true! ~80% of de novo mutations from dad
+- FATHER'S age = risk factor
+- Trisomy mechanism different - two from mum, can see chromosome segregation
+
+* Slide 19
+- Timing clinically important - gives recurrance risk
+- Mosaic mutation in child - arose in child not gametes that formed child!
+
+* Slide 20
+- Most indels are not multiples of 3 - hence they cause frameshifts and kill protein
+- Most substitutions dont kill protein, single change
+
+* Slide 21
+- Every base mutated in current generation of humans
+- Truth is out there, somewhere...
+
+* Slide 22
+- variant A and variant B correlated, can guess genotype of other common variants - *IMPUTATION*
+- Complete set of variants = 100% = ideal = not reality
+- Exome sequencing - most rare genetic disorders in coding sequences
+- Genome sequencing - still can't sequence complex repetitive elements too well
+
+* Slide 23
+- No notes taken
+
+* Slide 24
+- About $1K in 2015
+
+* Slide 25
+- Cambridge Chem Dept -> Solexa -> bought by Illumina
+
+* Slide 26
+- Probes complementary to DNA, beads allow pulling out of solution
+
+* Slide 27
+- No notes taken
+
+* Slide 28
+- Related cases -> linkage and variant diseases at same time
+- Affected case, new mutation, parent-child trios
+- Extremes of a quantitative trait - compare high tail with low tail
+
+* Slide 29
+- No notes taken
+
+* Slide 30
+- Sequence healthy people, narrow down on disease causing variants
+
+* Slide 31
+- No notes taken
+
+* Slide 32
+** Variant unlikely to cause complete LoF
+- Found close to end
+- Found close to start, nearby start codon takes over
+- One indel to frameshift, another indel to restore frame
+
+* Slide 33, 34
+- No notes taken
+
+* Slide 35
+- Need four patients sequenced until right gene is only gene detected
+- As long as same gene is mutated in all patients
+
+* Slide 36
+- No notes taken
+
+* Slide 37
+- Low probability it comes up by chance if sequencing 3-5 people
+
+* Slide 38
+- 70-80% of mutations in same gene
+- Kabuki = Japanese makeup, facial features of those affected resemble it
+- Not all mutations in same gene
+- Haploinsufficient dominant disorder
+
+* Slide 39
+- Red bits = new mutation! SInce in child but not in parents
+- Or, one in dad = somatic mosaicism from parent? (Blood being screened)
+
+* Slide 40
+- <1% mutations in same gene
+
+* Slide 41
+** IDEAL
+- 1 in 100 in general population
+- 1 in 10 in affected population
+- Easy to tell, but expensive
+** Inference
+- Germline mutation rates
+- Compare number with mutation in people affected
+- Use e.g. CpG are more mutable than any other motif in genome
+
+* Slide 42
+- Way more missense than by chance -> underlying mechanism!
+
+* Slide 43
+- DDX3X = single most common cause of ID in girls (X dominant)
+** Right hand side column
+- Same missenses
+- COL4A3BP - Serine known to be phosphorylated which is known to regulate a transporter
+- PPP2R5D and PPP2R1A interact with each other and mutations are at their interaction sites
+** Methods
+- Infer rate by chance
+- Do we see something different?
+
+* Slide 44
+- Poorly captured exons because baits cannot catch them
+- Regulatory mutations - only looking at coding residues, <100 regulatory elements associated with a disorder, but we don't know true number of them
+- Deep intronic mutations - in coding sequence but not exon sequence
+- Sequence variants -> new splice site (cryptic splice site) -> new exons!
+- Structural variants
+** Journal article
+- Duplication in one gene
+- Extra copy of exon of gene not known to be involved
+- Segment inserted into middle of another gene known to be involved, damaging it
+- Difficult to identify these in exome sequencing
+
+* Slide 45
+- Duchenne Muscular Dystrophy - one of the first rare disorders to be investigated
+- Now 2x life expectancy than before, due to better clinical management
+- Drug that doubles life expectancy would be a wonder drug!
+- Recurrance risk - depends on mosaicism!
+** Gene therapy
+- LOF can be corrected
+- GOF - must get rid of damaging protein first! Not just add another one back in!
+** Drug therapy
+- Repurposing old drugs - genes mutated in cancer same in developmental disorders?
+- NMD - nonsense mediated decay, can suppress truncated gene! But need to know nature of mutation
+** Kabuki - drug success story
+- MLL2 mutation
+- Methylates lysine to histones, modulates chromatin
+- HDACs to regulate chromatin, used for cancer
+- Mouse model, HDACs to inhibit methylation restarts neurogenesis in affected Kabuki mice
+
+* Slide 46, 47
+- No notes taken

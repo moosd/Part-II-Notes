@@ -1,0 +1,187 @@
+#+TITLE Sex chromosome specialisation and disease
+#+AUTHOR Dr Peter Ellis, University of Kent
+#+DATE Thu 22 Oct, 2015
+
+* Slide 1
+- Genetic sex determination
+- Chromosome for sex determination
+- Degeneration
+- Dosage compensation
+- Gene traffic reduced
+- Preferential retention of fertility genes on Y
+
+* Slide 2, 3
+- No notes taken
+
+* Slide 4
+- Genes for female fitness preferentially selected more efficiently on X chromosome
+- Cleared mutations on X because exposed to selection pressures, as opposed to recessive mutation in autosome that can hide
+- 1/3 fully exposed, purifying selection more efficient
+- Better synaptic connections, or any highly selected for function (e.g. intelligence) likely to evolve on X
+- X more readily accumulates
+- Faster X effect
+- Evolutionary testbed
+- Beneficial effects kept
+- Evolves faster, accumulating highly selective functions
+- X chromosomes exposed in males - *HEMIZYGOUS EXPOSURE*
+- Diseases on autosomes rarely associated with learning disorder
+
+* Slide 5
+- Autism appears as male-specific
+- Segregates as X linked recessive
+- Ovarian insufficiency due to small deletion on X, premature menopause
+
+* Slide 6
+- OMIM
+
+* Slide 7, 8, 9, 10, 11, 12
+- No notes taken
+
+* Slide 13
+- X enriched for intellectual functions
+
+* Slide 14
+- Fertility genes
+
+* Slide 15
+- dips = deletions
+- may be ~10% dip because mosaicism
+
+* Slide 16, 17
+- No notes taken
+
+* Slide 18
+- Housekeeping genes - very strong selection to keep them in
+
+* Slide 19
+- Fertility issues = few children = small pedigrees!
+
+* Slide 20
+- No notes taken
+
+* Slide 21
+- XO as XX missing X, but also as XY missing Y
+- Missing Y = missing maleness
+- Also missing all these other genes
+
+* Slide 22
+- No notes taken
+
+* Slide 23
+- SHOX gene responsible for short stature in PAR
+- Gene not inactivated because in PAR
+- Acid test for gene function - can find a de novo mutation with it, no pedigree, mutation not present before.
+- Idiopathic - no history
+
+* Slide 24
+- Lymphoedema locus, same genes on X and Y at different places
+
+* Slide 25
+- Skeletal growth locus - non-stature, other abnormalities
+
+* Slide 26
+- Ovarian phenotype - many deletions, cause of lack of fertility and intelligence
+
+** Discuss value of animal models
+- Can set up experiments that cant be set up ethically in humans
+- Have much larger pedigrees vs one or two children in humans
+
+* Slide 27
+- No notes taken
+
+* Slide 28
+- Dont have pedigrees on Y chromosome
+- Only approach is same as that used to identify Sry
+- Physical mapping - lost bits of chromosome
+- Look at phenotype and correlate with physical loss of bits of DNA
+
+* Slide 29
+- AZF discovered in 1990s
+
+* Slide 30
+- Type II SCO - degenerative phenotype
+- Lots of germ cells die. Normally removed by Sertoli cells, but these become overloaded
+- Eventually lose all germ cells completely
+- Age dependant!
+- Clinically, may not have noticed infertility for 20 years
+- Secondary changes obscure original phenotype
+- Modelling in animals important methodology - uncover disease pathogenesis when complex degenerative phenotype in humans
+
+* Slide 31
+- Degenergation - before, just enough sperm, now not enough?
+
+* Slide 32
+- Koch's postulates but for gene function
+- Cant do them most of the time!
+
+* Slide 33
+- Oligospermia - smaller deletion
+- Azoospermia - larger deletion
+- Azoospermia pseudogene deletions - may have silenced downstream genes?
+- Animal models - can take testis sample more easily to investigate!
+
+* Slide 34, 35
+- No notes taken
+
+* Slide 36
+- AZFc region difficult to pin down - many repeats (copies of genes)
+
+* Slide 37, 38, 39
+- No notes taken
+
+* Slide 40
+- X silencing
+
+* Slide 41
+- Deletion of AZFa common
+- Flanked by two retrovirus elements
+- Mispairing between repeats -> extra prone to this because of cruft
+- Deletion chops out AZFa
+
+* Slide 42
+- No notes taken
+
+* Slide 43
+- During pairing and recombination, X and Y dont pair properly together
+- Autosomes remain transcriptionally active
+- Unpaired chromosomes - indicative of potential DSB - common because recombination - hence, silenced
+- Hence Y transcriptionally silent
+- But if these genes are off during meiosis, and there are key housekeeping genes on these chromosomes, what happens?
+- Housekeeping genes copied onto autosome, autosome copy may be testis specific
+- Only in males because only males have Y chromosome! Females have XX and these pair well.
+
+* Slide 44, 45
+- No notes taken
+
+* Slide 46
+- gr/gr = green-red amplicon
+- Structure predisposes to rearrangements
+
+* Slide 47
+- Structure predisposes to mispairing and deletions - so why is it beneficial?
+
+* Slide 48, 49
+- No notes taken
+
+* Slide 50
+- They evolve locked in step but no effect on deletions
+
+* Slide 51
+- An explanation which uses XY dynamics needed
+
+* Slide 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67
+- No notes taken
+
+* Slide 68
+- X for intelligence and fertility
+- One gene for determining sex
+- To chromosome for it
+- X and Y differing structurally
+- Causes differences in function, different functional genes accumulate on each
+- Ongoing evolutionary process feeding back on itself
+
+* Slide 69
+- p.j.i.ellis@kent.ac.uk
+
+* Slide 70, 71, 72, 73, 74, 75, 76
+- No notes taken

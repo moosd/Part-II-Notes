@@ -123,63 +123,63 @@
 - Pairing region retained
 - Gene traffic between X and Y here
 
-* Slide 35
+* Slide 25
 - If 4-5 copes, mutation in 1 leads to little difference
 
-* Slide 36
+* Slide 26
 - Strata of degree of similarity
 - Some recent papers - up to 11?
 
-* Slide 37
+* Slide 27
 - XAR :: X added region - present in placental mammals but not marsupials
 - XCR :: X conserved region
 - Iterative process, gradual addition and attrition of segments
 
-* Slide 38
+* Slide 28
 - Y enriched for spermatogenesis genes
 - Layer cake effect
 
-* Slide 39
+* Slide 29
 - Stochastic processes involved - hence different species retain different genes
 - Sry conserved because thats the point of the Y chromosome...
 
-* Slide 40
+* Slide 30
 - X transposed - transposed to X recently in human lineage
 
-* Slide 41
+* Slide 31
 - No notes taken
 
-* Slide 42
+* Slide 32
 - X chromosome more conserved than autosomes
 - Some law? Ernols?
 
-* Slide 43
+* Slide 33
 - No notes taken
 
-* Slide 44
+* Slide 34
 - Comparison of syntenic sequences
 - Autosomes traffic lots of genes between them
 - X conserved
 
-* Slide 45
+* Slide 35
 - Genetic sex determination - solved
 - Sex chromosomes to link advantageous alleles - solved
 - Now, with one copy in males and two copies in females - gene dosage issue
 - Humans, one X does work of two autosomes
 
-* Slide 46
+* Slide 36
 - Xp = paternal
 - Xm = maternal
 - Lots of ways to achieve it, marsupials have it imprinted
 
-* Slide 47
+* Slide 37
 - As X and Y diverge, X and autosomes shut down traffic - impacts dosage
 - LINEs spread X inactivation
 
-* Slide 48
+* Slide 38
 - PAR - everyone has two copies of it anyway, so no inactivation here
 
-* Slide 49
+* Slide 39
 - Zfx and Zfy
 - Zfx escapes X inactivation, one present on each chromosome
 - Mouse, Zfx inactivated, Zfy expressed only in testes, male specific
@@ -188,12 +188,34 @@
 - Hence Xp arm leaky inactivation
 - So difference between XO and XX
 
-* Slide 50, 51, 52
+* Slide 40, 41, 42
 - No notes taken
 
-* Slide 53
+* Slide 43
 - Dispermy - absolute gene dosage matters
 
-* Slide 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67
+* Slide 44, 45
 - No notes taken
 
+* Slide 46
+- Fertility issues because cant line up in meiosis!
+
+* Slide 47, 48, 49, 50
+- No notes taken
+
+* Slide 51
+- Translocations because Sry is close to autosomal region, edge of Y terminus
+- If recombination in PAR, chiasma slip slightly further down, Sry moved
+- Most species have it far away from PAR boundaries
+
+* Slide 52
+- Calves bigger paradoxically, because they are working harder to keep body up
+
+* Slide 53
+- Silencing may spread to autosomal region
+- These die off because autosomal bits silenced
+- Only ones that make other choice survive, hence inactivation skew
+- Hence, normal copy is inactivated
+
+* Slide 54, 55, 56
+- No notes taken

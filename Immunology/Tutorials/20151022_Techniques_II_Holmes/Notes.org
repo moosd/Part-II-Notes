@@ -1,0 +1,50 @@
+* Transgenic animals
+- Inserted transgenes
+- Knockouts :: germline, tissue specific, inducible
+- Knockins :: reporters, fate-map
+- inject new DNA directly into single cell oocyte to inject gene
+- 2000x expression - miRNAs sucked into motif, impacts other regulatory functions in cell, etc
+- Protein level and mRNA level not tightly coupled!
+- Egg vs emmbryo - much higher homologous recombination
+- End up with chimera, coat colour marking
+- Knockouts - cant assume mutation made only affects gene you targetted
+- Action at a distance enhancers
+- Delete gene, substitute something can select for - drug resistance for example
+- Can knock on to other genes around
+- Knocked down CD3 effectively, when trying to knock out CD3\epsilon
+- Didnt release there was another transcript, effect seen due to other gene
+- Tissue-specific and inducible knockouts/transgenes
+- Can modulate expression of gene of interest when want to do so
+- Tet-on, tet-off, feed mice with water with doxycycline
+- Used when germline knockout might for example kill all T cells
+
+* Cre-LoxP
+- Fate mapping - identify cells derived from cells expressing IL17 at some point
+- Do they stay secretors or go become other sorts of cells?
+- (promotor)---(stuff, eg ROSA26, does not do much)---IRES---LoxP--STOP-STOP---LoxP---FluorescentProtein---
+- LoxP cut out stop genes only when needed, then FP expressed in that lineage forever
+- IL17A-CRE cuts out stop alleles
+- CRE-ER (estrogen receptor) - produces protein but kept in cytoplasm by receptor until binds tamoxifen, then moves into nucleus
+
+- CFSE - green dye permeating into cell
+- binds to proteins and modified with fluorescence tag
+- Fluorescent only in cell
+- Cell divides and half of green proteins sent to daughter cells
+- Pictures of no of cell divisions
+
+- Cant just label peptideMHC-complex
+- T cell receptors only bind transiently
+- Must multimerise them - tetramerise with streptavidin
+- Biotinylate protein
+- Take advantage of avidity of multimer
+- Tetramers can activate receptors - so be careful!
+- Can use it to identify cells, but not necessarily to sort and use cells afterwards...
+
+- Cytokines - measure using ELISA
+- Can quantify number of cells making a cytokine
+- IFN\gamma release assay
+- CD45 >-- --< cytokine >-- fluorescence Ab
+- Finds cells secreting cytokine
+- Cell plasticity - does one thing now, may not do same thing later
+- MO5 - melanoma tumour modified to express chicken ova peptide
+- immunise with DCs pulsed with ova peptides

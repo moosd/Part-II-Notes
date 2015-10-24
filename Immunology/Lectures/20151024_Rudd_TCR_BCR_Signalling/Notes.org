@@ -1,0 +1,181 @@
+#+TITLE TCR and BCR signalling
+#+AUTHOR Prof Chris Rudd, University of Cambridge
+#+DATE Sat 24 Oct, 2015
+
+* Intro
+- Immunotherapy :: Chimeric Abs, lymphoma therapy, 80-90% response rates
+- p56lnk/ZAP-70 = kinases
+   + Initiators of cascade
+
+* Integrin adhesion mediates T cell migration
+- Main APC is the dendritic cell
+- OVA induced TCR stop signal for motility in lymph node slices
+
+* Sequence of events - T cell w/ dendritic cell
+- Stochastic process
+- Chemokines attracting T cell by dendritic cell
+- Some ligation of TCRs by MHC
+- Ca2+ influx into cell
+- Stop signal and immobilisation
+- Activation of integrins, spreading of cell against dendritic cell
+- Clustering - intracellular signal, NFAT activation, IL2 made
+- Clustering for avidity
+
+* Affinity stage, then avidity stage
+- Multiple binding to integrins
+- Integrin for adhesion, clusters, focal adhesion kinases - for dissociation
+- T cell needs to spend time with APC but not too much time
+- Self antigens -> tonic signalling
+- (Some leaking of central tolerance)
+- Mark Davis :: Lots of self antigen presented at low level
+- Just enough to keep cells primed to see foreign antigen
+- Too much antigen -> activation, too little activation -> no immunity
+
+* SMAC
+- SupraMolecular Activation Cluster
+- Late event, clusters form early, move into central part then redistribute themselves
+- LFA -> ICAMs
+- Some people believe it is a form of endocytosis
+- Additive effect of further clustering in SMAC
+
+* Immunological synapse
+- T cells interact with APCs
+- Initiated by chemokines
+- TCR and kinases form microtubules
+- Inside out signalling
+- TCR activates LFA
+- Expand and increase contact surface area with dendritic cells
+- Different cell types -> Different microclusters
+
+- Not all activated at same time - cFos
+- Abbas, Lichtman, Rober, 1999 (Book)
+
+- Signal 1 = TCR
+- Signal 2 = Co receptor
+- Signal 3 = Chemokines, e.g. IL2 binding to same cell secreting it
+
+* Integrins
+- Play early roles
+- Very Late Antigen - VLA - late expressed integrin
+- Quite selective in determining where T cells go
+- VLA4 - directs T cells to nervous system and gut
+- Block to treat multiple sclerosis
+
+* T cell receptors
+- NOT polymorphic
+- Polymorphic means variable between individuals
+- TCRs are variable between cells of same individual
+- Tails too short to signal - hence they associate with CD3 coreceptors and \zeta chain
+- they contain ITAMs which are used to signal downstream
+- CD3 and \zeta chains differ in no of ITAMs
+- CD3 has one ITAM each
+- \zeta chain has three ITAMs
+
+* B cell receptors
+- Somewhat similar
+- Ig\alpha and Ig\beta -> ITAMs too
+
+* Central issues
+- How they work relative to classical receptors e.g. PDGF
+- Clustering of receptors to antigen
+- Already clustered!
+
+* Protein tyrosine phosphorylation
+- Tony Hunter
+- Most involve serine/threonine
+
+* Protein domains
+- SH2/SH3 = protein glue
+- Tony Pawson
+
+* CD4/8
+- Bind to Src-tyrosine kinase
+- p56lck - inhibitor of T cell activation
+- Ca mobilisation is protein phosphorylation dependant too
+- lymphoid specific
+- SH3 binds to proline residues
+- SH2 binds to phosphotyrosine residues
+- Coupled to kinase domain
+- Y-394 site = autophosphorylation site
+- Y-505 site = loops over and binds with structure to SH2 domain
+   + Tight conformational constrainment, prevents constitutive activation
+- Src from rous sarcoma virus
+- Truncated form of this protein, no looping without Y-505, hence constant activation -> cancer
+- pp60*
+- mutation shown to be a cause of cancer
+
+* Cascade
+- Cascade phosphorylates ITAMs
+- tandem tyrosine containing motifs#
+- separated tyrosine residues
+- ZAP-70 has two tandem SH2 domains
+- Binds to tandem tyrosines on ITAM motif
+- Unique way of recruiting important kinase
+- Phosphorylates kinase domain
+- ZAP70 in T cells, Syk in B cells
+- Myristilation - binding to plasma membrane
+- CSK -> phosphorylates site, keeps cells quiescent
+- CD45 is the phosphatase, dephosphorylates - unfolds kinase
+- Difficult to intervene between protein-protein interactions
+- Successful immunomodulatory drugs inhibit kinases/phosphatases
+
+* Kinetic segregation model
+- CD45 abundant on cell surface membranes - 2-3% of cell surface proteins
+- Dominant factor? Preventing inappropriate activation?
+- To activate T cells, must make more space, move CD45s away
+- CD45s have huge, cigar shaped ectodomains that would block interactions between T cell and APC
+- Antigen presentation pushes CD45 away preventing CD45 inhibiting response
+
+- Problems with this model! How does CD45 activate and inhibit!
+- Y-294 autophosphorylation would also be dephosphorylated because phosphatases are non-specific
+- T cell receptor, releases tails for signalling from membrane to make them accessible upon activation
+
+* Themes
+** Cross linking/activation
+- Problem: TCR already an aggregate, how can it aggregate around antigen?
+- Counter: rearranged self?
+
+** Ligand/conformational change
+- NCK associated with tails, antibody shows tails becoming available in cytoplasm upon activation
+
+** Kinetic Segregation Model
+- Problem: Positive and negative effects
+- Ignores phosphatases like SHP1
+- SHP1 is a soluble phosphatase, nothing to push away when APC comes up
+- Overexpression leads to potent negative effects on T cell activation
+- Not everything depends upon CD45!
+
+* Signal transduction
+- Design therapeutic approaches
+- SCID (Rudd. 2006)
+- CAR = chimeric antigen receptor therapy
+
+* Autoimmunity
+- Sakaguchi - discovered Tregs
+- Collagen injected, arthritis develops (collagen induced arthritis)
+- Dangerous experiment, pricked self -> issues seeing in one eye
+- Potent way of inducing autoimmunity
+- Spontaneous development with single point mutation in ZAP-70
+
+- IL2 essential, would expect no immunity if knocked out. Actually, autoimmunity!
+- ZAP-70 depleted, thymic selection needed to eliminate self-reactive cells affected
+- Release of autoreactive t cells
+- sit there, cant be well activated but perhaps pushed into it by strong stimulus of tonic signalling from self antigen
+
+* PTPN22
+- Phosphatase
+- Mutation gives diabetes
+- Also lots of other autoimmune conditions - Graves, Lupus, etc
+- Responsible for inactivating p56lck by dephosphorylating Tyr394
+- No individuals found with mutations in Lck/ZAP70 because too lethal
+- PTPN22 - nobody thought it did much, hence survivable, but leads to increased risk for certain diseases through this process
+- T Bechrens, 2011
+- Rhee and Veilette, 2012
+
+* Adapters
+- LAT signalosome
+- Haematopoietic specific adaptor proteins
+- Molecular switches
+- Effectors downstream
+- Specific to T cells
+- Allow formation of complexes

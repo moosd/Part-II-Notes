@@ -1,0 +1,123 @@
+#+TITLE Integration of genomic approaches
+#+AUTHOR Professor Nabeel Affara, University of Cambridge
+#+DATE Sat 24 Oct, 2015
+
+* Slide 1
+- What is meant by a genome project?
+- How has it impacted research?
+- What technologies are involved?
+
+* Slide 2
+- Using other genomes to understand human genome
+
+* Slide 3
+- Cytogenetic techniques
+- Somatic cell genetics - human cell fused to rodent cell to make hybrid
+   + Segregates human chromosomes, choose different cell with individual human chromosome and investigate
+   + Cancer - to study metastasis
+- Transgenic - to study function, can inactivate genes
+
+* Slide 4
+- Build map to single bp level
+
+* Slide 5
+- Polymorphic markers - exploit DNA variation
+- "Tiling path" constructed
+- Genomic library - randomly fragment genome and put into vector, e.g. bacterial artifical chromosome
+- BAC up to 1Mbp
+
+* Slide 6
+- EST = expressed sequence transcripts
+- cDNA shows coding sequences without introns, reg sequences, etc
+
+* Slide 7
+- Yeast, C elegans, Drosophila
+
+* Slide 8
+- Fugu (puffer fish)
+- Protein coding sequences similar to humans
+
+* Slide 9
+- Mouse
+- Synteny allows mapping genes onto human counterparts
+
+* Slide 10
+- Biological is different from biochemical
+   + Biological effects can depend on context, different genes expressed in fetus vs adult give different phenotypes - e.g. HGH -> normal growth in kids, acromegaly in adults
+
+* Slide 11, 12
+- No notes taken
+
+* Slide 13
+- A priori knowledge of genome
+
+* Slide 14
+- No clue about gene or protein involved
+
+* Slide 15
+- No notes taken
+
+* Slide 16
+- Late onset polygenic disease - diseases that manifest later in life, if we can detect and predict this, we can intervene at an earlier stage?
+
+* Slide 17
+- non coding RNA - genetic regulation and disease
+- Manhattan plot
+
+* Slide 18
+- Mutagenesis/phenotype screen - induce mutation, select interesting phenotype and map back onto genome
+
+* Slide 19
+- Microarray :: Ordered array of genetic elements immobilised on glass slides, nylon membranes or on a silicon chip
+- CGH :: Comparative Genome Hybridisation
+- Arrays based on cloned DNA - expression analysis, array CGH
+- Oligonucleotide arrays - expression analysis, genotyping, CGH, sequence capture
+
+* Slide 20
+- Transcriptional signatures - to target appropriate therapy
+- Dual color - printed oligonucleotide + cDNA arrays
+- Single color - various in situ synthetised platforms
+
+* Slide 21
+- No notes taken
+
+* Slide 22
+- 19000 genes
+- Transcriptome - also ncRNAs
+- Phenome :: what is observed in the individual
+
+* Slide 23
+- No notes taken
+
+* Slide 24
+- Limited resolution of about 1000 proteins
+- Low throughput compared with transcriptome analysis
+
+* Slide 25
+- Mass spec with 2D gels
+
+* Slide 26
+- Protein based arrays are like microarrays
+
+* Slide 27
+- No notes taken
+
+* Slide 28
+- Gene silencing
+
+* Slide 29
+- Conditional inactivation
+- But LoxP is labour intensive, and may not have much of an effect because of genetic redundancy
+
+* Slide 30
+- RNAi
+
+* Slide 31
+- Rapid, can introduce multiple RNAis at once
+
+* Slide 32
+- Start not from gene of interest, but from phenotype and work back to gene
+- Complex phenotypes, similar to complex human diseases
+
+* Slide 33, 34, 35
+- No notes taken

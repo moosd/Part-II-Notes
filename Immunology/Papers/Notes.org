@@ -91,3 +91,33 @@ dismutation of O2− to the more powerful oxidant H2O2, converts NO2− back to 
 
 * Tang et al, 1999
 - Two truncated alpha defensins joined together posttranslationally and cyclised
+
+* T cell signalling and immune disorders (Wilkinson et al, 2005)
+
+
+* Ca signalling TCR BCR (Feske, 2007)
+- SOCE store operated calcium entry through CRAC calcium release activated calcium
+- TCR -> ZAP70 and LCK -> LAT -> PLC\gamma1
+- binding of chemokine receptors -> PLC\beta.
+- PLC\beta and PLC\gamma1 -> IP3 and DAG. IP3 -> IP3R in ER -> Ca wave, decrease in ER Ca sensed by STIM1, activates CRAC.
+- Ca2+-> calcineurin -> NFAT
+
+- SOCE mutations -> SCID
+- XLA - Btk involved in enhancing PLC\gamma2 (B cells) activation, required for sustained IP3 production
+- CVID common variable immunodeficiency - hypogammaglobulinaemia but normal B cell numbers - due to defect in class switching
+- Wiscott Adrich syndrome - WASP protein regulatory protein of F actin assembly, reduced Ca entry and so reduced NFAT
+
+
+* Signalling TCRs BCRs (Brownlie and Zamoyska, 2013)
+- Two different theories on TCR triggering
+- Conformational change model :: Binding of peptideMHC alters conformation of TCR and activates signalling
+- Lack of biophysical evidence on TCR structural changes
+- Live unstimulated T cells have signature ITAM residues of CD3 buried in membrane, released upon activation
+- Become available as substrates for LCK
+- Local lipid environment transitional changes?
+- Mechanosensing of torque from binding?
+- Kinetic segregation model :: TCR signalling triggered because TCR partitioned into areas of lipid membrane rich in LCK and not CD45
+- Segregation of molecules at immunological synapse, reasons unclear
+- Van der Merwe et al - exclusion of CD45 because extracellular domain much bigger than TCR, hence pushed away
+- But Transduce embryonic kidney cells with TCR machinery - concluded not due to molecular size but binding energy of TCR to peptide MHC complex generates exclusion force for transmembrane proteins with large or unligated extracellular domains
+

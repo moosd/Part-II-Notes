@@ -93,6 +93,15 @@ dismutation of O2− to the more powerful oxidant H2O2, converts NO2− back to 
 - Two truncated alpha defensins joined together posttranslationally and cyclised
 
 * T cell signalling and immune disorders (Wilkinson et al, 2005)
+Recent exciting
+studies have identified E3 ligases – c-Cbl, Cbl-b,
+GRAIL, Itch and Nedd4 – that control the balance
+between anergy and proliferation leading to
+autoimmunity (Ref. 180). In this manner, Cbl-b-
+deficient mice are resistant to anergy induction
+and develop a spontaneous systemic
+autoimmunity
+
 
 
 * Ca signalling TCR BCR (Feske, 2007)
@@ -109,15 +118,44 @@ dismutation of O2− to the more powerful oxidant H2O2, converts NO2− back to 
 
 
 * Signalling TCRs BCRs (Brownlie and Zamoyska, 2013)
+- Inside out signalling = signal from in cell to out eg icams expression
 - Two different theories on TCR triggering
+
 - Conformational change model :: Binding of peptideMHC alters conformation of TCR and activates signalling
 - Lack of biophysical evidence on TCR structural changes
 - Live unstimulated T cells have signature ITAM residues of CD3 buried in membrane, released upon activation
 - Become available as substrates for LCK
 - Local lipid environment transitional changes?
 - Mechanosensing of torque from binding?
+
 - Kinetic segregation model :: TCR signalling triggered because TCR partitioned into areas of lipid membrane rich in LCK and not CD45
 - Segregation of molecules at immunological synapse, reasons unclear
 - Van der Merwe et al - exclusion of CD45 because extracellular domain much bigger than TCR, hence pushed away
 - But Transduce embryonic kidney cells with TCR machinery - concluded not due to molecular size but binding energy of TCR to peptide MHC complex generates exclusion force for transmembrane proteins with large or unligated extracellular domains
+
+Classically, T cell signalling is described as going down
+from the TCR, via LAT, to activate the transcription fac­
+tors that are required for T cell proliferation and for the
+differentiation of effector function.
+
+It is now clear that signalling also branches sideways
+via multiple adap­or domains and incorporates actin
+polymerization and cytoskeletal rearrangements. Signals are propagated to
+membrane-associated molecules, such as integrins, via
+the recruitment of small GTPases to the plasma mem­
+brane. In turn, integrin engagement influences the per­
+sistence of microclusters containing signalling molecules
+and, consequently, the extent of signal propagation. The
+regulation of these signalling cascades sets the threshold
+of activation of naive T cells so that they are not activated
+by self-peptide–MHC complexes and respond only to for­
+eign-peptide–MHC complexes. Effector T cells are more
+sensitive to stimulation than naive T cells 79 and, therefore,
+have an increased potential for self-reactivity and to cause
+immune pathology. Negative regulators such as PTPN22
+are upregulated in effector T cells to counteract this
+increased sensitivity to activation and to maintain immune
+tolerance. By contrast, T Reg cells actively suppress PTPN22
+upregulation and are even more effective suppressor
+cells when they lack PTPN22 expression entirely.
 

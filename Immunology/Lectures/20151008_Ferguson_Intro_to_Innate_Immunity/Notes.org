@@ -1,5 +1,5 @@
 #+TITLE Introduction to innate immunity
-#+AUTHOR Dr Brian Ferguson, University of Cambridge, Department of Pathology)
+#+AUTHOR Dr Brian Ferguson, University of Cambridge, Department of Pathology
 #+DATE Thu 8 Oct, 2015
 bibliography:Refs.bib
 

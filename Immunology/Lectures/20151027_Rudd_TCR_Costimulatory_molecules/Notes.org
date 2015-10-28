@@ -1,0 +1,98 @@
+#+TITLE Costimulatory molecules
+#+AUTHOR Professor Chris Rudd, University of Cambridge, Department of Pathology
+#+DATE Tue 27 Oct, 2015
+bibliography:Refs.bib
+
+* Intro
+- Balance between activating enough to fight off infection
+- But not too much or suffer from autoimmune disease
+- CTLA4 -/- k/o leads to massive infiltration, mice die within 3 weeks
+- CD28 needed, but without CTLA4, response goes wild -> autoimmunity
+- (Alegre et al, 2001)
+
+* Simple Model
+- CD28 lowers response threshold on both resting and activated
+- CTLA4 increases response threshold, but expressed only after activation
+
+- Normally, ~20% of T cells die through apoptosis
+- CD28 keeps them alive
+- (Rudd and Schneider, 2003)
+- YMNM motif
+
+* CTLA4 vs CD28
+- CTLA4 is mostly intracellular molecule, if some on cell surface, is rapidly internalised
+- CD28 -> NFkB -> proinflammatory
+- Lew Cantley - PI3K
+- PI3K -> lipids -> mTOR?
+- PI3K -> PDK1 -> AKT -> p-BAD (antiapoptotic pathway)
+
+* CTLA4
+- CTLA4 -> Tcons (conventional) -> low, intracellular expression
+- Tregs -> constitutively express CTLA4 on surface - needed for function
+- binds to CD86 (B7) with 50 fold higher affinity than CD28
+- at immunological synapse, CTLA4 outcompetes CD28
+- cell cycle arrest
+- unlike CD28, able to bind to different ends of CD80/86
+- AVIDITY EFFECTS - outcompetes
+- CTLA4 -/- mice (Tivol et al, 1995)
+- die by 3 weeks, infiltration
+- redundancy? Surprising that we rely so much on a single molecule...
+- SNPs -> CTLA4 mutations in and around gene, linked to autoimmune disease
+- CTLA4 signalling not clear
+- D3 lipids from PI3K
+- activates pro-survival pathway (and prevents proliferation)
+- In order to keep anergic/stasis, keep alive! May need later!
+
+- SHP2 - phosphatase dephosphorylates tyrosine residues- not clear, no binding site
+- If does do this, must do it indirectly
+- Aside from this, model is that it could dephosphorylate TCR ITAMs preventing signalling
+
+- Cytoplasmic tails also needed! Ko of extracellular bit does not save mice
+- Cell intrinsic factors
+
+- Take bone marrow from CTLA4 -/-, into SCID mouse, leave for 1/2 months, disease
+- Add a few, not many, CTLA4 +/+ cells along with CTLA4-/- bone marrow, saves mice, completely normal
+- Tregs somehow regulate phenotype?
+
+- CTLA4-/- on FoxP3 +ve background
+- only on Tregs
+- Delay in disease, 7/8 weeks -> dead
+
+- No negative signal? Strong positive signal leading to a negative effect?
+- Reverse stop signal model (Rudd)
+- Stop signal (peptide) -> to ensure good contact
+- CTLA4 limits contact with APCs
+- Hence inhibitory but no negative signal
+- Contact with cell intrinsic (reducing motility) and extrinsic (competition) effect
+
+- Effects only seen in conventional cells
+- Function of CTLA4 -> take Tregs with lots of constitutive expression of CTLA4 and an APC
+- Counterstain for CD80/86
+- Sucks it up, competes for ligands from CD28
+- Hence Tregs suck up APC costim molecules, ligand not available to activate normal T cells, so these may enter anergy rather than activate or not stim TCR at all
+
+* Treatments
+- Immune Checkpoint modulation
+- GVAX - like adjuvant, GM-CSF expression
+- Ineffective by own in humans
+- GVAX + antiCTLA4 = synergy, great success
+- (Hodi et al, 2010)
+
+- CTLA4 + binding to CD80/86 on APC cause APC to secrete IDO
+- acts on tryptophan to create immunomodulatory metabolites
+- IDO secreted by tumours too in their microenvironment
+
+- exhausted T cells - dont secrete much cytokines
+- Dont kill much
+- Block PD-1, reinvigorated immune response
+- Eliminates virus
+- PD1 signalling straightforward - ITIM/ITSM -> binds SHP1/2
+- CTLA4 acts on induction phase of response
+- PD1 acts on cytolytic phase
+
+- Ipilimumab to clinical study - Postow et al, 2015
+- Pumbro = anti PD1 antibody, vs chemo-therapy
+
+* Future
+- All coreceptors!
+- Especially those expressed on Tregs!

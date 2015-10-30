@@ -1,0 +1,122 @@
+#+TITLE Cancer phenotypes: interogating by genetics and drugs
+#+AUTHOR Edinburgh CRUK
+
+* Intro
+- FAK function - scaffolding, polarisation and invasion
+- Focal Adhesion Kinase
+- TUmour immune evasion
+- Imaging cancer phenotypes in vivo
+
+* Src
+- Src (Rous sarcoma) - tyrosine kinases and cancer - lot of history
+- Src has a number of substrates, one is FAK
+- Drug targets :: kinase oncoproteins
+- cancer drivers - what are they driving?
+- Is inhibiting a kinase activity a good thing if they are molecular scaffolds?
+
+* Initial signalling
+- Growth factor receptors -> cSrc phosphorylates FAK (next to integrin dimers)
+- -> Adhesion dynamics -> cell migration, growth + survival
+
+* Involved in cancer?
+- Conditional flox alleles (LoxP sites)
+- (Lahou et al, PNAS, 2011)
+- (Ashton et al, 2010)
+- (McLean et al, 2004)
+- in skin, breast, intestine, prostate - FAK knockoput impairs PROGRESSION
+- Could not progress to malignant phenotype
+- No of regenerating crypts -> no FAK
+- But required for tissue homeostasis, recovery after DNA damage
+
+* Functional integration between Wnt and integrin pathways through FAK
+- Mutate APC to induce cancer
+
+- E-cadherin <-> \beta-cadherin ---(Apc ko) --> nuclear \beta catenin -> Myc
+- Myc -> FAK <-> \beta 1, \beta 3 integrins
+- Skin - squamous cell carcinoma?
+
+* FAK activation
+- (Frame et al, Nature Review Mol Cell Biol, 2010)
+- FAK binds transcription factors in a kinase dependant manner
+- e.g. Runx1
+
+- Mutant FAK impairs FAK-FERM-RACK1
+- Cant then polarise cell
+- If space made in monolayer, staining Golgi, FAK causes cells to turn towards it
+- Actin regulation
+- FAK mutation - impairment in ability to turn to stimulus
+
+- Parenteral can migrate to ECF/serum
+- FAK -/- cannot
+- (Serrels et al, 2010)
+
+- Building nuclear complexes
+- RACK1, Arp2/3, Eps8
+
+* FAK is involved in
+- Actin assembly
+- Cell polarisation
+- Directional migration
+- Chemotactic cancer cell invasion
+- Drives invasion and metastasis?
+
+* Stress activator
+- David Shlaepfer - stress signals activate FAK
+- Also oncogenic stress? Elevated FAK in nucleus
+- Binds p53
+- FERM domain needed to translocate to nucleus
+
+* Angiogenesis and inflammation - genes regulated by FAK
+- FAK -/- cells injected for primary immune response
+- Challenged with wt cells
+- Memory retained, wt cells do not grow after challenge
+- (Serrels and Lund, 2015?)
+- FAK expressed, T cell exhaustion phenotype seen
+
+* How does FAK cause an immunosuppressive environment?
+- Increase in Tregs
+- Does depletion of CD25+ cells (Tregs) help?
+- Results in ceels behaving like FAK deficient tumor cells
+- So FAK somehow induces Treg formation
+- Hence why CD4+ depletion leads to tumour clearance
+- Tregs keep Tc cells at bay, FAK manner
+- Hence CD8:Treg ration good marker of outcome
+
+* FAK increases recruitment/induction of Tregs - how?
+- FAK upregulates chemokine receptors
+- Expression of cognate receptors seen to increase in tumour infiltrating Tregs
+- CCL5 knockdown -> key player in regulating Treg influx
+
+* Mechanism
+- FAK -> nuclear FAK mediates CCL5 transcription and immune evasion
+- verastem FAK inhibitor - VS4718
+- (or block CCL5?)
+- effector CD8:Treg ratio - prognostic marker for tumour outcome
+
+* FAK regulates tumour environment
+- constraining T cell mediated anti-tumour response
+- Serendipidy :: FAK kinase inhibitors act as immunomodulatory agents
+
+* Surprises
+- FAK controls chemokine transcription
+- Clinically relevant FAK kinase inhibitors -> clearance
+- FAK scaffolding transcriptionally regulates complexes on chromatin
+- FAK -> solidifies at membrane precipitation, hence misinterpretation of images showing foci?
+
+* Summary
+- Actin polymerisation, cell spreading
+- Adhesion, migration, invasion
+- Survival response to stress
+
+* Questions
+- Src tethered by FAK
+- w/o FAK, Src toxic, removed by autophagy
+- FAK block - block angiogenesis as major effect?
+
+* Imaging
+- Raman (CARS) - label free imaging
+- 2 photon (2P-EF) imaging
+- (Chau et al, 2014)
+- Label free intravital imaging - (Brunton and Lee)
+- Breast cancer to ensure removal of tumour cells
+- Drug imaging to make sure drug is reaching target

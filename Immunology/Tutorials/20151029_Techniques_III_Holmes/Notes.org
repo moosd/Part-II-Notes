@@ -1,0 +1,104 @@
+* Protein-protein interactions
+- What is the pathway?
+
+* Membrane proteins
+- Associate with one another
+- Not soluble in water based solution
+- Hence, use detergents to form micelles
+- Which one? Hydrophobic and hydrophilic tails may disrupt structure/partners
+- Try out lots of different detergents to see if it makes a difference to precipitation pattern
+
+- Co-immunoprecipitaion :: What other proteins does it bind with?
+- Micelles :: detergents can break protein complexes when solubilising them!
+- Radioactive labelling - S-35 methionine
+- Cysteine and methionine only two amino acids with sulphur, methionine more common
+
+- Sphephodex surface with Staph auerus protein A - binds IgG Fc
+- Ab to TAP
+- Centrifuge out at low speed
+
+- Then, SDS-PAGE, autoradiograph
+- TAP1 and TAP2 must form stable heterodimer before binding to MHC class I (+tapasin)
+- (Ortmann et al, Nature, 2014)
+
+* Cytoplasmic proteins
+- Mash cells mechanically
+- Centrifuge down membrane components
+- Epitope tagged proteins
+- Add Tag sequence - dont need Ab to protein, just to tag, but need to genetically modify it
+- Immunoprecipitation with Ab
+- Con :: What if it binds where protein partner also binds?
+- Con :: Non specific interaction a problem in protein-protein pulldowns
+
+- Multiple copies of Tag introduced, because mAbs to tag are weak in affinity 
+- Not efficient precipitation with one copy of tag
+
+- Lots of non specific bands
+
+* How to find out what the proteins are?
+- Digested proteins bands with trypsin, used TANDEM MASS SPECTROMETRY
+- (Steen and Mann, 2004)
+- Con :: Only detects ~25% of proteins
+- Accurately measures m/z ratio
+
+- Ratio of C12:C13 -> binomial distribution
+- Difference in magnitude between peaks should be 1 Dalton
+- 0.5Da means 2 charges on peptide
+- 1/3Da = 3 charges, etc
+- So multiply up to get true mass
+- If a peak bigger than original mass, actually because charge is lower (eg 1+)
+
+* Then, confirm by further co-IP
+- Probe in Western blot
+- do IP, do washing to remove non specific binding, protein binding partner washed off too!
+- Low affinity interactions, use a cross linking agent (e.g. DSS [disuccinimidyl suberate])
+- Links proteins close together in physical space together covalently
+- Protein not labelled, IL2 labelled (Sharon et al, Science, 1996)
+
+- To make protein crystals, must get high protein concs!
+
+* Surface plasmon resonance
+- Also called biocor
+- Laser through prism, metal surface reflects it, detector
+- Angle of minimum reflected intensity changes based on mass on top of metal (refractive index changed)
+- Measures addition of mass, can do it in a flow system
+- See video by GE Healthcare Life Sciences
+- Pro :: works whatever colour of sample itself since light does not pass through sample
+- Useful because receptor-ligand on cell surface is weak
+- In real systems, individual molecule affinities do not need to be high
+- Molecules close together, hence cell to cell contact area small, apparent conc high
+- in 3D box, conc will be diffuse and low, so lab conditions dont favour these things to be seen
+- Previous solution - Multimerise them - prevents measurement of true affinity
+- Con :: need good negative control - significant signal from no binding
+- Typical MHC peptide interaction only 7 secs (But the true situation, they react in a different way!)
+
+- Con :: SPR only used when can purify one component (onto a surface)
+- Impure sample in flow - wont know what is binding
+
+* FRET
+- Protein-protein interactions in LIVING cells
+- Fluorescence resonance energy transfer
+- Fluorescence out of acceptor is different than from donor
+- Need overlap of excitation spectra of acceptor and donor
+- Want to excite at wavelength of donor
+- Measure at acceptor
+- But, overlap - must correct for this
+- Need high level of expression of partner
+- Dynamic - can see if different ligands bind
+
+* Measuring concentrations of proteins
+** WESTERN BLOTS
+- Con :: Not very reliable
+- Con :: in enzyme linked chemiluminescence, linear range very small - cant quantify very well
+- Dilute protein and measure absorbance
+- Can change amount of protein a lot with very little change in signal
+- Can tell there is more, but not there is 3x more
+- Con :: Antibodies not always what they say they are...
+- Be very careful about specificities of antibodies!
+
+** Mass spec
+- For relative concentrations
+- Take advantage of stable isotopes (C13)
+- Label amino acid precursors
+- SILAC (stable isotope labelling of amino acids in culture)
+

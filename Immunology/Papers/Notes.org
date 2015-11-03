@@ -13,7 +13,7 @@
 
 * Lectures
 - DNA Vaccines
-- GC increase over time (TODO ask about this and Shiga)
+- GC decreases over time (TODO ask about this and Shiga)
 
 * Pluddemann, 2011
 - F tularemia modules macrophage M1 vs M2

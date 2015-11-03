@@ -1,0 +1,12 @@
+* Setting up an MEF cell strain
+
+- Remove uterine wall with forceps
+- Cut off head (by law)
+- Take snip of tail, wash in PBS, put into Eppendorf for genotyping
+- Open abdominal wall
+- Extract and discard red organs (liver, spleen, heart, kidneys) - dont want these to grow
+- Mash up remains
+- 1ml trypsin+EDTA+DNase mixture, put into tube
+- Incubate for 15 mins at 37oC in CO2 incubator
+- Mix with 12ml DMEM and incubate to grow cells out
+

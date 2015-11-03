@@ -1,0 +1,9 @@
+* Why p53 dependant mechanism in brain but not body?
+* Model on a computer the cell divisions? 1d -> cell number?
+* Explain models?
+* Summary slides bolding current topic
+* general -> specific structure for presentation
+* Animation - fading, shrink + expand
+* Data visualisation techniques?
+* Centriole markers - aptabodies?
+* mitotic delay? Cell strains?

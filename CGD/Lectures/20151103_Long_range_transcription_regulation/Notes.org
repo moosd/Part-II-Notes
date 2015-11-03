@@ -1,0 +1,126 @@
+#+TITLE Long-range regulation of Gene Transcription
+#+AUTHOR Dr Andy Bannister, Dept of Pathology
+#+DATE Tue 3 Nov, 2015
+
+* Slide 1, 2
+- No notes taken
+
+* Slide 3
+- lacZ - score for expression
+- brain-specific promoter - insertion effects
+- Kidneys enhancer -> position effects
+- Heterochromatin wants to spread if nothing is stopping it
+- Each time cell divides, stochastic silencing -> heterochromatin
+
+* Slide 4
+- No notes taken
+
+* Slide 5
+- H3K4me1 - monomethyl
+- H3K27ac - acetyl
+- eRNAs - enhancer RNAs, can integrate with mediator complex
+- LOOPING
+
+* Slide 6
+- Super enhancers are very large enhancers
+- Cell identity genes associated with them
+- BRD4 - coactivator
+
+* Slide 7
+- Peak much broader on tissue specific genes
+- Can decomission superenhancers to recomission new superenhancers
+- Subject to position effects!
+
+* Slide 8
+- Silencers and enhancers subject to DNAse digestion, hence they are in open configuration
+
+* Slide 9
+- ChIP experiment
+- Chicken erytrocytes are nucleated
+- qPCR to find acetylated lysines
+- Variable but high levels seen in graph - hyperacetylated domains
+- Hyperacetylated means transcriptionally competent but not necessarily active
+- DOMAIN BOUNDARIES
+
+* Slide 10
+- LCR is hyperhypersensitive
+- Always expresses genes at right place and right time, no position effects
+
+* Slide 11
+- need a FULLY INTACT LCR
+
+* Slide 12
+- All cell CD2 in top graph
+- Deleting HS3 in mid graph - varying expression - position effect variegration, integration site determines expression levels
+- LCR functions to keep in open configuration
+
+* Slide 13
+- Stochastic silencing
+- Depends upon how much it has been able to spread
+
+* Slide 14
+- Simple phenotype to follow
+
+* Slide 15
+- No notes taken
+
+* Slide 16
+- 2 gene copies = wild type coat colour
+- More -> Darker coat and eyes
+- Bigger mice too - tyrosinase has a metabolic link
+- Even expression, not patchy. Deleting LCR leads to patchy coat colour.
+
+* Slide 17
+- SAR = scaffold attachment region
+- If one end of molecule is fixed, easy to supercoil it
+
+* Slide 18
+- Protects encroachment of heterochromatin
+- By having factors that bind to them
+
+* Slide 19
+- CTCF shields enhancer from IGF gene
+- ICR = imprinting control region
+- Non binding of CTCF due to methylation, enhancer acts on IGF
+- Boundary elements on affecting imprinting
+
+* Slide 20
+- H1 = enhancer for anterior portion of embryo
+- IAB5 = enhancer for posterior portion of embryo
+- Fab7 as insulator element
+- 2xPE = knockout one enhancer
+
+* Slide 21
+- Enhancer in one loop cant talk to protein in another look
+- Can dynamically open/close loops?
+
+* Slide 22
+- Enhancers can only work on promoters on same domain
+- Does not kill E activity - important!
+
+* Slide 23
+- Lots of evidence for looping from promoter/enhancers
+- Transcriptional start end sites also loop?
+- Each pixel represents a 1Mb locus with another 1Mb locus
+- Intensity proportional to number of reads
+
+* Slide 24
+- Interactions have a border
+- High affinity binding sites
+- Weak border, some contact seen between TADs
+
+* Slide 25
+- No notes taken
+
+* Slide 26
+- One model with RITS - most evidence
+- Feedback mechanism - transcription, short RNAs made
+- Blocking transcription blocks heterochromatin formation
+- Another model with less evidence - without RITS, centromeric repeats = bidrectional
+
+* Slide 27
+- A close to centromere, no LCR - hence position effects
+- Stochastic silencing
+
+* Slide 28
+- First two articles important, third is experimental paper with hi-C experiment

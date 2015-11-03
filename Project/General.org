@@ -7,3 +7,6 @@
 * Data visualisation techniques?
 * Centriole markers - aptabodies?
 * mitotic delay? Cell strains?
+
+
+* Glycerol to prevent tissues freezing at -20oC

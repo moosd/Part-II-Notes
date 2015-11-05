@@ -1,0 +1,136 @@
+* Aim of B cells
+- B cell terminally differentiated upon stimulation with antigen
+- Loses BCR expression, produces soluble antibody
+- Antibody production is the goal
+
+* Signalling
+- BCR no signalling capacity of itself
+- Have to associate with Ig\alpha (CD79a) and Ig\beta (CD79b) for signalling
+- These have ITAM domains (immunotyrosine activation motif)
+- Allows them to recruit some kinases and propagate signal - esp Syk -> PI3K -> PIP3
+- Drives various transcriptional factors
+
+* Additional signals modulate B cell activation threshold
+- Can recognise de novo antigen - no need to be chopped up and put up on MHC
+- Hence much easier to trigger than T cells, and can be slightly promiscuous
+- Difficulties for autoreactive
+- Hence expresses CD19, CD21 (ComplementR2) (co-receptors) - ligated, then can active PI3K
+- Lowers activation threshold
+- Gives context - seeing antigen AND complement activated = probably trouble
+- Self antigen? Probably complement not activated, hence protects
+- TLRs
+
+* BAFF
+- BAFF-R (B cell Activating Factor of the TNF family) (also BLISS - B Lymphocyte Stimulator)/BCMA
+- BAFF binds to two receptors and promotes survival and activation of B cells
+- Made a mouse overexpressing BAFF - way too many B cells in spleen
+- Version of mouse lacking T cells too - see same thing
+- Give B cells enough of T cells, by giving BAFF, can get rid of T cell help
+- Autoimmune diseases with higher levels of BAFF -> more B cells activated perhaps inappropriately
+
+- T cells express CD40L, CD40 also another signal
+
+- Paradigm :: WHERE THERE IS AN ON SWITCH, MUST HAVE AN OFF SWITCH
+- Fc\gammaRIIB - if antigen bound to IgG (immune complex), can cross link complex to 
+- has ITIM in cytoplasmic domain (can recruit phosphatases to switch off signalling)
+- Can cause B cell death to get rid of autoreactive B cells
+- Dont want B cell to keep going on and on and making antibody
+- Important for terminating antibody responses
+
+- Antigen recognition - antigen via BCR doesnt necessarily mean it will be activated - context in which it is engaging antigen - danger signals, complement activation, or inhibitory, etc
+
+* B cell response to Ag takes place in secondary lymphoid organs
+
+* How do B cells get access to antigen?
+** Conduit system (core of collagen fibre surrounded by ECM proteins)
+- Core, can transport small antigens < 70kDa
+- Small antigens subcutaneous, can get into B cell follicles this way - efficient way of distributing antigen
+** Via subcapsular sinus macrophages
+- The flypaper of lymph node - anything coming in through lymphatic fluid
+- Important in response to viral infections
+- vsv - vesicular stomatatis virus
+- normally, short wavelength gets scattered in short distances - can only see up to 10microns
+- long wavelength - 2 photon microscopy - can look in real time at live animals
+- Subcapsular Sinus macrophages allow B cells to access viral antigen and immune complexes
+- B cells can actually shuttle antigens from scs to follicular dendritic cells (by complement receptor)l
+
+** From dendritic cells
+- High endothelial venules (from blood to lymph node)
+- Resident dendritic cells waving arms around
+- migratory DCs - come in from tissues
+- Position themelves next to high endothelial venule
+- Make model mouse where all B cells only recognise one model antigen - HEL
+- In lymph nodes, number of efficient ways to get access to antigen
+
+** Via marginal zone in spleen
+- Marginal zone B cells - can pick up antigen and migrate to follicle
+- Mice, injected Iv with antigen can stain in blue colour
+- Mouse with B cells lacking CXCR5 receptor, no more migration - B cells responsible for shuttling of antigen
+
+* T-dependant antibody responses
+- Tymus dependant
+- athymic mice (mutation in ribosomal protein SA or 22q11 deletion)
+- Sort of antigens must be protein antigens
+- Cognate interaction between T cells and B cells (relationship between what is recognised by both)
+
+- Pre-T follicular helper cells - fate becomes to live in follicles
+- B cell gets such help, two possible outcomes
+- Plasmoblast (short lived) - in extracellular space, making lots of antibody quickly - rapid antibody response
+- Second fate -> Germinal centre response, back into follicle, somatic hypermutation and class switching
+- -> Higher affinity, long lived plasma cells
+
+- Summary four outputs from a TD response
+
+** Plasmablasts in the extrafollicular foci
+- Formation of EF plasmablasts also need T cell help
+- using HEL with medium affinity (switch HEL mice)
+- T cells lacking factor Bcl6 (key factor for differentiation of Tfh)
+
+** Germinal Centre B cells
+- Exciting, higher affinity receptor
+- Interaction at T-B border required
+- Make a competition - which of T cells will interact with B cells, look at interaction times
+- wild type -> long interaction
+- SAP knockouts - rubbish interactions, doesnt let them properly activate B cells - negligible GC formation
+- somatic hypermutation - AID
+- New affinity, must now test if better.
+- FDC sequester antigen to allow BCR testing
+- FDC is a stromal cell - dendrites hence dendritic cells - antigen bank
+- No FDC -> GC response compromised
+- B cells then compete against each other for T cell help
+- Interaction - contact dependant and cytokine help for B cell
+- Deliver antigen by DEC205, an force internalisation of antigen without BCR
+- With antigen, have preferential access to T cell help, and so expand and form more of germinal centre
+- IL21 - KEY
+- Generated by Tfh
+- Can use it therapeutically - may try blocking this cytokine
+- From light zone back to dark zone (more H&E stain - B cells dividing)
+- new BCR
+- Goes back to light zone to test antibodies
+- Round and round
+- Affinity maturation requires death
+- transcriptomics to show dark zone B cells -> cell cycle genes upregulated
+
+** Memory B cells (GC)
+- Long lived, lower activatory threshold due to much higher affinity
+- Phenomenon of vaccination
+
+** Long term antibody (Bone marrow derived plasma cells)
+- Need to get back to their niche
+- Need to adapt for long lifetime
+- Germinal centre exit cells, about 10% finds home in bone marrow niche
+- CXCR4 upregulated, responds to CXCL12 made by bone marrow
+- Limited niche - competition
+- Get immunised, pushed out old plasma cells otherwise they'd build up and up!
+- Initially thought bone marrow stromal cells made all these factors, but recently shown other cells (neutrophils, eosinophils,etc) make some of these factors
+- Immunise mice lacking eosinophils -> Much lower levels of APRIL and much lower number of BM plasma cells
+** Long life
+- Transcription factor is BLIMP1 encoded by prdm1
+- Role (or one of) is to transcribe genes like XBP1 (ER stress control)
+- Plasma cell is protein factory
+- This might be hazardous - misfolded protein risk high
+- XBP ko -> far fewer plasma cells surviving
+- Plasma cells sensitive to build up of misfolded proten
+- Proteosome (get rid of misfolded proteins) inhibitor (bortezomib) -> used in multiple myeloma (malignancy of plasma cells)
+- Interest in transplantation
+- Use bortezimib - destroy antiHLA Abs that destroy allografts

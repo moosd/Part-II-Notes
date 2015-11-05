@@ -16,7 +16,7 @@
    + Locus heterogeneity :: Same phenotype from many loci - epistasis
    + Allelic heterogeneity :: Different mutations in different patients, same phenotype
    + Clinical heterogeneity :: Mutations in same gene -> two phenotypes - HPRT -> gout or Lesch-Nyhan syndrome (severe mental retardation)
-- Pleitropy - different - same gene mutation, multiple effects in same organism
+- Pleiotropy - different - same gene mutation, multiple effects in same organism
 
 - giuemsa staining stains low gc areas dark
 - mitochondrial genes as pseudogenes in nuclear dna

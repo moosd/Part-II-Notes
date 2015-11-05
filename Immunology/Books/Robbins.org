@@ -1,0 +1,101 @@
+- DNA broken down to uric acid which is sensed
+- erythema - redness from vasodilation
+- increase in permeability due to contracting endothelium - histamine
+- 3 chemotactic gradients - cxcl8, complement (c5a) and arachidonic acid (ltb4)
+
+- lipoxins supress inflammation, intermediates made by leukocytes, finished by platelets
+- very large increases in vasc permeability allow fibrinogen to pass out of blood
+- characteristic of lining of body cavities
+
+- histiocytes = phagocytes in lymph nodes
+
+- fever = pge2
+
+- acute phase proteins - crp, serum amyloid a, fibrinogen
+- fibrinogen binds to red cells, causes them to form stacks (rouleaux) that sediment more rapidly - hence erythrocyte sedimentation rate test for testing for inflammatory response by any stimulus
+
+
+- liver - canals of Hering - progenitor cells for when hepatoytes cannot relicate
+- 90% of liver can replicate
+- hepatocyte regeneration - priming by il6 from kupffer cells to prime parenchymal cells to receive and respond to growth factor
+- growth factor phase - HGF and TGF-\alpha produced by many cell types act on primed hepatocytes
+- few hours to reenter cell cycle
+- Wave of hepatocyte regeneration followed by replication of nonparenchymal cells
+- Termination phase, hepatocytes return to quiescence
+
+
+- antiphospholipid syndrome - false +ve test for syphilis because antigen bound on cardiolipin
+- libman-sacks endocarditis - sterile vegetations w/ lupus
+- nonbacterial thrombotic endocarditis
+
+- the bends named after 1880s then popular womens fashion pose, the Grecian bend
+- people arched their backs in the same way
+- more chronic - caisson disease named for pressurized vessels used in brigge construction
+- persistence of gas emboli in the skeletal system leads to multiple foci of ischemic necrosis
+
+- red infarct in testicular torsion
+
+- polycythemia vera - neoplasm with too many rbcs - phlebotomy
+
+- Budd-Chiari syndrome - occlusion of hepatic veins - triad of abdominal pain, ascites, liver enlargement
+- primary - thrombosis
+- secondary - outside structure compressing - e.g. tumour
+
+- lupus anticoagulant - anticoagulant in vitro, procoagulant in vivo
+
+- shock - state of systemic tissue hypoperfusion, due to reduced cardiac output, and/or reduced effective circulating blood volume
+
+- acute spinal or brain injuries can lead to neurogenic shock
+
+- some congenital diseases not genetic - congenital syphilis
+- some genetic diseases not from birth - e.g. huntingdons
+- vitamin d resistant rickets - dominant X linked
+
+- exact multiple of haploid number of chromosomes (23) = euploid
+- not this = aneuploid
+- non disjunction and anaphase lag
+
+- ring chromosomes
+- inversions compat with life
+- isochromosome formation - most ommonly long arm of X - i(X)(q10)
+
+* Downs
+- Trisomy 21
+** Not dependant on maternal age
+- partial trisomy 21 (translocation)
+- mosaic trisomy 21 (non disjunction during early embryo)
+
+* Turners
+- Loss of entire X chromosome
+- isochromosome i(X)(q10)
+- mosaic
+- markedly distended lymphatic vessels -> cystic hygroma -> webbed neck
+
+- fetal ovaries develop normally early, but absence of second X leads to accelerated loss of oocytes, completed by 2 years
+- menopause before menarche
+
+* Fragile X
+- oogenesis can amplify triplet repeat
+- hence more likely in grandsons than brothers of transmitting males
+- premutation in grandfather amplified to full mutation in mother
+
+- leber hereditary optic neuropathy = mitochondrial disease
+ 
+- FISH
+- mutiple ligation dependant probe amplification - hybridisation, ligation, amplification
+   + readily detects deletions affecting one or more exons that would escape PCR and conventional DNA sequencing
+
+- detect epigenetic changes - sodium bisulphite to convert unmethylated cytosine to uracil
+- methylated are protected from the change
+
+* Immune pathology
+- Abs against dsDNA and Smith antigen = SLE
+- SLE drug induced by d-penicillamine, hydralazine
+
+- graft - immunosupression - reactivation of polyoma virus - latent infection of lower genitourinary tract, infects renal tubules, 
+
+- HIV can only replicate in active T cells, not naive T cells which have APOBEC active (but vif tries to counteract it)
+- Reed-Sternberg cells in Hodgkin lymphoma
+
+- Congo red to stain for amyloidosis
+- Bence Jones proteins = Ig light chains

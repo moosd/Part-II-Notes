@@ -1,162 +1,211 @@
 * Martin-Serrano and Neil, 2011
- - Virological synapse. ESCRT
- - Restriction-modification, crispr/cas, abortive infection
- - Vpu against tetherin in HIV
+    - Virological synapse. ESCRT
+    - Restriction-modification, crispr/cas, abortive infection
+    - Vpu against tetherin in HIV
 
 * Stern and Sorek, 2010
- - Van Valen 1973 Red Queen Hypothesis - "Now see, here, it takes all the running you can do to stay in the same place. If you want to go somewhere, you need to run twice as fast as that!"
-   + Originally predator-prey, must keep evolving to stay same fitness, now host-parasite
- - Immune evolve to defeat disease vs need parasites to prevent autoimmune
- - Abi = Toxin-Antitoxin systems like mazEF and hok-sok
- - Glycosylated to avoid restriction modification systems
- - Behaviour of defence mechanisms as selfish mobile elements - RM (RM systems destroy invading RM systems, attempts to lose RM system -> host death and assoc with phages, transposons, etc) and Abi
-
+    - Van Valen 1973 Red Queen Hypothesis - "Now see, here, it takes all the
+      running you can do to stay in the same place. If you want to go
+      somewhere, you need to run twice as fast as that!"
+        + Originally predator-prey, must keep evolving to stay same fitness,
+          now host-parasite
+    - Immune evolve to defeat disease vs need parasites to prevent autoimmune
+    - Abi = Toxin-Antitoxin systems like mazEF and hok-sok
+    - Glycosylated to avoid restriction modification systems
+    - Behaviour of defence mechanisms as selfish mobile elements - RM (RM
+      systems destroy invading RM systems, attempts to lose RM system -> host
+      death and assoc with phages, transposons, etc) and Abi
 * Lectures
- - DNA Vaccines
- - GC decreases over time (TODO ask about this and Shiga)
+    - DNA Vaccines
+    - GC decreases over time (TODO ask about this and Shiga)
 
 * Pluddemann, 2011
- - F tularemia modules macrophage M1 vs M2
- - RSV promotes repair at site of infection
- - Immunity related GTPases induced by ifn\gamma accumulate in in parasitophorous vacuole of toxoplasma gondii destroying vacuole and parasite
- - CD200/CD200R negatively regulates TLRs, NLRs and inflammasomes, SOCS (suppressors of cytokine synthesis) help limit tissue cell injury
+    - F tularemia modules macrophage M1 vs M2
+    - RSV promotes repair at site of infection
+    - Immunity related GTPases induced by ifn\gamma accumulate in in
+      parasitophorous vacuole of toxoplasma gondii destroying vacuole and parasite
+    - CD200/CD200R negatively regulates TLRs, NLRs and inflammasomes, SOCS
+      (suppressors of cytokine synthesis) help limit tissue cell injury
 
 * Pauldan and Bowie, 2013
- - AT rich stem loop regions (Sharma et al 2011) activate immune resp (P falciparum genome)
- - dnase ii ko -> amnaemia,death, rescued by ko of ifn receptor but tnf->polyarthritis. Embryonic survival and no arthritis when dnase ii and sting ko'd
+ - AT rich stem loop regions (Sharma et al 2011) activate immune resp (P
+   falciparum genome)
+ - dnase ii ko -> amnaemia,death, rescued by ko of ifn receptor but
+   tnf->polyarthritis. Embryonic survival and no arthritis when dnase ii and sting ko'd
 
 * STING (Pauldan and Bowie, 2013)
-STING resides in the ER either as a monomer or more probably as a dimer (shown) in an autoinhibited state and is “activated” by intracellular DNA, CDNs, and membrane perturbation. This leads to formation of an active STING dimer and mobilization to perinuclear vesicular structures where the C-terminal domain of STING serves as a platform for TBK1-mediated phosphorylation of IRF3.
+  STING resides in the ER either as a monomer or more probably as a dimer
+  (shown) in an autoinhibited state and is “activated” by intracellular DNA,
+  CDNs, and membrane perturbation. This leads to formation of an active STING
+  dimer and mobilization to perinuclear vesicular structures where the
+  C-terminal domain of STING serves as a platform for TBK1-mediated
+  phosphorylation of IRF3.
 
-(B) Based on the current literature, several models for STING “activation” are possible. (1) DNA is sensed by a DNA sensor that initiates downstream signaling involving production of a second messenger (cGAMP) that binds to STING, causing a conformational change essential for STING to recruit TBK1. (2) cGAS is the initial sensor of DNA and is activated by DNA binding to produce cGAMP, thereby triggering STING activation as in (1). (3) DNA sensors directly interact with STING upon DNA binding and thereby stimulate the conformational change required for STING to recruit TBK1. (4) STING “activation” involves other mechanisms such as redox-regulated covalent linkage of the monomers (Jin et al., 2011). (5) STING binds DNA directly and stimulates downstream signaling (Abe et al., 2013).
+  (B) Based on the current literature, several models for STING “activation”
+  are possible. (1) DNA is sensed by a DNA sensor that initiates downstream
+  signaling involving production of a second messenger (cGAMP) that binds to
+  STING, causing a conformational change essential for STING to recruit TBK1.
+  (2) cGAS is the initial sensor of DNA and is activated by DNA binding to
+  produce cGAMP, thereby triggering STING activation as in (1). (3) DNA
+  sensors directly interact with STING upon DNA binding and thereby stimulate
+  the conformational change required for STING to recruit TBK1. (4) STING
+  “activation” involves other mechanisms such as redox-regulated covalent
+  linkage of the monomers (Jin et al., 2011). (5) STING binds DNA directly
+  and stimulates downstream signaling (Abe et al., 2013).
 
 * Goubou et al, 2013
- - rig i -> 5'ppp
- - mda5 = molecular ruler, 2'o methylation of 5; cap as host marker,  (zust et al, 2011)
- - mavs = ips-1= cardif = visa
+    - rig i -> 5'ppp
+    - mda5 = molecular ruler, 2'o methylation of 5; cap as host marker,
+      (zust et al, 2011)
+    - mavs = ips-1= cardif = visa
 
 * Other stuff (Pucciarelli, 2013; Nutrients)
- - Nitroglycerin to blow up rock to create tunnels, also through derivative NO to open up biological tunnels (arteries)
+    - Nitroglycerin to blow up rock to create tunnels, also through
+      derivative NO to open up biological tunnels (arteries)
 
 * M tuberculosis escape (Flannagan et al, 2009)
- - IgG -> ITAM activates SYK kinases
- - Bacterial ESX secretion system
- - M tuberculosis has presence of Rab5A but effectors (EEA1 and hVPS34) not recruited
- - Hence, PIP3 does not accumulate 
- - cell wall lipoarabinomannan shed from live bacteria, spreads through endocytic network of cell prevents increase in Ca normally following phagocytosis, thought to activate hVPS34 through calmodulin 
- - also inhibits sphingosine kinase, which converts sphingosine to sphingosine-1-phosphate which promotes Ca2+ efflux from ER, impairing Ca2+ flux in cell
- - Also ZmpA blocks inflammasome
- - Also makes phosphatase SapM which hydrolyses PI(3)P depleting it from early phagosomes, preventing transition to late phagosomal and phagolysosomal stages
+    - IgG -> ITAM activates SYK kinases
+    - Bacterial ESX secretion system
+    - M tuberculosis has presence of Rab5A but effectors (EEA1 and hVPS34)
+      not recruited
+    - Hence, PIP3 does not accumulate
+    - cell wall lipoarabinomannan she'd from live bacteria, spreads through
+      endocytic network of cell prevents increase in Ca normally following
+      phagocytosis, thought to activate hVPS34 through calmodulin
+    - also inhibits sphingosine kinase, which converts sphingosine to
+      sphingosine-1-phosphate which promotes Ca2+ efflux from ER, impairing
+      Ca2+ flux in cell
+    - Also ZmpA blocks inflammasome
+    - Also makes phosphatase SapM which hydrolyses PI(3)P depleting it from
+      early phagosomes, preventing transition to late phagosomal and
+      phagolysosomal stages
 
 * Antimicrobials (MacMicking, 2014)
- - ROS and RNS
- - NOS induced by IFN\gamma -> S-nitrolysate haem-containing compounds like haemozoin and protozoal cysteine proteases, inactivating them
- - APOBEC and ADAR1 hypermutate HIV genome
- - SAMHD1 in macrophages and dendritic cells , hydrolyses deoxynucleotides from cellular pool
- - ISG15 - ISGylation ubiquitinates viral proteins, e.g. influenza NS1, Ebola VP40
- - IRGs and GBPs
- - IFN induced resistome
+    - ROS and RNS
+    - NOS induced by IFN\gamma -> S-nitrolysate haem-containing compounds
+      like haemozoin and protozoal cysteine proteases, inactivating them
+    - APOBEC and ADAR1 hypermutate HIV genome
+    - SAMHD1 in macrophages and dendritic cells , hydrolyses deoxynucleotides
+      from cellular pool
+    - ISG15 - ISGylation ubiquitinates viral proteins, e.g. influenza NS1,
+      Ebola VP40
+    - IRGs and GBPs
+    - IFN induced resistome
 
-In sum, synergistic IFN-inducible effector mechanisms are deployed in the cytosol and in diverse intracellular compartments to control bacterial infection. For example, IRGs, GBPs and recognition receptors help to direct vacuolar bacteria as well as ‘marked’ cytosolic bacteria to acidified autophagolysosomes. Low lysosomal pH, in turn, accelerates the
-dismutation of O2− to the more powerful oxidant H2O2, converts NO2− back to the toxic radical NO and drives hydroxyl radical formation with the aid of imported Cu+. Together, these IFN-regulated proteins help to maximize oxidative, nitrosative, protonative and membranolytic damage to bacterial targets in the lysosome.
+   In sum, synergistic IFN-inducible effector mechanisms are deployed in the
+   cytosol and in diverse intracellular compartments to control bacterial
+   infection. For example, IRGs, GBPs and recognition receptors help to
+   direct vacuolar bacteria as well as ‘marked’ cytosolic bacteria to
+   acidified autophagolysosomes. Low lysosomal pH, in turn, accelerates the
+   dismutation of O2− to the more powerful oxidant H2O2, converts NO2− back
+   to the toxic radical NO and drives hydroxyl radical formation with the aid of
+   imported Cu+. Together, these IFN-regulated proteins help to maximize
+   oxidative, nitrosative, protonative and membranolytic damage to bacterial
+   targets in the lysosome.
 
 * Ostaff et al, 2013
  - Crohns disease - with friends like these, who needs enemies?
  - NOD2 def mice rescued by AMPs
 
 * Koprivnjak and Peschel, 2011
- - CAMPS = cationic antimicrobial peptides
- - Three groups
-   + defensins
-   + cathelicidins
-   + kinocidins (related to chemokines) released from contact with platelets (thrombocidins)
- - Also further ones, dermicidins from sweat, hepcidin, split products from \alpha-MSH
+    - CAMPS = cationic antimicrobial peptides
+    - Three groups
+        + defensins
+        + cathelicidins
+        + kinocidins (related to chemokines) released from contact with platelets (thrombocidins)
+    - Also further ones, dermicidins from sweat, hepcidin, split products from \alpha-MSH
 
 * Bismarck
- - The great questions of this age will be answered not by debates and great speeches but by iron and blood
+    - The great questions of this age will be answered not by debates and great speeches but by iron and blood
 
 * Penberthy et al, 2011
- - Vaginal delivery
- - HIV inhibitors blocking entry more effective than RTIs
+    - Vaginal delivery
+    - HIV inhibitors blocking entry more effective than RTIs
 
 * Soscia et al, 2010
- - histatins as another class of AMPs
- - Anionic AMPs as host countermeasure to bacterial countermeasures
- - Amyloid B as downstream of inflammatory trigger (see inflammasome)
+    - histatins as another class of AMPs
+    - Anionic AMPs as host countermeasure to bacterial countermeasures
+    - Amyloid B as downstream of inflammatory trigger (see inflammasome)
 
 * Brogden, 2005
- - AMPs can activate autolysins eg in Staph stimulans, 
- - Histatins bind receptor, enter cell, non-lytic loss of ATP
- - AMPs synergistic egffects with other host innate responses, e.g. human lacrimal fluid secretory PhosphoLipase A2
+    - AMPs can activate autolysins eg in Staph stimulans,
+    - Histatins bind receptor, enter cell, non-lytic loss of ATP
+    - AMPs synergistic egffects with other host innate responses, e.g. human
+      lacrimal fluid secretory PhosphoLipase A2
 
 * Tang et al, 1999
- - Two truncated alpha defensins joined together posttranslationally and cyclised
+    - Two truncated alpha defensins joined together posttranslationally and cyclised
 
 * T cell signalling and immune disorders (Wilkinson et al, 2005)
-Recent exciting
-studies have identified E3 ligases – c-Cbl, Cbl-b,
-GRAIL, Itch and Nedd4 – that control the balance
-between anergy and proliferation leading to
-autoimmunity (Ref. 180). In this manner, Cbl-b-
-deficient mice are resistant to anergy induction
-and develop a spontaneous systemic
-autoimmunity
-
-
+  Recent exciting studies have identified E3 ligases – c-Cbl, Cbl-b, GRAIL,
+  Itch and Nedd4 – that control the balance between anergy and proliferation
+  leading to autoimmunity (Ref. 180). In this manner, Cbl-b-deficient mice
+  are resistant to anergy induction and develop a spontaneous systemic
+  autoimmunity
 
 * Ca signalling TCR BCR (Feske, 2007)
- - SOCE store operated calcium entry through CRAC calcium release activated calcium
- - TCR -> ZAP70 and LCK -> LAT -> PLC\gamma1
- - binding of chemokine receptors -> PLC\beta.
- - PLC\beta and PLC\gamma1 -> IP3 and DAG. IP3 -> IP3R in ER -> Ca wave, decrease in ER Ca sensed by STIM1, activates CRAC.
- - Ca2+-> calcineurin -> NFAT
+    - SOCE store operated calcium entry through CRAC calcium release
+      activated calcium
+    - TCR -> ZAP70 and LCK -> LAT -> PLC\gamma1
+    - binding of chemokine receptors -> PLC\beta.
+    - PLC\beta and PLC\gamma1 -> IP3 and DAG. IP3 -> IP3R in ER -> Ca wave,
+      decrease in ER Ca sensed by STIM1, activates CRAC.
+    - Ca2+-> calcineurin -> NFAT
 
- - SOCE mutations -> SCID
- - XLA - Btk involved in enhancing PLC\gamma2 (B cells) activation, required for sustained IP3 production
- - CVID common variable immunodeficiency - hypogammaglobulinaemia but normal B cell numbers - due to defect in class switching
- - Wiscott Adrich syndrome - WASP protein regulatory protein of F actin assembly, reduced Ca entry and so reduced NFAT
-
+    - SOCE mutations -> SCID
+    - XLA - Btk involved in enhancing PLC\gamma2 (B cells) activation,
+      required for sustained IP3 production
+    - CVID common variable immunodeficiency - hypogammaglobulinaemia but
+      normal B cell numbers - due to defect in class switching
+    - Wiscott Adrich syndrome - WASP protein regulatory protein of F actin
+      assembly, reduced Ca entry and so reduced NFAT
 
 * Signalling TCRs BCRs (Brownlie and Zamoyska, 2013)
- - Inside out signalling = signal from in cell to out eg icams expression
- - Two different theories on TCR triggering
+    - Inside out signalling = signal from in cell to out eg icams expression
+    - Two different theories on TCR triggering
 
- - Conformational change model :: Binding of peptide-MHC alters conformation of TCR and activates signalling
- - Lack of biophysical evidence on TCR structural changes
- - Live unstimulated T cells have signature ITAM residues of CD3 buried in membrane, released upon activation
- - Become available as substrates for LCK
- - Local lipid environment transitional changes?
- - Mechanosensing of torque from binding?
+    - Conformational change model :: Binding of peptide-MHC alters
+      conformation of TCR and activates signalling
+        + Lack of biophysical evidence on TCR structural changes
+        + Live unstimulated T cells have signature ITAM residues of CD3
+          buried in membrane, released upon activations
+        + Become available as substrates for LCK
+        + Local lipid environment transitional changes?
+        + Mechanosensing of torque from binding?
 
- - Kinetic segregation model :: TCR signalling triggered because TCR partitioned into areas of lipid membrane rich in LCK and not CD45
- - Segregation of molecules at immunological synapse, reasons unclear
- - Van der Merwe et al - exclusion of CD45 because extracellular domain much bigger than TCR, hence pushed away
- - But Transduce embryonic kidney cells with TCR machinery - concluded not due to molecular size but binding energy of TCR to peptide MHC complex generates exclusion force for transmembrane proteins with large or unligated extracellular domains
+    - Kinetic segregation model :: TCR signalling triggered because TCR
+      partitioned into areas of lipid membrane rich in LCK and not CD45
+        + Segregation of molecules at immunological synapse, reasons unclear
+        + Van der Merwe et al - exclusion of CD45 because extracellular
+          domain much bigger than TCR, hence pushed away
+        + But Transduce embryonic kidney cells with TCR machinery - concluded
+          not due to molecular size but binding energy of TCR to peptide MHC
+          complex generates exclusion force for transmembrane proteins with
+          large or unligated extracellular domains
 
-Classically, T cell signalling is described as going down
-from the TCR, via LAT, to activate the transcription fac­
-tors that are required for T cell proliferation and for the
-differentiation of effector function.
+  Classically, T cell signalling is described as going down from the TCR, via
+          LAT, to activate the transcription factors that are required for T
+          cell proliferation and for the differentiation of effector
+          function.
 
-It is now clear that signalling also branches sideways
-via multiple adap­or domains and incorporates actin
-polymerization and cytoskeletal rearrangements. Signals are propagated to
-membrane-associated molecules, such as integrins, via
-the recruitment of small GTPases to the plasma mem­
-brane. In turn, integrin engagement influences the per­
-sistence of microclusters containing signalling molecules
-and, consequently, the extent of signal propagation. The
-regulation of these signalling cascades sets the threshold
-of activation of naive T cells so that they are not activated
-by self-peptide–MHC complexes and respond only to for­
-eign-peptide–MHC complexes. Effector T cells are more
-sensitive to stimulation than naive T cells 79 and, therefore,
-have an increased potential for self-reactivity and to cause
-immune pathology. Negative regulators such as PTPN22
-are upregulated in effector T cells to counteract this
-increased sensitivity to activation and to maintain immune
-tolerance. By contrast, T Reg cells actively suppress PTPN22
-upregulation and are even more effective suppressor
-cells when they lack PTPN22 expression entirely.
+It is now clear that signalling also branches sideways via multiple adaptor
+          domains and incorporates actin polymerization and cytoskeletal
+          rearrangements. Signals are propagated to membrane-associated
+          molecules, such as integrins, via the recruitment of small GTPases
+          to the plasma membrane. In turn, integrin engagement influences the
+          persistence of microclusters containing signalling molecules and,
+          consequently, the extent of signal propagation. The regulation of
+          these signalling cascades sets the threshold of activation of naive
+          T cells so that they are not activated by self-peptide–MHC
+          complexes and respond only to foreign-peptide–MHC complexes.
+          Effector T cells are more sensitive to stimulation than naive T
+          cells 79 and, therefore, have an increased potential for
+          self-reactivity and to cause immune pathology. Negative regulators
+          such as PTPN22 are upregulated in effector T cells to counteract
+          this increased sensitivity to activation and to maintain immune
+          tolerance. By contrast, T Reg cells actively suppress PTPN22
+          upregulation and are even more effective suppressor cells when they
+          lack PTPN22 expression entirely.
 
 * It's life, Jim, but not as we know it - Star Trek
+  Applies to a lot of things...

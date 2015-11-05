@@ -1,0 +1,30 @@
+
+* Write DNA essay
+
+  Describe the signalling mechanisms by which DNA is detected by
+  inflammasomes and how the products of inflammasome activation regulate the
+  host response to viral infection
+
+** Intro
+    - What is the inflammasome
+        - How was it discovered? How is it investigated?
+    - Why DNA is detected
+    - Where the DNA might come from - parasites, bacteria, viruses, own
+      cells, what might stop it from being detected
+    - DNA degradation products as proxy for DNA - uric acid
+** Detection
+    - Initial receptors for these ligands
+        - Evidence
+        - experiments
+** Signal transduction
+    - Secondary messengers
+        - evidence and experiments
+** Assembly of inflammasome
+    - Assembly of inflammasomes
+        - different types, different expts
+** Result of inflammasome, e.g. with viral infection
+    - How it works
+        - outputs
+    - Possible outcomes in viral infection - ISGs, etc
+** Aberrant activation
+    - What happens when it goes wrong?

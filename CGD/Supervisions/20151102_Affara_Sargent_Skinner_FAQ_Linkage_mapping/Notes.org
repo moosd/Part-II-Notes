@@ -1,156 +1,156 @@
 * Variation in the genome
-- Compare individuals
-- Tools for mapping
-- DIsease causing vs neutral
+ - Compare individuals
+ - Tools for mapping
+ - DIsease causing vs neutral
 
 ** SNPs
 *** Pros
-- Assay on chips, hence high throughput
-- So many, uniform distribution, hence high density map across genome
+ - Assay on chips, hence high throughput
+ - So many, uniform distribution, hence high density map across genome
 *** Cons
-- Largely biallelic - C->T most common mutation, hence only see two bases most of the time, but all four possible
-- (chromosome read p term to q term)
-- Less useful than multiple alleles though
+ - Largely biallelic - C->T most common mutation, hence only see two bases most of the time, but all four possible
+ - (chromosome read p term to q term)
+ - Less useful than multiple alleles though
 
 ** Microsatellites
-- Small enough to assay via PCR
-- More alleles - repeats from replication slippage
-- Includes trinucleotide repeats
+ - Small enough to assay via PCR
+ - More alleles - repeats from replication slippage
+ - Includes trinucleotide repeats
 
 ** VNTRs (minisatellites)
-- Bigger repeat sequences
-- Found in heterochromatic regions - e.g. telomeres
-- Not evenly distributed through genome
-- Very large, not easy to PCR
-- Assays mostly by blots/electrophoresis - laborious
+ - Bigger repeat sequences
+ - Found in heterochromatic regions - e.g. telomeres
+ - Not evenly distributed through genome
+ - Very large, not easy to PCR
+ - Assays mostly by blots/electrophoresis - laborious
 
 ** CNVs
-- 1Kb+ variable in genome
-- Can be very big - both deletion and amplification in genome
-- at least 10% of genome
-- Assay with comparative genome hybridisation (CGH)
+ - 1Kb+ variable in genome
+ - Can be very big - both deletion and amplification in genome
+ - at least 10% of genome
+ - Assay with comparative genome hybridisation (CGH)
 
 * Types of CGH
 ** At level of chromosome spread
-- Normal reference karyotype vs sample
-- Gives crude resolution, ~3Mbp at best
+ - Normal reference karyotype vs sample
+ - Gives crude resolution, ~3Mbp at best
 
 ** Array-based CGH
-- Can use clone based chip or SNP based chip
-- Resolution = type of chip
-- BACs = 100-200kbp; fosmids = 40-50kbp
+ - Can use clone based chip or SNP based chip
+ - Resolution = type of chip
+ - BACs = 100-200kbp; fosmids = 40-50kbp
 
 ** SNPs
-- 10 million known so far
-- same sort of CGH - polymorphism is what matters
-- Distance between markers but usually want 3 in a row to ensure statistical confidence it is a CNV rather than a failed hybridisation
+ - 10 million known so far
+ - same sort of CGH - polymorphism is what matters
+ - Distance between markers but usually want 3 in a row to ensure statistical confidence it is a CNV rather than a failed hybridisation
 
 * Can screen for pathologies
 ** Cancer
-- CNVs with oncogenes
-- use CGH to investigate amplification and deletion
-- Tumour vs normal tissue from same individual
-- LOSS of signal = TSG deletion?
+ - CNVs with oncogenes
+ - use CGH to investigate amplification and deletion
+ - Tumour vs normal tissue from same individual
+ - LOSS of signal = TSG deletion?
 
 ** Gene dosage abnormalities
-- Most genes we have are mutated on one chromosome - hence not an issue most of the time
-- Sensitive - embryonic determinants
-- Morphogens must be at specific concentrations - temporal and spatial regulation
+ - Most genes we have are mutated on one chromosome - hence not an issue most of the time
+ - Sensitive - embryonic determinants
+ - Morphogens must be at specific concentrations - temporal and spatial regulation
 
 ** Variables
-- MAF :: minor allelic frequency
-- Lower allelic frequency in *population*
-- May be minor in one population and major in another, hence not necessarily same in every population
+ - MAF :: minor allelic frequency
+ - Lower allelic frequency in *population*
+ - May be minor in one population and major in another, hence not necessarily same in every population
 
-- CNVs - larger chunks of unique sequences rather than repetitive
-- no restriction where they can appear in genome
+ - CNVs - larger chunks of unique sequences rather than repetitive
+ - no restriction where they can appear in genome
 
 * Exploiting variation for mapping
 ** Parametric mapping
 Need to know:
-- Mode of inheritance
-- Penetrance
-- Frequencies in population
+ - Mode of inheritance
+ - Penetrance
+ - Frequencies in population
 Can get away with using fewer pedigrees and use every individual in pedigrees
 
 ** Non-parametric mapping
-- Doesnt depend upon any model of inheritance or penetrance, etc a priori
-- Must make AN assumption that it has a genetic basis
-- If dont know who unaffected are, harder to find appropriate families
-- More complex diseases with more complex loci
+ - Doesnt depend upon any model of inheritance or penetrance, etc a priori
+ - Must make AN assumption that it has a genetic basis
+ - If dont know who unaffected are, harder to find appropriate families
+ - More complex diseases with more complex loci
 
 ** Parametric - linkage
-- If 50% recombination, conclude NO LINKAGE - could be different chromosomes
-- Predicated on the idea that markers close enough to disease locus that <50% recombination
-- Coinherited markers, not random assortment at meiosis
-- Measure recombination between marker and disease -> LOD score
-- Can combine data from multiple families to get precise location
+ - If 50% recombination, conclude NO LINKAGE - could be different chromosomes
+ - Predicated on the idea that markers close enough to disease locus that <50% recombination
+ - Coinherited markers, not random assortment at meiosis
+ - Measure recombination between marker and disease -> LOD score
+ - Can combine data from multiple families to get precise location
    + CFTR mapped using 1500 pedigrees
-- LINKAGE is to a LOCUS (genomic position)
-- Relies on good maps (esp genetic maps) - to define flanking markers
-- Markers - physical map, genes in interval
-- Penetrance from phenotypes of multiple generations of pedigree
-- Can get high penetrance, but variability in phenotypes, variable expression
-- Linkage to locus
-- Association is a subset, linkage to allele at locus
+ - LINKAGE is to a LOCUS (genomic position)
+ - Relies on good maps (esp genetic maps) - to define flanking markers
+ - Markers - physical map, genes in interval
+ - Penetrance from phenotypes of multiple generations of pedigree
+ - Can get high penetrance, but variability in phenotypes, variable expression
+ - Linkage to locus
+ - Association is a subset, linkage to allele at locus
 
 ** Linkage disequilibrium
-- Non random assortment
-- Coinheritance of alleles at POPULATION level
-- Smallest coinherited unit
-- Key: all individuals have inherited different proportions of ancestral chromosome
-- Haplotypes at population level = alleles coinherited together
+ - Non random assortment
+ - Coinheritance of alleles at POPULATION level
+ - Smallest coinherited unit
+ - Key: all individuals have inherited different proportions of ancestral chromosome
+ - Haplotypes at population level = alleles coinherited together
 
 *** How old is a population?
-- African pop, old population, LD blocks smaller
-- More recombination events, etc
-- Migration means a small subset moves, genetic botleneck - hence diversity of subsample decreases
-- If you take this new population and have a sample, linkage blocks much larger because not as many recombination events
+ - African pop, old population, LD blocks smaller
+ - More recombination events, etc
+ - Migration means a small subset moves, genetic botleneck - hence diversity of subsample decreases
+ - If you take this new population and have a sample, linkage blocks much larger because not as many recombination events
 
-- Recombination hotspots
-- Mechanisms driving recombinations are particular position not well understood
-- Holliday junctions can move around, settles on a location
-- Gametes - many different recombinations, only some of them make it into the population because of selection pressures? Some recombinations may be lethal?
-- Can look at recombination in semen
+ - Recombination hotspots
+ - Mechanisms driving recombinations are particular position not well understood
+ - Holliday junctions can move around, settles on a location
+ - Gametes - many different recombinations, only some of them make it into the population because of selection pressures? Some recombinations may be lethal?
+ - Can look at recombination in semen
 
 *** Random bits
-- Segmental duplication is a subset of CNVs which show large structural variation
-- Lower frequencies, first to be discovered ~2001
+ - Segmental duplication is a subset of CNVs which show large structural variation
+ - Lower frequencies, first to be discovered ~2001
 
-- Multipoint linkage analysis
+ - Multipoint linkage analysis
 
-- Repetitive sequences (or high CNV)
-- Can form recombinant NAHR
+ - Repetitive sequences (or high CNV)
+ - Can form recombinant NAHR
 
 *** CNVs - NAHR
-- Repeats (Alu)
-- Gene family members - similar enough to get NAHR between incorrect loci
+ - Repeats (Alu)
+ - Gene family members - similar enough to get NAHR between incorrect loci
 
-- Y chromosome q arm - AZF loci deletion, looping out of large segments of chromosome
-- steroid suplhates in X chromosomes
-- Whole range of lots of types of mutation -> disease
-- Hap A1A2 = A1f * A2f assuming independant assortment
-- Association assumes additive comb of subtle variation leads to disease
-- Not for pedigrees (backgrounds different between families)
+ - Y chromosome q arm - AZF loci deletion, looping out of large segments of chromosome
+ - steroid suplhates in X chromosomes
+ - Whole range of lots of types of mutation -> disease
+ - Hap A1A2 = A1f * A2f assuming independant assortment
+ - Association assumes additive comb of subtle variation leads to disease
+ - Not for pedigrees (backgrounds different between families)
 
-- Identity by descent - at least one allele > 50% of the time (>75% for 1 or 2 alleles)
-- Shows skewing
+ - Identity by descent - at least one allele > 50% of the time (>75% for 1 or 2 alleles)
+ - Shows skewing
 
 ** CNVs can be formed by many mechanisms
-- NAHR
-- NHEJ
-- Are the key mechanisms
-- Also others involving variations on joining ends like microhomology mediated end joining
+ - NAHR
+ - NHEJ
+ - Are the key mechanisms
+ - Also others involving variations on joining ends like microhomology mediated end joining
 
 ** TdT
-- Overtransmit suspected associated allele
-- Pedigree trios (parent child)
-- One parent heterozygous for allele
-- Affected offspring - which allele is inherited?
-- Randomly? If so, allele 1 = allele 2 at 50% each
+ - Overtransmit suspected associated allele
+ - Pedigree trios (parent child)
+ - One parent heterozygous for allele
+ - Affected offspring - which allele is inherited?
+ - Randomly? If so, allele 1 = allele 2 at 50% each
 
 ** Case control studies
-- Assumption: Common variants = common disease
-- May not be as universal/correct as once thought
-- Non common variants
-- Associated allele only by chance?
+ - Assumption: Common variants = common disease
+ - May not be as universal/correct as once thought
+ - Non common variants
+ - Associated allele only by chance?

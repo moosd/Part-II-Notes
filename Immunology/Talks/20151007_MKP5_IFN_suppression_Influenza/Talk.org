@@ -5,65 +5,65 @@ bibliography:Refs.bib
 
 * Introduction
 ** Basics
-- MKP = MAP Kinase Phosphatase
-- Many signals activate MAPK pathways, e.g. TLRs, FcRs, TCRs, etc
-- MAPK activates many genes, esp *ERK*, *p38* and *JNK*
-- ERK and JNK lead to IL-2 secretionn (prolif T cells)
-- p38 -> IL12 secretion (differentiation of Th1 response)
-- These have cell growth, effector functions, apoptosis
-- Too much activation is bad (immunopathology)
+ - MKP = MAP Kinase Phosphatase
+ - Many signals activate MAPK pathways, e.g. TLRs, FcRs, TCRs, etc
+ - MAPK activates many genes, esp *ERK*, *p38* and *JNK*
+ - ERK and JNK lead to IL-2 secretionn (prolif T cells)
+ - p38 -> IL12 secretion (differentiation of Th1 response)
+ - These have cell growth, effector functions, apoptosis
+ - Too much activation is bad (immunopathology)
 ** How is this problem tackled by the body?
-- Scaffold facilitates and regulates magnitude and duration of effects - determining outcomes
-- MKPs dephosphorylate MAPK to inactivate the pathway
+ - Scaffold facilitates and regulates magnitude and duration of effects - determining outcomes
+ - MKPs dephosphorylate MAPK to inactivate the pathway
 ** What are MKPs?
-- Major regulator
-- cysteine based protein tyrosine phosphatases
-- DUSP (DUal Specificity Phosphatases - dephosphorylates at both tyrosine and threonine residues)
-- Acts on substrates other than MAPKs, including STAT5 and FOXO1 in hepatocytes
-- Has a D Domain mediating interactions with MAPK abd a conserved catalytic domain
+ - Major regulator
+ - cysteine based protein tyrosine phosphatases
+ - DUSP (DUal Specificity Phosphatases - dephosphorylates at both tyrosine and threonine residues)
+ - Acts on substrates other than MAPKs, including STAT5 and FOXO1 in hepatocytes
+ - Has a D Domain mediating interactions with MAPK abd a conserved catalytic domain
 * Role of MKP5
-- Also known as DUSP10, discovered in 1999 cite:pmid10391943 cite:pmid10597297
-- Inactivates p38 and JNK but not ERK
-- JNK phosphatase in T cells (regulatory)
-- Regulates ERK-KLF5 pathway cite:pmid25772234
-- TLR activation leads to TRANSIENT activation, NOT CONSTITUTIVE
+ - Also known as DUSP10, discovered in 1999 cite:pmid10391943 cite:pmid10597297
+ - Inactivates p38 and JNK but not ERK
+ - JNK phosphatase in T cells (regulatory)
+ - Regulates ERK-KLF5 pathway cite:pmid25772234
+ - TLR activation leads to TRANSIENT activation, NOT CONSTITUTIVE
 
 * How he investigated its role
-- Knockout mouse for MKP5, looking at influenza and viral response
-- Infected MKP5 k/o with PR8 strain of influenza (-ve sense ssRNA virus) intranasal
-- Collected lung tissue and BAL fluid
-- MKP5 ko had reduced viral replication! Increased IFN\beta -> decreased viral spreading and so replication
-- Increased IFN\alpha and IL6 but not TNF\alpha suggesting MKP5 is an *active regulator* of type I interferon
+ - Knockout mouse for MKP5, looking at influenza and viral response
+ - Infected MKP5 k/o with PR8 strain of influenza (-ve sense ssRNA virus) intranasal
+ - Collected lung tissue and BAL fluid
+ - MKP5 ko had reduced viral replication! Increased IFN\beta -> decreased viral spreading and so replication
+ - Increased IFN\alpha and IL6 but not TNF\alpha suggesting MKP5 is an *active regulator* of type I interferon
 
 * Next steps to confirm findings...
-- Looked at epithelial cells infected in lung - the inflammatory response recruits all sorts of cells, macrophages, NK cells, dendritic cells, etc...
-- Same cell infiltration! Flow cytometry confirmed similar numbers of macrophages and dendritic cells (latter express more MHC II so sep using CD11c and MHC II)
-- Hence, effect not a result of more cells but is increased per cell
-- Bone marrow derived macrophages (BDM) also showed inc IFN and IL6 in KO mice
+ - Looked at epithelial cells infected in lung - the inflammatory response recruits all sorts of cells, macrophages, NK cells, dendritic cells, etc...
+ - Same cell infiltration! Flow cytometry confirmed similar numbers of macrophages and dendritic cells (latter express more MHC II so sep using CD11c and MHC II)
+ - Hence, effect not a result of more cells but is increased per cell
+ - Bone marrow derived macrophages (BDM) also showed inc IFN and IL6 in KO mice
 
 * How are interferons regulated then?
-- Transcriptional regulation cite:pmid22365663
-- Through promoters, esp AP1 (ATF2 + cJun) is a target
-- But, MAPK expression largely unaffected! Happens 12, 24 hours after infection.
-- Innate response affected! cite:pmid21147034
-- IRF3 -> RIG I -> MAVS (mitochondria) -> signalling cascade -> TBK1, IKK\epsilon
-- IRF3 is a master regulator of interferon. Constitutively expressed, bound to autoinhibitory factor, phosphorylated to detach upon activation for fast action
-- Increased IRF3 phosphorylation detected in MKP5 ko mice, p-IKK (inhibitory) undetectable
-- Confocal assay - increased IRF3 nuclear tranalocation in KO mice (1hr, 6hr after infection)
-- Isolated nuclear portions and analysed under western blot, detected increased IRF3
+ - Transcriptional regulation cite:pmid22365663
+ - Through promoters, esp AP1 (ATF2 + cJun) is a target
+ - But, MAPK expression largely unaffected! Happens 12, 24 hours after infection.
+ - Innate response affected! cite:pmid21147034
+ - IRF3 -> RIG I -> MAVS (mitochondria) -> signalling cascade -> TBK1, IKK\epsilon
+ - IRF3 is a master regulator of interferon. Constitutively expressed, bound to autoinhibitory factor, phosphorylated to detach upon activation for fast action
+ - Increased IRF3 phosphorylation detected in MKP5 ko mice, p-IKK (inhibitory) undetectable
+ - Confocal assay - increased IRF3 nuclear tranalocation in KO mice (1hr, 6hr after infection)
+ - Isolated nuclear portions and analysed under western blot, detected increased IRF3
 
 * MKP5 interacts with IRF3
-- Flag-MKP5 - coprecipitates IRF3
-- Another immunoprecipitation assay -streptavidin coated beads, protein A-conjugated acceptor beads, emits light when both precipitate together
+ - Flag-MKP5 - coprecipitates IRF3
+ - Another immunoprecipitation assay -streptavidin coated beads, protein A-conjugated acceptor beads, emits light when both precipitate together
 
 * MKP5 action independent of MAPK phosphatase activity
-- Through deletions in binding region - same as wt with IRF3
-- But no longer bound to ERG, p38, JNK
-- Identified binding regions through mutations and immunoprecipitation
-- Likewise, IRF3 tail region reguired for interaction with MKP5, deletion abolishes it
+ - Through deletions in binding region - same as wt with IRF3
+ - But no longer bound to ERG, p38, JNK
+ - Identified binding regions through mutations and immunoprecipitation
+ - Likewise, IRF3 tail region reguired for interaction with MKP5, deletion abolishes it
 
 * MKP5 dephosphorylates IRF3
-- In vitro dephosphorylation assay
+ - In vitro dephosphorylation assay
 |           | vector | MKP5-Flag | MKP5-mutant-Flag |
 |-----------+--------+-----------+------------------|
 | pIRF3     |  +     |   -       |          +       |
@@ -72,17 +72,17 @@ bibliography:Refs.bib
  - ALso MKP5 dephosphorylates IRF3 returning it to cytoplasm, supressing translocation to nucleus
 
 * Increased ISG (interferon stim genes) expression in KO macrophages in flu infection
-- Returning to our MKP5 knockouts... MKP5 deficient, less disease severity, decreased viral protein expression, less % weight loss, less death w/ lethal dose, etc
-- Influenza NS1 involved in immune evasion cite:pmid18796704 eg inhibiting PKR
-- Increases MKP5 levels to suppress IFN response?
-- NS1 expression -> expresses MKP5 at mRNA and protein level (by mutating)
-- BUT ko MKP5 have even higher levels of interferon, so its not just from the virus evading immune strategies
+ - Returning to our MKP5 knockouts... MKP5 deficient, less disease severity, decreased viral protein expression, less % weight loss, less death w/ lethal dose, etc
+ - Influenza NS1 involved in immune evasion cite:pmid18796704 eg inhibiting PKR
+ - Increases MKP5 levels to suppress IFN response?
+ - NS1 expression -> expresses MKP5 at mRNA and protein level (by mutating)
+ - BUT ko MKP5 have even higher levels of interferon, so its not just from the virus evading immune strategies
 * Other viruses
-- Tried out VSV and SeV, MKP5 expression induced too
+ - Tried out VSV and SeV, MKP5 expression induced too
 
 * Conclusion
-- MKP5 could be part of immune evasion strategy of RNA viruses
-- Part pf host strategy to reduce immunopathology
-- MKP5 suppresses aging-related diseases like adipose inflammation, obesity, insulin resistance
-- MKP5 as a tumor supressor in colorectal cancer, not all that bad!
-- Phosphatases are very non specific!
+ - MKP5 could be part of immune evasion strategy of RNA viruses
+ - Part pf host strategy to reduce immunopathology
+ - MKP5 suppresses aging-related diseases like adipose inflammation, obesity, insulin resistance
+ - MKP5 as a tumor supressor in colorectal cancer, not all that bad!
+ - Phosphatases are very non specific!

@@ -1,62 +1,62 @@
 * Aled Perry, Narita Lab
 
 * Intro
-- Senescence = metabolically active cells but no mitogenic signalling
-- Tumour suppressive mechanism
-- (Campisi et al, 2006)
-- (Braig et al, 2006)
-- Hayflick adn Moorhead, 1961
+ - Senescence = metabolically active cells but no mitogenic signalling
+ - Tumour suppressive mechanism
+ - (Campisi et al, 2006)
+ - (Braig et al, 2006)
+ - Hayflick adn Moorhead, 1961
 
-- cell autonomous effects
+ - cell autonomous effects
 
 * Senescence Associated Heterochromic Foci (SAHC)
-- (Narita et al, 2003)
-- (Zhang et al, 2005)
-- 1 SAHF = 1 chromosome
-- E2F targets in center, inactivated
-- Expressed bits of DNA on outside
-- Layered structure
+ - (Narita et al, 2003)
+ - (Zhang et al, 2005)
+ - 1 SAHF = 1 chromosome
+ - E2F targets in center, inactivated
+ - Expressed bits of DNA on outside
+ - Layered structure
 
 * High Mobility Group A1
-- Alters 3D chromatin structure
-- Binds to AT rich DNA
-- Expression low in normal cells, increases in senescent cells
-- HMGA1 is antitumorogenic -> implications for senescence (Narita et al, 2006)
-- Is also tumorogenic -> associated with poor prognosis (Sarhadi et al, 2006)
+ - Alters 3D chromatin structure
+ - Binds to AT rich DNA
+ - Expression low in normal cells, increases in senescent cells
+ - HMGA1 is antitumorogenic -> implications for senescence (Narita et al, 2006)
+ - Is also tumorogenic -> associated with poor prognosis (Sarhadi et al, 2006)
 
-- Pluripotency - important to maintain - (Kishi et al, 2012)
-- (Katez et al, 2005)
-- HMGA1 competes with histone H1 for linker DNA to keep nucleosomes apart
-- And maintain nucleosome free regions
-- ATAC-Seq to identify NFRs (Buenrostro et al, 2013)
+ - Pluripotency - important to maintain - (Kishi et al, 2012)
+ - (Katez et al, 2005)
+ - HMGA1 competes with histone H1 for linker DNA to keep nucleosomes apart
+ - And maintain nucleosome free regions
+ - ATAC-Seq to identify NFRs (Buenrostro et al, 2013)
 
 * MODEL
-- IMR90 fibroblasts, with EstrogenR - HRAS v12
-- ER stress caused by HRAS v12 when induced to move to nucleus by tamoxifen (hence senescence)
-- Weak phenotype, but inducible
-- pBabe RAS - senescence stronger but not inducible
+ - IMR90 fibroblasts, with EstrogenR - HRAS v12
+ - ER stress caused by HRAS v12 when induced to move to nucleus by tamoxifen (hence senescence)
+ - Weak phenotype, but inducible
+ - pBabe RAS - senescence stronger but not inducible
 
 * Where are NFRs?
-- Enhancers
-- SINEs, LINEs, LTRs
-- More open chromatin present in repeat regions
+ - Enhancers
+ - SINEs, LINEs, LTRs
+ - More open chromatin present in repeat regions
 
-- ATAC-seq gives nice one dimensional data
-- DNA DISH gives 3d structure - Kosuke Tomimatsu
-- Tet Response Element - 3x Flag HMGA1 - shHMGA1
-- short hairpin knocks down endogenous HMGA1, replaces with flag tagged protein
+ - ATAC-seq gives nice one dimensional data
+ - DNA DISH gives 3d structure - Kosuke Tomimatsu
+ - Tet Response Element - 3x Flag HMGA1 - shHMGA1
+ - short hairpin knocks down endogenous HMGA1, replaces with flag tagged protein
 
-- Sono-seq
+ - Sono-seq
 
-- HMGA1 binds to AT rich regions genome wide
+ - HMGA1 binds to AT rich regions genome wide
 
 * Model for disease
-- Fibroblasts, linker H1 between nucleosomes
-- HMGA1 dependant conversion to ES cell like state (removal of linker)
-- EITHER :: Chromosome regulated
-- OR, UPON FAILURE :: Aberrant transcription, hence cancer
+ - Fibroblasts, linker H1 between nucleosomes
+ - HMGA1 dependant conversion to ES cell like state (removal of linker)
+ - EITHER :: Chromosome regulated
+ - OR, UPON FAILURE :: Aberrant transcription, hence cancer
 
-- During oncogene induced senescence, must reorganise chromatin
-- Mass opening of chromatin to form NFRs and an ES cell like state
-- HMGA1 crucial to opening and 3D condensations
-- HMGA1 -> enhancosomes for IFN\beta
+ - During oncogene induced senescence, must reorganise chromatin
+ - Mass opening of chromatin to form NFRs and an ES cell like state
+ - HMGA1 crucial to opening and 3D condensations
+ - HMGA1 -> enhancosomes for IFN\beta

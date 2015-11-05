@@ -3,107 +3,107 @@
 #+DATE Tue 13 Oct, 2015
 
 * Intro
-- Genomes, not DNA!
+ - Genomes, not DNA!
 
 * What do genomic differences tell us?
 ** Between species
-- Evolutionary past and phylogenetic relations
+ - Evolutionary past and phylogenetic relations
 ** Inside a species
-- Disease risks
-- Family lines
+ - Disease risks
+ - Family lines
 
 * What types of differences exist? Between individuals, between cell types
-- Chromosomal differences - from karyotyping
-- CNVs
-- SNPs
-- Alleles
-- Epigenetics
+ - Chromosomal differences - from karyotyping
+ - CNVs
+ - SNPs
+ - Alleles
+ - Epigenetics
 ** Different levels of differences
-- Sequence variants
-- Histone variants
-- Packaging in the nucleus
+ - Sequence variants
+ - Histone variants
+ - Packaging in the nucleus
 
 * How can we think about these differences at the cellular level?
 ** Somatic changes
-- Chromosomal translocation - e.g. cMyc activation
-- Loss of heterozygosity - CNVs, normal allele deleted in cancer
-- Point mutations - constitutive activation, dominant negative mutations
-- Epigenetic changes - changes to regulatory control of gene expression
-- Compare *change* with *what happens downstream* - remove gene, change gene function, change gene expression levels
-- Some genes sensitive to gene/chromosome dosage effects
+ - Chromosomal translocation - e.g. cMyc activation
+ - Loss of heterozygosity - CNVs, normal allele deleted in cancer
+ - Point mutations - constitutive activation, dominant negative mutations
+ - Epigenetic changes - changes to regulatory control of gene expression
+ - Compare *change* with *what happens downstream* - remove gene, change gene function, change gene expression levels
+ - Some genes sensitive to gene/chromosome dosage effects
 ** Germline/inherited changes
-- Chromosomal dosage - polyploidy, aneuploidy
-- Gene dosage - strictly regulated! Translocations, partial deletions, partial duplications
-- Point mutations - chance of error in replication
-- Epigenetic changes - change in regulation of expression, *transgenerational inheritance of epigenetic mistakes*
+ - Chromosomal dosage - polyploidy, aneuploidy
+ - Gene dosage - strictly regulated! Translocations, partial deletions, partial duplications
+ - Point mutations - chance of error in replication
+ - Epigenetic changes - change in regulation of expression, *transgenerational inheritance of epigenetic mistakes*
 
 * Structural variation
-- heterochromatin (repeats, not active) - Y chromosome, long arm of 1 and 9 have blocks of it
-- Inversions - may or may not involve centromere
-- epigenetic modification
-- heterochromatin blocks or chromosomal abnormalities can be used as markers when studying pedigrees
+ - heterochromatin (repeats, not active) - Y chromosome, long arm of 1 and 9 have blocks of it
+ - Inversions - may or may not involve centromere
+ - epigenetic modification
+ - heterochromatin blocks or chromosomal abnormalities can be used as markers when studying pedigrees
 
 * Structural abnormalities
-- Only pathogenic when it alters gene function
-- Balanced vs unbalanced translocations
-- Balanced translocations :: Individual is normal but children may not be, potential for recurring miscarriages
-- Within chromosomes, between chromosomes
+ - Only pathogenic when it alters gene function
+ - Balanced vs unbalanced translocations
+ - Balanced translocations :: Individual is normal but children may not be, potential for recurring miscarriages
+ - Within chromosomes, between chromosomes
 
 * Severity of disease not related to size of change
-- Related to number of genes involved - one small change affecting 100s of genes has more of an effect than one large change affecting one big gene
-- Spectral karyotyping (chromosome painting)
+ - Related to number of genes involved - one small change affecting 100s of genes has more of an effect than one large change affecting one big gene
+ - Spectral karyotyping (chromosome painting)
 
 * CNVs
-- More subtle
-- Small segments of genome
-- Very common
-- NAHR
-- Tumor lines - loss of genes
-- DECIPHER project - CNVs and diseases with phenotypic impact, Sanger centre website
+ - More subtle
+ - Small segments of genome
+ - Very common
+ - NAHR
+ - Tumor lines - loss of genes
+ - DECIPHER project - CNVs and diseases with phenotypic impact, Sanger centre website
 
 * What are the best genetic markers?
-- Easy to find - need to know where it is!
-- Must be *POLYMORPHIC* - need to be able to tell alleles apart
-- Must be appropriate for population - some populations may have certain markers not present in others
-- High enough frequency to be confident looking at a polymorphism and to find a statistically significant difference
-- Frequency of minor allele is important
-- Proteins were once used as polymorphic markers
-- Biallelic systems -> 0.5 to increase statistical power
-- VNTRs (Variable number tandem repeats) - minisatellites
-- STRs (Short tandem repeats) - microsatellites
-- indels
-- SNPs
-- mutations in somatic cells -> marker only in offspring, e.g. tumour
-- in germline, in whole individual
-- i8mpact on phenotype may determine whether a change becomes established within a population (selected positively or negatively)
+ - Easy to find - need to know where it is!
+ - Must be *POLYMORPHIC* - need to be able to tell alleles apart
+ - Must be appropriate for population - some populations may have certain markers not present in others
+ - High enough frequency to be confident looking at a polymorphism and to find a statistically significant difference
+ - Frequency of minor allele is important
+ - Proteins were once used as polymorphic markers
+ - Biallelic systems -> 0.5 to increase statistical power
+ - VNTRs (Variable number tandem repeats) - minisatellites
+ - STRs (Short tandem repeats) - microsatellites
+ - indels
+ - SNPs
+ - mutations in somatic cells -> marker only in offspring, e.g. tumour
+ - in germline, in whole individual
+ - i8mpact on phenotype may determine whether a change becomes established within a population (selected positively or negatively)
 
 * VNTRs
-- Telomeres, centromeres, repeats,
-- Concentrated in core areas
-- Originally used in fingerprinting but not anymore
-- Still large, so not great
+ - Telomeres, centromeres, repeats,
+ - Concentrated in core areas
+ - Originally used in fingerprinting but not anymore
+ - Still large, so not great
 
 * STRs
-- Dinucleotide repeats
+ - Dinucleotide repeats
 
 * SNPs
-- Big revolution in last decade
-- Very frequent, at least 1 every 1000bp
-- HapMap, 1000 genomes project
-- 100,000 genomes project, NHS + government = patients own data, as opposed to iceland where companies buy and sell it
-- Downsides :: biallelic, need lots of them; tandem repeats have multiple loci, 10-20 vs 2 in SNPs
+ - Big revolution in last decade
+ - Very frequent, at least 1 every 1000bp
+ - HapMap, 1000 genomes project
+ - 100,000 genomes project, NHS + government = patients own data, as opposed to iceland where companies buy and sell it
+ - Downsides :: biallelic, need lots of them; tandem repeats have multiple loci, 10-20 vs 2 in SNPs
 
 * Common SNPs
-- Cytosine to uracil, fixed back
-- 5-methylCytosine to thymine, not repeaired because thymine is a valid base
-- SNPs can be more frequent in certain populations due to population migration and bottleneck effect
+ - Cytosine to uracil, fixed back
+ - 5-methylCytosine to thymine, not repeaired because thymine is a valid base
+ - SNPs can be more frequent in certain populations due to population migration and bottleneck effect
 
 * Other stuff
-- Linkage = locus
-- Association = alleles, which variant?
-- Genetic maps -> recombination > centimorgans
-- Recombination frequency not equal across chromosome
-- Hence, not fully representative of physical maps of genome
-- Male vs female recombination frerquency different
-- Transmission disequilibrium test = TdT
-- Changes in gene B with less variation can be more dramatic than changes in gene A which has more variation, can be controlled by intergenic regions, histone modifications
+ - Linkage = locus
+ - Association = alleles, which variant?
+ - Genetic maps -> recombination > centimorgans
+ - Recombination frequency not equal across chromosome
+ - Hence, not fully representative of physical maps of genome
+ - Male vs female recombination frerquency different
+ - Transmission disequilibrium test = TdT
+ - Changes in gene B with less variation can be more dramatic than changes in gene A which has more variation, can be controlled by intergenic regions, histone modifications

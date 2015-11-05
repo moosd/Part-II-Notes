@@ -3,135 +3,135 @@
 #+DATE Tue 3 Nov, 2015
 
 * Intro
-- B cell development in bone marrow - antigen independant
-- Naive antibody repertoire
-- Restricts potential
-- LMPP - Lymphoid Myeloid Progenitor
-- (Mercer et al, Seminars in Immunology)
-- Ikaros and PU1 critical for determining fate
+ - B cell development in bone marrow - antigen independant
+ - Naive antibody repertoire
+ - Restricts potential
+ - LMPP - Lymphoid Myeloid Progenitor
+ - (Mercer et al, Seminars in Immunology)
+ - Ikaros and PU1 critical for determining fate
 
-- Common Lymphoid Progenitor (CLP) ( T or B cell)
-- E2A, Notch, etc push towards T cell lineage
-- E2A, Ikaros, EBF, Foxo1 push to B cell lineage
-- Commitment - just makes antibodies
+ - Common Lymphoid Progenitor (CLP) ( T or B cell)
+ - E2A, Notch, etc push towards T cell lineage
+ - E2A, Ikaros, EBF, Foxo1 push to B cell lineage
+ - Commitment - just makes antibodies
 
 * Transcription factor network
-- Pax5 - commitment factor for B cells
-- Up to this stage, quite plastic
-- Pax5 knockout -> in early B cells, no recombination of Ig -> no further progression
-- Left cultures in incubator, differentiated into other cell types - T cells, NK cells, etc
-- Removes ability to commit to a lineage
+ - Pax5 - commitment factor for B cells
+ - Up to this stage, quite plastic
+ - Pax5 knockout -> in early B cells, no recombination of Ig -> no further progression
+ - Left cultures in incubator, differentiated into other cell types - T cells, NK cells, etc
+ - Removes ability to commit to a lineage
 
-- All transcriptional factors act coordinated - regulate each other, regulate often overlapping sets of genes
-- Mext generation sequencing - build up picture of what genes regulate
-- Computational modelling
+ - All transcriptional factors act coordinated - regulate each other, regulate often overlapping sets of genes
+ - Mext generation sequencing - build up picture of what genes regulate
+ - Computational modelling
 
 * B cell development
-- Biological classification
-- Technical classification - flow cytometry
-- Hardy = Philadelphia classification
-- B220 :: metalloprotein phosphatase - always on B cells
-- CD19 :: marker of commitment (Pax5) - function is actually later in B cell development
-- Cell surface markers, can also look at transcriptional profiles
-- Downregulation of RAG enzyme -> allelic exclusion
-- Reupregulation -> rearranging light chains
+ - Biological classification
+ - Technical classification - flow cytometry
+ - Hardy = Philadelphia classification
+ - B220 :: metalloprotein phosphatase - always on B cells
+ - CD19 :: marker of commitment (Pax5) - function is actually later in B cell development
+ - Cell surface markers, can also look at transcriptional profiles
+ - Downregulation of RAG enzyme -> allelic exclusion
+ - Reupregulation -> rearranging light chains
 
 * VDJ
-- D->J first
-- Most diversity from V->DJ
-- How is igH recombination happening ONLY in B cells?
-- Accessibility hypothesis
-- Non coding transcripts found - two of them
-- From last D gene
-- Chromatin open and accessible for recombination
-- The next stage, ncRNA over V genes
-- For various sequential stages to occur
-- Transcriptional factors cause looping for recombination
-- All open, all able to recombine to same extent
+ - D->J first
+ - Most diversity from V->DJ
+ - How is igH recombination happening ONLY in B cells?
+ - Accessibility hypothesis
+ - Non coding transcripts found - two of them
+ - From last D gene
+ - Chromatin open and accessible for recombination
+ - The next stage, ncRNA over V genes
+ - For various sequential stages to occur
+ - Transcriptional factors cause looping for recombination
+ - All open, all able to recombine to same extent
 
 * Models
-- Stochastic modelling
-- RAG enzymes themselves recruit Ig alleles together, pairing of IgH alleles
-- Two accessible, bound by RAG and brought together
-- One cleaved. ATM sequesters second allele to pericentric heterochromatin
-- Cant be recombined
+ - Stochastic modelling
+ - RAG enzymes themselves recruit Ig alleles together, pairing of IgH alleles
+ - Two accessible, bound by RAG and brought together
+ - One cleaved. ATM sequesters second allele to pericentric heterochromatin
+ - Cant be recombined
 
-- If recombination not productive, second allele can detach from pericentric heterochromatin
-- Lots of dynamic signalling
-- Before polypeptide is made, ATM recruits second allele
+ - If recombination not productive, second allele can detach from pericentric heterochromatin
+ - Lots of dynamic signalling
+ - Before polypeptide is made, ATM recruits second allele
    + Sequestering second allele
    + Then maintenance of this by pre-BCR signalling
 
-- Must proliferate lots after recombination event -> only 1 in 3 are productive
-- Must divide to recover cell pool for next recombination
+ - Must proliferate lots after recombination event -> only 1 in 3 are productive
+ - Must divide to recover cell pool for next recombination
 
-- IL7 drives B cell proliferation
-- IL7R and preBCR synergise
-- Then downregulates IL7R
-- IL7R activates complementary proliferative pathways
-- Ultimately dependant on preBCR then BCR, autonomous from stromal cells that secrete IL7
+ - IL7 drives B cell proliferation
+ - IL7R and preBCR synergise
+ - Then downregulates IL7R
+ - IL7R activates complementary proliferative pathways
+ - Ultimately dependant on preBCR then BCR, autonomous from stromal cells that secrete IL7
 
 * Heavy chain
-- VpreB and \lambda5 act as surrogate light chain
-- CDR3 - 3' end of V and D and 5' end of J
+ - VpreB and \lambda5 act as surrogate light chain
+ - CDR3 - 3' end of V and D and 5' end of J
 
 * Light genes
-- only V and J genes
-- Allelic exclusion in different one
-- kappa chain silences one allele, recombines other allele (cf H chain, other way round, which recombines then silences)
-- CpG methylation to supress recombination
+ - only V and J genes
+ - Allelic exclusion in different one
+ - kappa chain silences one allele, recombines other allele (cf H chain, other way round, which recombines then silences)
+ - CpG methylation to supress recombination
 
-- acetylated histone over J genes first
-- one allele recruited to pericentric heterochromatin by Ikaros
+ - acetylated histone over J genes first
+ - one allele recruited to pericentric heterochromatin by Ikaros
 
-- REL-B takes out DNA methylation mark
-- One allele can recombine, other cannot
-- Light chain heavy chain alleles recruited to pericentric heterochromatin together
+ - REL-B takes out DNA methylation mark
+ - One allele can recombine, other cannot
+ - Light chain heavy chain alleles recruited to pericentric heterochromatin together
 
 * BCR receptor editing
-- Immature BCR cell stage#
-- If BCR functional, goes on and exits to blood
-- Non functional, kappa chain can undergo receptor editing
-- Jk2 not functional? Try Jk3,4,...
-- Also to remove self reactive BCRs
+ - Immature BCR cell stage#
+ - If BCR functional, goes on and exits to blood
+ - Non functional, kappa chain can undergo receptor editing
+ - Jk2 not functional? Try Jk3,4,...
+ - Also to remove self reactive BCRs
 
-- Order of usage of kappa alleles strict
-- Both kappa used first before lambda
+ - Order of usage of kappa alleles strict
+ - Both kappa used first before lambda
 
 * Differences in ratios
-- Humans - more efficient? Mouse must apoptose more cells because of non functional lambda chain
-- Whereas humans have more lambda chains, so can keep going for longer?
+ - Humans - more efficient? Mouse must apoptose more cells because of non functional lambda chain
+ - Whereas humans have more lambda chains, so can keep going for longer?
 
 * Diseases
-- SCID - defective VDJ recombination
-- Omenn's syndrome - immunodeficiency with facial features
+ - SCID - defective VDJ recombination
+ - Omenn's syndrome - immunodeficiency with facial features
    + RAG mutation
-- RF-SCID - mutation in DNA repair, less of NHEJ pathway
+ - RF-SCID - mutation in DNA repair, less of NHEJ pathway
 
 ** At level of genome
-- Chromosomal translocation
-- Aberrant VDJ recombination
-- RSS not that rigid - many cryptic RSSs in genome
-- In right situations, lead to derivative chromosomes?
-- Chromosomal translocation with nuclear proximity
-- B cell lymphoma - Igh-Bcl2
+ - Chromosomal translocation
+ - Aberrant VDJ recombination
+ - RSS not that rigid - many cryptic RSSs in genome
+ - In right situations, lead to derivative chromosomes?
+ - Chromosomal translocation with nuclear proximity
+ - B cell lymphoma - Igh-Bcl2
 
-- MYC - chr 15 in mice, 8 in humans
-- FISH for MYC and Igh, colocalise a lot
-- Transcription factory (focus of transcription)
-- Chromatin quite open
-- Aberrant recombination event
+ - MYC - chr 15 in mice, 8 in humans
+ - FISH for MYC and Igh, colocalise a lot
+ - Transcription factory (focus of transcription)
+ - Chromatin quite open
+ - Aberrant recombination event
 
-- Burtkitts lymphoma
+ - Burtkitts lymphoma
 
-- XLA from mutations in Btk gene
+ - XLA from mutations in Btk gene
 
 ** Defective B cell development during ageing
-- Erythrocutes do well - can donate blood up to 70 years old
-- Lymphocytes not so well - can donate bone marrow up to 40 years
-- Otherwise, will not replenish immune system
-- Far fewer of them, make far fewer new antibodies, multiply slowly
-- Increased susceptibility to new infections
-- Decreased response to vaccines
-- Ageing leads to decreased production of IL7 from stromal cells, decrease in signalling response to IL7
-- First stage of defective response to infection
+ - Erythrocutes do well - can donate blood up to 70 years old
+ - Lymphocytes not so well - can donate bone marrow up to 40 years
+ - Otherwise, will not replenish immune system
+ - Far fewer of them, make far fewer new antibodies, multiply slowly
+ - Increased susceptibility to new infections
+ - Decreased response to vaccines
+ - Ageing leads to decreased production of IL7 from stromal cells, decrease in signalling response to IL7
+ - First stage of defective response to infection

@@ -4,194 +4,194 @@
 
 * Structure
 First lecture: Immunological synapse
-- Controversies
-- Methods
-- What is the function?
+ - Controversies
+ - Methods
+ - What is the function?
 
 Second lecture: 
-- Insights into role of the synapse
-- How CTLs work
-- Mouse models to understand cytotoxic killing activity
-- Insights from human genetic diseases
+ - Insights into role of the synapse
+ - How CTLs work
+ - Mouse models to understand cytotoxic killing activity
+ - Insights from human genetic diseases
 
 * Reading a paper:
-- What are the main conclusions?
-- Are they supported by the data?
-- Are the methods used appropriate?
+ - What are the main conclusions?
+ - Are they supported by the data?
+ - Are the methods used appropriate?
    + Read the methods section!
 
 * Immune system stuff
-- Many cells in the immune system
-- They must communicate with each other to form an efficient adaptive response
-- One way is through the immunological synapse
+ - Many cells in the immune system
+ - They must communicate with each other to form an efficient adaptive response
+ - One way is through the immunological synapse
 
 * (Paul and Seder, 1994)
-- Focused secretion of cytokines into a small area
-- Increases apparent concentration
-- Directed to individual cell rather than paracrine signalling to everywhere
+ - Focused secretion of cytokines into a small area
+ - Increases apparent concentration
+ - Directed to individual cell rather than paracrine signalling to everywhere
 
 * (Poe and Janeway, 1988)
-- Directed secretion of IL4 from T cells over area of TCR crosslinking
+ - Directed secretion of IL4 from T cells over area of TCR crosslinking
 
 * (Kupfer, Mossman and Kupfer, 1991)
-- Immunofluorescence microscopy
-- IL2,4,5 and IFN\gamma secreted directly toward B cell conjugates
-- microtubule organisation centre = MTOC, polarised toward point of secretion
+ - Immunofluorescence microscopy
+ - IL2,4,5 and IFN\gamma secreted directly toward B cell conjugates
+ - microtubule organisation centre = MTOC, polarised toward point of secretion
 
 * Confocal microscopy
-- Confocal microscopy, uses laser and blocks out of focus light
-- Increases resolution of images
+ - Confocal microscopy, uses laser and blocks out of focus light
+ - Increases resolution of images
 
 * (Monks et al, 1998)
-- Talins interact with integrins
-- PCK\phi interacts with TCR
-- Imaging it, can see a cSMAC which forms in the centre, (PKC\phi with TCR), and pSMAC around it (talins)
+ - Talins interact with integrins
+ - PCK\phi interacts with TCR
+ - Imaging it, can see a cSMAC which forms in the centre, (PKC\phi with TCR), and pSMAC around it (talins)
 
-- Review :: (Delon and Germain, 2000)
+ - Review :: (Delon and Germain, 2000)
 
 * Role of the immunological synapse
-- Enhance signalling?
-- Downregulate signalling?
-- Polarise signalling?
+ - Enhance signalling?
+ - Downregulate signalling?
+ - Polarise signalling?
 
-- TCR recruits Lck, Zap70, balanced by CD45 phosphatase
+ - TCR recruits Lck, Zap70, balanced by CD45 phosphatase
 
 
 * (Springer, 1990)
-- Signalling proteins are smaller than phosphatases (which have huge extracellular domains)
-- Close contact excludes CD45 from membrane, could affect signalling?
-- Maybe reason for cSMAC to cluster signalling molecules together is to exclude CD45
-- Kinetic segregation model, (David and van der Merwe, 2006)
+ - Signalling proteins are smaller than phosphatases (which have huge extracellular domains)
+ - Close contact excludes CD45 from membrane, could affect signalling?
+ - Maybe reason for cSMAC to cluster signalling molecules together is to exclude CD45
+ - Kinetic segregation model, (David and van der Merwe, 2006)
 
 * Test this using antiphosphotyrosine antibodies
-- TCR shown to be activated at periphery of synapse at early timepoints (Lee et al, 2012)
-- Perhaps cSMAC therefore downregulates T cell signalling?
+ - TCR shown to be activated at periphery of synapse at early timepoints (Lee et al, 2012)
+ - Perhaps cSMAC therefore downregulates T cell signalling?
 
 * TIRF - Total internal reflection microscopy
-- Images 200nm above coverslip
-- Con :: Does not let you see rest of cell
-- (Samelson et al, 2010) - create artificial synapses to image interaction
-- Supported lipid bilayer :: artificial bilayer with peptide-MHC complexes embedded
-- Con :: No actin skeleton, but otherwise pretty good model
-- Coated coverslip :: Poor mans version, with anti TCR antibodies fixed
-- Con :: Nothing can move around, much less motile!
+ - Images 200nm above coverslip
+ - Con :: Does not let you see rest of cell
+ - (Samelson et al, 2010) - create artificial synapses to image interaction
+ - Supported lipid bilayer :: artificial bilayer with peptide-MHC complexes embedded
+ - Con :: No actin skeleton, but otherwise pretty good model
+ - Coated coverslip :: Poor mans version, with anti TCR antibodies fixed
+ - Con :: Nothing can move around, much less motile!
 
 * TCR transgenic mice as model
-- Rag -/- background so monoclonal mice
+ - Rag -/- background so monoclonal mice
 
-- Centripetal inward flow of actin causes inward movement of TCR microtubules to form cSMAC
-- Hence early specs?
-- But what happens to TCR of cSMAC?
-- CD45 excluded from TCR areas in microtubules, included in cSMAC
-- Signalling ONLY in microclusters? Signalling all over by cSMAC? - downregulating TCRs?
-- Immunological synapse as point of internalisation for TCR?
-- Control level of signalling?
+ - Centripetal inward flow of actin causes inward movement of TCR microtubules to form cSMAC
+ - Hence early specs?
+ - But what happens to TCR of cSMAC?
+ - CD45 excluded from TCR areas in microtubules, included in cSMAC
+ - Signalling ONLY in microclusters? Signalling all over by cSMAC? - downregulating TCRs?
+ - Immunological synapse as point of internalisation for TCR?
+ - Control level of signalling?
 
 * (Lui et al, 2000)
-- TCR delivered to immulogoical synapse
+ - TCR delivered to immulogoical synapse
 
 * (Vardhana et al, 2010)
-- Review TSG101
-- TSG101 knockdown prevents cSMAC formation
+ - Review TSG101
+ - TSG101 knockdown prevents cSMAC formation
 
 * But synapse does not seem to be all about downregulation
-- Change extracellular domain by using Thy1 of CD45
-- Could turn off activatopm, since CD45 could come right next to TCR
-- Shorter/larger domain controlled ability to trigger activation
-- In CD8 cells, cSMAC leads to receptor signalling!
+ - Change extracellular domain by using Thy1 of CD45
+ - Could turn off activatopm, since CD45 could come right next to TCR
+ - Shorter/larger domain controlled ability to trigger activation
+ - In CD8 cells, cSMAC leads to receptor signalling!
 
 * Secretion hypothesis
-- (Huse, Quann and Davis, 2008)
-- CD8 cells focus secretion directing to kill
-- CD4 cells focus secretion to signal
-- Structure for focal secretion?
+ - (Huse, Quann and Davis, 2008)
+ - CD8 cells focus secretion directing to kill
+ - CD4 cells focus secretion to signal
+ - Structure for focal secretion?
 
-- CTLs and NK cells destroy tumorigenic and virally infected cells
-- Lytic granules move along microtubules and secrete their contents at immunological synapse
+ - CTLs and NK cells destroy tumorigenic and virally infected cells
+ - Lytic granules move along microtubules and secrete their contents at immunological synapse
 
-- NK cells = non specific defence
-- CTLs = several days later, but more specific
-- Perforin -> forms pores
-- Granzymes -> activates caspases
-- Fas ligand
+ - NK cells = non specific defence
+ - CTLs = several days later, but more specific
+ - Perforin -> forms pores
+ - Granzymes -> activates caspases
+ - Fas ligand
 
-- T cell can sense it has killed target, removes self and can kill again
-- Precise delivery important - increases effective conc, decreases collateral damage by targetting
+ - T cell can sense it has killed target, removes self and can kill again
+ - Precise delivery important - increases effective conc, decreases collateral damage by targetting
 
 * Lymphocytes
-- Centrosome = MTOC
-- Most cells, nestle next to nucleus
-- Chromosome segregation uses
-- T cells, when moving around, centrosomes at rear of cell (stain \gamma-tubulin)
-- Moves to front, scans immunological synapse, comes to focus at one spot - cSMAC
-- Lck
+ - Centrosome = MTOC
+ - Most cells, nestle next to nucleus
+ - Chromosome segregation uses
+ - T cells, when moving around, centrosomes at rear of cell (stain \gamma-tubulin)
+ - Moves to front, scans immunological synapse, comes to focus at one spot - cSMAC
+ - Lck
 
 * (Stinchcombe et al, 2006)
-- Reorganises microtubules
-- Polarises for secretion
-- ALL cytolytic cells - NK cells, \gamma\delta cells, etc
+ - Reorganises microtubules
+ - Polarises for secretion
+ - ALL cytolytic cells - NK cells, \gamma\delta cells, etc
 
-- Secretion occurs in a specialised domain in the immunological synapse - the secretory domain
+ - Secretion occurs in a specialised domain in the immunological synapse - the secretory domain
 
-- dSMAC = distal SMAC
-- Granules are delivered where actin is cleared
-- Superrresolution microscopy - shows actin not cleared at all! All over synapse
+ - dSMAC = distal SMAC
+ - Granules are delivered where actin is cleared
+ - Superrresolution microscopy - shows actin not cleared at all! All over synapse
 
 * (Brown et al, 2011) (Rak et al, 2011)
-- Collinder/toilet bowl model
-- Short microtubules from the centrosome make the final delivery
-- granule contents secreted into a small cleft
-- Golgi apparatus becomes closely polarised to plasma membrane when centrioles dock
-- Hence, any new proteins being made are secreted at synapse too
-- EM tomography - in CD4+ cells too (Uedelt et al, 2011)
+ - Collinder/toilet bowl model
+ - Short microtubules from the centrosome make the final delivery
+ - granule contents secreted into a small cleft
+ - Golgi apparatus becomes closely polarised to plasma membrane when centrioles dock
+ - Hence, any new proteins being made are secreted at synapse too
+ - EM tomography - in CD4+ cells too (Uedelt et al, 2011)
 
 * So synapse all about secretion?
-- Centrosome docking is unusual - focal point for endocytosis and exocytosis
-- Primary and motile cilia
-- Known to be secretion and endocytosis at cilium too
-- (Griffiths et al, 2010)
-- Endocytosis for cytokines, accidentally take in TCRs?
-- Centrosome is causing specialisation of membrane for secretion and endocytosis
+ - Centrosome docking is unusual - focal point for endocytosis and exocytosis
+ - Primary and motile cilia
+ - Known to be secretion and endocytosis at cilium too
+ - (Griffiths et al, 2010)
+ - Endocytosis for cytokines, accidentally take in TCRs?
+ - Centrosome is causing specialisation of membrane for secretion and endocytosis
 
 * What are the proteins that make CTLs and NK cells efficient killers?
-- Perforin - like C9 of complement
-- Lysosomes contain hydrolases and granzymes (granule contained enzymes)
-- + perforin to create pore and inject material
-- Ca2+ dependant C2 like part, hence only activates when released
+ - Perforin - like C9 of complement
+ - Lysosomes contain hydrolases and granzymes (granule contained enzymes)
+ - + perforin to create pore and inject material
+ - Ca2+ dependant C2 like part, hence only activates when released
 
 * Controversy over granzyme activity
-- Uptake by endocytosis with perforin into endosomes, where it does things
-- Con :: Problem is that perforin to form pores in very pH sensitive, around pH 7 - endosomes become acidic very quickly
-- Entry through perforin pore at plasma membrane - most evidence for this
+ - Uptake by endocytosis with perforin into endosomes, where it does things
+ - Con :: Problem is that perforin to form pores in very pH sensitive, around pH 7 - endosomes become acidic very quickly
+ - Entry through perforin pore at plasma membrane - most evidence for this
 
-- Some viruses make decoy targets for granzymes, hence multiple substrate specifities from different granzymes
+ - Some viruses make decoy targets for granzymes, hence multiple substrate specifities from different granzymes
 
 * (Stepp et al, Science, 1999)
-- Perforin as defective gene in FLH/HLH
-- FLH not downregulating to memory cells!
-- Hence infiltration of organs
-- 20% of FHL have mutations in perforin
-- Rest in exocytosis pathway
-- Albinism - melanocyte secretion defect
+ - Perforin as defective gene in FLH/HLH
+ - FLH not downregulating to memory cells!
+ - Hence infiltration of organs
+ - 20% of FHL have mutations in perforin
+ - Rest in exocytosis pathway
+ - Albinism - melanocyte secretion defect
 
-- FHL mutations block secretion at synapse
-- Docking (Rab27a), Priming (Muc13-4), Fusion (Syntaxin 11, Munc 18-2)
-- Syntaxins and Munc proteins -> membrane fusion
-- Membrane fusion tightly regulated
-- Munc proteins regulate fusion events
-- Munc13 holds SNAREs open
-- Munc18 binds to syntaxins - selection of right one? Delivery by bringing it to right place?
+ - FHL mutations block secretion at synapse
+ - Docking (Rab27a), Priming (Muc13-4), Fusion (Syntaxin 11, Munc 18-2)
+ - Syntaxins and Munc proteins -> membrane fusion
+ - Membrane fusion tightly regulated
+ - Munc proteins regulate fusion events
+ - Munc13 holds SNAREs open
+ - Munc18 binds to syntaxins - selection of right one? Delivery by bringing it to right place?
 
 * HLH
-- IL2 cures Munc mutations from FLH in vitro
-- Diseases indistinguishable otherwise from perforin mutations otherwise
+ - IL2 cures Munc mutations from FLH in vitro
+ - Diseases indistinguishable otherwise from perforin mutations otherwise
 
-- Munc 18-2 protein binds syntaxin 11 selectively, and syntaxin 3 at 20x less affinity
-- IL2 upregulates syntaxin 3
-- Syntaxins interchangeable
-- Hence upregulation -> restores function
+ - Munc 18-2 protein binds syntaxin 11 selectively, and syntaxin 3 at 20x less affinity
+ - IL2 upregulates syntaxin 3
+ - Syntaxins interchangeable
+ - Hence upregulation -> restores function
 
 * SCID
-- ZAP70 mutation -> no TCR activation -> no selection in thymus
-- but normal NK cells -> totally different signalling
-- Hence dont develop FHL -> have NK cells
+ - ZAP70 mutation -> no TCR activation -> no selection in thymus
+ - but normal NK cells -> totally different signalling
+ - Hence dont develop FHL -> have NK cells

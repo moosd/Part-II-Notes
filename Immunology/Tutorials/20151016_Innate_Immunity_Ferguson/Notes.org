@@ -1,24 +1,24 @@
 * Innate immunity impact on adaptive immunity
-- Initial sensor, localisation
-- Drives type of response
-- ADCC
-- APCs = captures and presents material
-- w/o innate -> tolerisation
-- Adaptive uses innate as effector
+ - Initial sensor, localisation
+ - Drives type of response
+ - ADCC
+ - APCs = captures and presents material
+ - w/o innate -> tolerisation
+ - Adaptive uses innate as effector
 
 * Molecular systems
-- What is it?
-- How does it work?
-- What happens when it goes wrong?
+ - What is it?
+ - How does it work?
+ - What happens when it goes wrong?
 
 * Innate thoughts
-- Problem: Almost fixed genome vs evolving genome
-- Adaptive immunity = evolution on steroids to reach a stalemate
-- Memory, protection against same pathogen
+ - Problem: Almost fixed genome vs evolving genome
+ - Adaptive immunity = evolution on steroids to reach a stalemate
+ - Memory, protection against same pathogen
 
 * PAMPs and DAMPs
-- DAMPs can mean presence of pathogen that has distuirbed host
+ - DAMPs can mean presence of pathogen that has distuirbed host
 
 * Pro-inflammatory vs anti-inflammatory?
-- HOMEOSTASIS
-- We live in the midst of explosive devices; we are mined - Lewis Thomas
+ - HOMEOSTASIS
+ - We live in the midst of explosive devices; we are mined - Lewis Thomas

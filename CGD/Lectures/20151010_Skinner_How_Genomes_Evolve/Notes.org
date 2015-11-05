@@ -4,117 +4,117 @@
 #+DATE Sat 10 Oct, 2015
 
 * Slide 1
-- No notes taken
+ - No notes taken
 * Slide 2
-- Impact of evolutionary rearrangements - similarity to diseases?
+ - Impact of evolutionary rearrangements - similarity to diseases?
 * Slide 3
-- No notes taken
+ - No notes taken
 * Slide 4
-- Segmental duplications were first class of CNVs to be identified
-- CNVs range from 1kb+ - not a biological limit, can be single base pairs! Technological limit based around tech available at the time of their discovery ~ 15 years ago
-- Stretch to several Megabases - duplications of entire chromosomes!
+ - Segmental duplications were first class of CNVs to be identified
+ - CNVs range from 1kb+ - not a biological limit, can be single base pairs! Technological limit based around tech available at the time of their discovery ~ 15 years ago
+ - Stretch to several Megabases - duplications of entire chromosomes!
 * Slide 5
-- Dye swap done because of different affinities of dyes to DNA
-- Microarray experiments - fragments of DNA glued to glass slide, coverage across genome
-- higher amount of reference DNA present - more of reference signal
-- CNVs stand out against background
-- These days mostly done by sequencing
+ - Dye swap done because of different affinities of dyes to DNA
+ - Microarray experiments - fragments of DNA glued to glass slide, coverage across genome
+ - higher amount of reference DNA present - more of reference signal
+ - CNVs stand out against background
+ - These days mostly done by sequencing
 * Slide 6
-- CNVRs - *regions* of DNA where CNVs can take up space.
-- CNVRs - any region with overlapping CNVs from many different individuals
+ - CNVRs - *regions* of DNA where CNVs can take up space.
+ - CNVRs - any region with overlapping CNVs from many different individuals
 * Slide 7
-- What CNVs are variable across the entire human species and what others are variable within certain populations?
-- 360Mb CNVs - ompact on gene regulation and hence phenotype?
-- Median size 81kb - can contain entire genes! Not just regulatory regions!
-- 50% >1 individual - hence not specific to the genome of one person, these are in the population
+ - What CNVs are variable across the entire human species and what others are variable within certain populations?
+ - 360Mb CNVs - ompact on gene regulation and hence phenotype?
+ - Median size 81kb - can contain entire genes! Not just regulatory regions!
+ - 50% >1 individual - hence not specific to the genome of one person, these are in the population
 * Slide 8
-- CNVs occur across genome but some regions have more than others
+ - CNVs occur across genome but some regions have more than others
 * Slide 9
-- CNVs can protect, increase disease susceptibility or cause disease themselves
-- Effect on drug responses - for taking preventative medication, or to identify drugs that work better/worse?
+ - CNVs can protect, increase disease susceptibility or cause disease themselves
+ - Effect on drug responses - for taking preventative medication, or to identify drugs that work better/worse?
 * Slide 10
-- CNVs form a basis for evolutionary processes too
-- Provides extra candidate loci for evolutionary change
+ - CNVs form a basis for evolutionary processes too
+ - Provides extra candidate loci for evolutionary change
 * Slide 11
-- CNVs vary between species - due to "unique pattern of selective forces on genomes"
+ - CNVs vary between species - due to "unique pattern of selective forces on genomes"
 * Slide 12
-- No notes taken
+ - No notes taken
 * Slide 13
-- Recombination creates diversity in gametes
-- High rate of recombination at a particular point - genes express far more diversity and variation
-- Probability of getting crossover during meiosis has implications for sequences
-- Different types of genes at hotspots vs deserts
-- Need at least one recombination event per chromosome
-- Hence no of chromosomes affect global recombination rate - more chromosomes lead to faster evolution and generation
-- Some species, e.g. C elegans have only exactly one crossover per chromosome
-- Dont have centromeres sequences, centromere forms at point of crossover, dont need complex repetitive sequences like satellite DNA
+ - Recombination creates diversity in gametes
+ - High rate of recombination at a particular point - genes express far more diversity and variation
+ - Probability of getting crossover during meiosis has implications for sequences
+ - Different types of genes at hotspots vs deserts
+ - Need at least one recombination event per chromosome
+ - Hence no of chromosomes affect global recombination rate - more chromosomes lead to faster evolution and generation
+ - Some species, e.g. C elegans have only exactly one crossover per chromosome
+ - Dont have centromeres sequences, centromere forms at point of crossover, dont need complex repetitive sequences like satellite DNA
 * Slide 14
-- Holliday junctions are NOT STATIC - can migrate up and down chromosome until settles on a point where recombination occurs
-- Heteroduplex regions - the different alleles may not match exactly - undergoes gene conversion to look like other gene.
-- Biased because GT is converted to GC as cytosine spontaneously deaminates to thymine - gradual increase in GC content
+ - Holliday junctions are NOT STATIC - can migrate up and down chromosome until settles on a point where recombination occurs
+ - Heteroduplex regions - the different alleles may not match exactly - undergoes gene conversion to look like other gene.
+ - Biased because GT is converted to GC as cytosine spontaneously deaminates to thymine - gradual increase in GC content
 * Slide 15
-- Translocations :: reciprocal e.g. Philadelphia chromosome
-- Inversions :: If enhancer or promoter, now will drive in opposite direction - may be a gene there!
-- Conversion :: Paralog = duplication within species, homogenising between duplicated genes while increasing allelic divergence
+ - Translocations :: reciprocal e.g. Philadelphia chromosome
+ - Inversions :: If enhancer or promoter, now will drive in opposite direction - may be a gene there!
+ - Conversion :: Paralog = duplication within species, homogenising between duplicated genes while increasing allelic divergence
 * Slide 16
-- NHEJ restores structural genomic integrity but not sequence integrity
-- B-NHEJ more ancient, less efficient
+ - NHEJ restores structural genomic integrity but not sequence integrity
+ - B-NHEJ more ancient, less efficient
 * Slide 17
-- Results in variation - not restoring exact sequences
+ - Results in variation - not restoring exact sequences
 * Slide 18, 19, 20
-- No notes taken
+ - No notes taken
 * Slide 21
-- Deletions happen with two DSBs and middle segment lost
-- Inversion when two DSBs and middle sequences joined wrong way round
-- Complex rearrangements with 3 DSBs
-- Can happen between chromosomes, homologous and non homologous
+ - Deletions happen with two DSBs and middle segment lost
+ - Inversion when two DSBs and middle sequences joined wrong way round
+ - Complex rearrangements with 3 DSBs
+ - Can happen between chromosomes, homologous and non homologous
 * Slide 22
-- NAHR - clustered around hotspots
-- NHEJ - repairs DSBs which happen randomly due to physical processes (e.g. cosmic rays)
+ - NAHR - clustered around hotspots
+ - NHEJ - repairs DSBs which happen randomly due to physical processes (e.g. cosmic rays)
 * Slide 23
-- No notes taken
+ - No notes taken
 * Slide 24
-- Evolutionary breakpoints in different species relative to ancestral genome
+ - Evolutionary breakpoints in different species relative to ancestral genome
 * Slide 25
-- HSA13 = human chromosome 13
-- A few breakpoints only in rodent lineage in mice and rats!
-- Some breakpoints almost in all - very ancestral!
-- Syntenic blocks are places with no evolutionary breakpoints - vital genes!
+ - HSA13 = human chromosome 13
+ - A few breakpoints only in rodent lineage in mice and rats!
+ - Some breakpoints almost in all - very ancestral!
+ - Syntenic blocks are places with no evolutionary breakpoints - vital genes!
 * Slide 26, 27
-- No notes taken
+ - No notes taken
 * Slide 28
-- Same breakpoints found in cancer because same processes lead to them! Germline -> evolutionary, somatic -> cancer
-- Within 0.4Mbp - close, greater enrichment with high frequency breakpoints by recombination
-- Further away, no difference in frequency
-- Look at ratio of grey to black in figure
+ - Same breakpoints found in cancer because same processes lead to them! Germline -> evolutionary, somatic -> cancer
+ - Within 0.4Mbp - close, greater enrichment with high frequency breakpoints by recombination
+ - Further away, no difference in frequency
+ - Look at ratio of grey to black in figure
 * Slide 29
-- Human chromosome 3 put into mouse to study effects without rest of human genome
-- CER= commonly eliminated after hybridisation happens
+ - Human chromosome 3 put into mouse to study effects without rest of human genome
+ - CER= commonly eliminated after hybridisation happens
 * Slide 30, 31
-- No notes taken
+ - No notes taken
 * Slide 32
-- HOX genes - kept together, crucial because detrimental if separated?
+ - HOX genes - kept together, crucial because detrimental if separated?
 * Slide 33, 34
-- No notes taken
+ - No notes taken
 * Slide 35
-- Genes needing evolution are foci for breakpoint regions?
+ - Genes needing evolution are foci for breakpoint regions?
 * Slide 36
-- 3D spacing important - low frequency of recombination if DSBs happen in chromosomes physically far apart in nucleus
+ - 3D spacing important - low frequency of recombination if DSBs happen in chromosomes physically far apart in nucleus
 * Slide 37
-- No notes taken
+ - No notes taken
 * Slide 38
-- In species with nocturnal activity -> selection pressure for better sight where there may not have been before (good enough)!
+ - In species with nocturnal activity -> selection pressure for better sight where there may not have been before (good enough)!
 * Slide 39
-- Mammal with smallest number of chromosomes
-- 6 in female, 7 in male
-- Male only needs one X
+ - Mammal with smallest number of chromosomes
+ - 6 in female, 7 in male
+ - Male only needs one X
 * Slide 39
-- Ancestral chromosomes fused end to end!
-- Can still interbreed - same homology between chromosomes, can still pair up
+ - Ancestral chromosomes fused end to end!
+ - Can still interbreed - same homology between chromosomes, can still pair up
 * Slide 40, 41, 42
-- No notes taken
+ - No notes taken
 * Slide 43
-- SNP - ONE base pair change and different no of feet! The TARGET matters, not the magnitude of the genomic change necessarily.
+ - SNP - ONE base pair change and different no of feet! The TARGET matters, not the magnitude of the genomic change necessarily.
 * Slide 44
-- Birds and bats - for flight, cells need higher metabolic activity, need better SA:V ratio, and so cells become smaller by making nucleus smaller by removing "junk" DNA and so have optimised genomes
-- Telomeres have capping structures that prevent them from being recognised as double strand breaks themselves
+ - Birds and bats - for flight, cells need higher metabolic activity, need better SA:V ratio, and so cells become smaller by making nucleus smaller by removing "junk" DNA and so have optimised genomes
+ - Telomeres have capping structures that prevent them from being recognised as double strand breaks themselves

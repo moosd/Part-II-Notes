@@ -1,11 +1,11 @@
 * Disorders
-- NEMO - X linked
-- XLA - Btk
+ - NEMO - X linked
+ - XLA - Btk
 
 * B cells
-- CCL21, CCL19 by DCs
-- CXCL13 by FDCs
-- CCR7 on B cell to respond to these chemokines
-- LT on B cell, BAFF = keep them alive
-- Different B cell tumours represent different stages in development
+ - CCL21, CCL19 by DCs
+ - CXCL13 by FDCs
+ - CCR7 on B cell to respond to these chemokines
+ - LT on B cell, BAFF = keep them alive
+ - Different B cell tumours represent different stages in development
 

@@ -4,45 +4,45 @@
 bibliography:Refs.bib
 
 * PRRs in Health and Disease
-- cite:pmid25829385
-- Janeway, 1989 - "a critical issue for future study is the analysis of microbial signals that induce second signaling capacity in antigen-presenting cells, and the receptors on antigen presenting cells that detect these microbial signals.… I term these receptors pattern recognition receptors (PRRs)"
-- Toll immune role discovered in 1996 (Lemaitre, 1996)
-- TLRs, C-tyle lectins (CLRs), NLRs, RLRs, AIM2-like receptors (ALRs)
-- Activation of PRRs generate inflammatory responses to control pathogens, also endogenous ligands to danger
+ - cite:pmid25829385
+ - Janeway, 1989 - "a critical issue for future study is the analysis of microbial signals that induce second signaling capacity in antigen-presenting cells, and the receptors on antigen presenting cells that detect these microbial signals.… I term these receptors pattern recognition receptors (PRRs)"
+ - Toll immune role discovered in 1996 (Lemaitre, 1996)
+ - TLRs, C-tyle lectins (CLRs), NLRs, RLRs, AIM2-like receptors (ALRs)
+ - Activation of PRRs generate inflammatory responses to control pathogens, also endogenous ligands to danger
 ** TLRs
-- 10 in humans, more identified in mouse
-- TLR4 first identified, needs MD-2
-- lbp (lps binding protein) binds and delivers lps to cd14, increasing sensitivity by 100 to 1000 fold. cd14 brings lps to md2+tlr4/4. both needed to detect lps at physiological conditions
-- bind to hexa-acyl lipid a of lps
-- P aeruginosa - pentaacyl lps to escape detection
-- Phosphorylation is important for the biological activity of LPS because diphosphorylated lipid A is more than 1000-fold more active than monophosphorylated lipid A (MPL) (Rietschel et al., 1987). 
-- TLR2 - lipoproteins, heterodimer with TLR1,6 or 10, or coop w/ Dectin-1 to detect zymosans from fungi
-- tlr2/6 heterodimers rec diacylated lipoproteins
-- TLR5 - monomeric flagellin
-- 1,2,4,5,10 in plasma membrane
-- 3, 7, 8, 9 in endosome
-- 4, 11, 13 can contrib to phagosomal-endosome component
-- leucine rich repeats for signalling
-- tlr4 recognises other things too, like hsp60,70, s pneumoniae pneumolysin
-- tlr9 = CpG motifs
-- tlr7 = ssRNA guanosine and uridine rich, Borrelia burgdorferi
-- tlr8 in humans but not mice recognise similar things to tlr7
-- tlr3 - dsRNA + poly(I:C) - viralo replication resulting in dsRNA intermediates
-- redundancy in viral sensing by endosomal tlrs
+ - 10 in humans, more identified in mouse
+ - TLR4 first identified, needs MD-2
+ - lbp (lps binding protein) binds and delivers lps to cd14, increasing sensitivity by 100 to 1000 fold. cd14 brings lps to md2+tlr4/4. both needed to detect lps at physiological conditions
+ - bind to hexa-acyl lipid a of lps
+ - P aeruginosa - pentaacyl lps to escape detection
+ - Phosphorylation is important for the biological activity of LPS because diphosphorylated lipid A is more than 1000-fold more active than monophosphorylated lipid A (MPL) (Rietschel et al., 1987). 
+ - TLR2 - lipoproteins, heterodimer with TLR1,6 or 10, or coop w/ Dectin-1 to detect zymosans from fungi
+ - tlr2/6 heterodimers rec diacylated lipoproteins
+ - TLR5 - monomeric flagellin
+ - 1,2,4,5,10 in plasma membrane
+ - 3, 7, 8, 9 in endosome
+ - 4, 11, 13 can contrib to phagosomal-endosome component
+ - leucine rich repeats for signalling
+ - tlr4 recognises other things too, like hsp60,70, s pneumoniae pneumolysin
+ - tlr9 = CpG motifs
+ - tlr7 = ssRNA guanosine and uridine rich, Borrelia burgdorferi
+ - tlr8 in humans but not mice recognise similar things to tlr7
+ - tlr3 - dsRNA + poly(I:C) - viralo replication resulting in dsRNA intermediates
+ - redundancy in viral sensing by endosomal tlrs
 ** concs
 Sequence and structure analyses demonstrate that TLR1, TLR2, TLR4, TLR6, and TLR10 belong to the three-domain subfamily; they bind to and are activated by hydrophobic ligands such as lipoproteins, LTA, LPS, etc. Conversely, TLR3, TLR5, TLR7, TLR8, and TLR9 belong to the single-domain subfamily. These TLRs interact with hydrophilic proteins or nucleic acids. The structures of the TLR1-TLR2 heterodimer and TLR3 homodimer induced by binding of agonistic ligands have revealed a common “m”-shaped architecture. In these dimeric arrangements, the C termini of the extracellular domains of TLRs converge in the center, and such a convergence should bring the two intracellular TIR domains close together and so promote their dimerization.
 ** TLR signalling
-- ligand induced dimerisation
-- five diff adaptor proteins in different combinations for diff tlrs
-- mydd88, mal, trif, tram
-- tlr3 recruits trif only, rest use myd88 at least a little
-- mydd88 -> irak1/2 irak4
-- severe truncation of the Toll and TLR ectodomains leads to constitutive receptor signalling, which suggests that the ectodomains are autoinhibitory and that ligand binding relieves this inhibition25. Thus, the juxtamembrane and transmembrane domains of the TLRs have an intrinsic propensity to dimerize.
-- Uniquely among the human TLRs, TLR3 has an alanine rather than a proline in the BB loop. Remarkably, mutation of this one residue in TLR3 to proline causes a switch in adaptor protein specificity from TRIF to MYD88 
+ - ligand induced dimerisation
+ - five diff adaptor proteins in different combinations for diff tlrs
+ - mydd88, mal, trif, tram
+ - tlr3 recruits trif only, rest use myd88 at least a little
+ - mydd88 -> irak1/2 irak4
+ - severe truncation of the Toll and TLR ectodomains leads to constitutive receptor signalling, which suggests that the ectodomains are autoinhibitory and that ligand binding relieves this inhibition25. Thus, the juxtamembrane and transmembrane domains of the TLRs have an intrinsic propensity to dimerize.
+ - Uniquely among the human TLRs, TLR3 has an alanine rather than a proline in the BB loop. Remarkably, mutation of this one residue in TLR3 to proline causes a switch in adaptor protein specificity from TRIF to MYD88 
 ** complexes
-- myddosome - 6-8 mydd88, iraf2,4,etc -> nfkb signalling
-- triffosome -> ifn signalling
-- caspase 4/5/11 - cytosolic lps sensors, oligomerise and activate -> cell pyroptosis
+ - myddosome - 6-8 mydd88, iraf2,4,etc -> nfkb signalling
+ - triffosome -> ifn signalling
+ - caspase 4/5/11 - cytosolic lps sensors, oligomerise and activate -> cell pyroptosis
 ** Inflammasome
 Inflammasomes are multimeric protein complexes that assemble in the cytosol after sensing PAMPs or DAMPs.
 
@@ -52,14 +52,14 @@ Oligomerization of pro-caspase-1 proteins induces their autoproteolytic cleavage
 
 Active caspase-1 is also able to induce an inflammatory form of cell death known as pyroptosis
 
-- NLRP3 - lots of things activate this inflammasome
+ - NLRP3 - lots of things activate this inflammasome
     + can be activated by k+ efflux, translocation to mitochondria, production of mitochondrial ROS, relkease of cardiolipin from mitochondria/mitochondrial dna
     + two signals needed, nfkb to inc levels of proil1b and nlrp3 and nlrp3 deubiquitination
-- NLRC4 - fewer things, mostly bacterial type 3 injection needles
-- AIM2 inflammasome - dsDNA of at least 80bp - connects to ASC -> caspase
-- Francisella novicida - detected by cGAS and STING, IFN released, intracellular killing of bacterium, dsDNA released, AIM2 inflammosome activation
-- Inflammasome specks spread inflammation from cell to cell, activating caspase 1 in macrophages internalising ASC specks (Franklin et al, 2014)
-- Autoinflamm mostly treated effectively w anakinra/ IL1 antag - il18 may underlie other effects not treated
+ - NLRC4 - fewer things, mostly bacterial type 3 injection needles
+ - AIM2 inflammasome - dsDNA of at least 80bp - connects to ASC -> caspase
+ - Francisella novicida - detected by cGAS and STING, IFN released, intracellular killing of bacterium, dsDNA released, AIM2 inflammosome activation
+ - Inflammasome specks spread inflammation from cell to cell, activating caspase 1 in macrophages internalising ASC specks (Franklin et al, 2014)
+ - Autoinflamm mostly treated effectively w anakinra/ IL1 antag - il18 may underlie other effects not treated
 
 * CLRs
 To date, four families of PRR have been shown to recognize pathogens and are capable of inducing cellular responses: the Toll-like (TLR), Nod-like (NLR), RIG-I like (RLR) and CLR receptor families

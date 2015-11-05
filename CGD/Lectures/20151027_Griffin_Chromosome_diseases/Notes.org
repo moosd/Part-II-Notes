@@ -3,426 +3,426 @@
 #+DATE Tue 27 Oct, 2015
 
 * Slide 1
-- No notes taken
+ - No notes taken
 
 * Slide 2
-- Chromosomes and disease - scientist vs clinician
+ - Chromosomes and disease - scientist vs clinician
 
 * Slide 3, 4
-- No notes taken
+ - No notes taken
 
 * Slide 5
-- 30nm fibers as decondensed as normal DNA undergoing transcription gets
+ - 30nm fibers as decondensed as normal DNA undergoing transcription gets
 
 * Slide 6, 7, 8
-- No notes taken
+ - No notes taken
 
 * Slide 9
-- Genes silent when folded into chromosome, just when dividing
-- Doing stuff when decondensed
+ - Genes silent when folded into chromosome, just when dividing
+ - Doing stuff when decondensed
 
 * Slide 10
-- Chromosome 5 in green
-- In same domain when decondensed
+ - Chromosome 5 in green
+ - In same domain when decondensed
 
 * Slide 11
-- No notes taken
+ - No notes taken
 
 * Slide 12
-- Frogs - different species have different numbers of chromosomes, one species has 26
-- Bottom right - tomato
+ - Frogs - different species have different numbers of chromosomes, one species has 26
+ - Bottom right - tomato
 
 * Slide 13
-- No notes taken
+ - No notes taken
 
 * Slide 14
-- Cell must be dividing - often overlooked
-- Plant root tip - lots of cell division, but often not like this.
+ - Cell must be dividing - often overlooked
+ - Plant root tip - lots of cell division, but often not like this.
    + Roadblock with colchicine to get 3% in dividing state
-- Hypotonic solution, but dont want cells to burst
-- Fixed to glass slide
-- Chromosomes must be stained else transparent!
+ - Hypotonic solution, but dont want cells to burst
+ - Fixed to glass slide
+ - Chromosomes must be stained else transparent!
 
 * Slide 15
-- Cheek cells nice but not actively dividing - hence need blood
-- Blood not too useful, if want to test prenatally for Downs syndrome for example
-- Cancer diagnosis from bone marrow or from individual tumour
-- Sperm, different approach needed
+ - Cheek cells nice but not actively dividing - hence need blood
+ - Blood not too useful, if want to test prenatally for Downs syndrome for example
+ - Cancer diagnosis from bone marrow or from individual tumour
+ - Sperm, different approach needed
 
 * Slide 16
-- Aseptic technique, because if there is a bad infection, no amount of antibiotics will help!
-- PHA is a lectin that forces lymphocytes into dividing
-- 72 hours = weekend
-- Methanol/acetic acid mix made up fresh, otherwise they react with one another
+ - Aseptic technique, because if there is a bad infection, no amount of antibiotics will help!
+ - PHA is a lectin that forces lymphocytes into dividing
+ - 72 hours = weekend
+ - Methanol/acetic acid mix made up fresh, otherwise they react with one another
 
 * Slide 17
-- Harvest :: culture then obtain chromosomes
+ - Harvest :: culture then obtain chromosomes
 
 * Slide 18
-- CVS out of favour now, differential results (mosaicism)
-- Skin not as convenient - blood + PHA = 3 days, skin very variable from person to person
-- Early diagnosis important for therapeutic abortion
+ - CVS out of favour now, differential results (mosaicism)
+ - Skin not as convenient - blood + PHA = 3 days, skin very variable from person to person
+ - Early diagnosis important for therapeutic abortion
 
 * Slide 19
-- 14-16 weeks for amniocentesis
-- Amniocentesis from top through abdomen
+ - 14-16 weeks for amniocentesis
+ - Amniocentesis from top through abdomen
 
 * Slide 20
-- Two methods
-- extract mesenchymal core from villus (extraembryonic mesoderm)
-- Pro :: Nicer chromosomes
-- Con :: 2 weeks to culture
-- Whole villus into medium, 3hrs, hypotonic solution, etc, then drag across slide
-- Pro :: Fast and easy, same day answer
-- Con :: Short stubby chromosomes. If chromosomes different between placenta and fetus, may give erroroneous result
-- CVS transabdominally preferred because similar to amniocentesis
-- Or transvaginally, looks brutal...
+ - Two methods
+ - extract mesenchymal core from villus (extraembryonic mesoderm)
+ - Pro :: Nicer chromosomes
+ - Con :: 2 weeks to culture
+ - Whole villus into medium, 3hrs, hypotonic solution, etc, then drag across slide
+ - Pro :: Fast and easy, same day answer
+ - Con :: Short stubby chromosomes. If chromosomes different between placenta and fetus, may give erroroneous result
+ - CVS transabdominally preferred because similar to amniocentesis
+ - Or transvaginally, looks brutal...
 
 * Slide 21
-- No notes taken
+ - No notes taken
 
 * Slide 22
-- Or cells from fetus itself, from leg if ambiguity
+ - Or cells from fetus itself, from leg if ambiguity
 
 * Slide 23
-- No notes taken
+ - No notes taken
 
 * Slide 24
-- Trypsin digestion allows for banding patterns
+ - Trypsin digestion allows for banding patterns
 
 * Slide 25
-- lighter bands = more gene rich areas
+ - lighter bands = more gene rich areas
 
 * Slide 26
-- No notes taken
+ - No notes taken
 
 * Slide 27
-- Probe labelled directly or with fluorescence reporter
+ - Probe labelled directly or with fluorescence reporter
 
 * Slide 28
-- No notes taken
+ - No notes taken
 
 * Slide 29
-- 95 oC = melting point of DNA
-- Formamide brings it down to 65-70 oC
-- Overnight at 37oC
-- Indirectly :: binding with biotin because lasted longer and easier to change colours, but these days fluorescent probes are a lot more stable
-- Must be stained in diff colour, else no frame of reference
+ - 95 oC = melting point of DNA
+ - Formamide brings it down to 65-70 oC
+ - Overnight at 37oC
+ - Indirectly :: binding with biotin because lasted longer and easier to change colours, but these days fluorescent probes are a lot more stable
+ - Must be stained in diff colour, else no frame of reference
 
 * Slide 30
-- No notes taken
+ - No notes taken
 
 * Slide 31
-- Red for orientation
-- Bottom left picture :: translocation abnormality
+ - Red for orientation
+ - Bottom left picture :: translocation abnormality
 
 * Slide 32
-- Red + green = yellow
-- 24 chromosomes in different colours
+ - Red + green = yellow
+ - 24 chromosomes in different colours
 
 * Slide 33
-- No notes taken
+ - No notes taken
 
 * Slide 34
-- Preimplantation diagnosis - can safely remove one cell, only implant normal ones
-- e.g. only implant females for DMD families
-- Also to diagnose Downs from three dots not two
-- Bottom left, 18 and X, 18 and Y = haploid cells, male because Y chromosome
-- Embryos, sperm, cancer - FISH without chromosome preparation
+ - Preimplantation diagnosis - can safely remove one cell, only implant normal ones
+ - e.g. only implant females for DMD families
+ - Also to diagnose Downs from three dots not two
+ - Bottom left, 18 and X, 18 and Y = haploid cells, male because Y chromosome
+ - Embryos, sperm, cancer - FISH without chromosome preparation
 
 * Slide 35
-- No notes taken
+ - No notes taken
 
 * Slide 36
-- 1971 convention
+ - 1971 convention
 
 * Slide 37
-- No notes taken
+ - No notes taken
 
 * Slide 38
-- World map vs street map
-- Chromosome 7 band -> cystic fibrosis
-- X -> DMD locus
-- Order of genes same everytime
-- Karyotype - low resolution map of human genome
+ - World map vs street map
+ - Chromosome 7 band -> cystic fibrosis
+ - X -> DMD locus
+ - Order of genes same everytime
+ - Karyotype - low resolution map of human genome
 
 * Slide 39, 40
-- No notes taken
+ - No notes taken
 
 * Slide 41
-- Count - expect 46, 45/47 = problem
+ - Count - expect 46, 45/47 = problem
 
 * Slide 42
-- No notes taken
+ - No notes taken
 
 * Slide 43
-- But sequencing, always a little sequence after centromere, hence no true telocentric?
-- p arm visible but no longer than width of chromosome = acrocentric
-- All mice chromosomes telocentric? (/acrocentric?)
+ - But sequencing, always a little sequence after centromere, hence no true telocentric?
+ - p arm visible but no longer than width of chromosome = acrocentric
+ - All mice chromosomes telocentric? (/acrocentric?)
 
 * Slide 44, 45, 46
-- No notes taken
+ - No notes taken
 
 * Slide 47
-- Chromosomal - numeric, structural
+ - Chromosomal - numeric, structural
 
 * Slide 48
-- Deletions, duplication, etc, = net gain/loss of DNA
+ - Deletions, duplication, etc, = net gain/loss of DNA
 
 * Slide 49
-- No notes taken
+ - No notes taken
 
 * Slide 50
-- Leading cause of pregnancy loss
-- FIrst trimester loss, half due to chromosomal abnormalities
-- 2/3 of these due to aneuploidy
+ - Leading cause of pregnancy loss
+ - FIrst trimester loss, half due to chromosomal abnormalities
+ - 2/3 of these due to aneuploidy
 
 * Slide 51
-- Never see trisomy 1, rarely trisomy 19
+ - Never see trisomy 1, rarely trisomy 19
 
 * Slide 52, 53
-- No notes taken
+ - No notes taken
 
 * Slide 54
-- X chromosome larger, more genes, yet not as major phenotype effects?
-- Because of X inactivation
-- Only one gene active on inactive chromosome, and inactive on active chromosome - Xist
-- Like chickenwire around chromosome, moves it to periphery of nucleus
-- (end of first lecture)
+ - X chromosome larger, more genes, yet not as major phenotype effects?
+ - Because of X inactivation
+ - Only one gene active on inactive chromosome, and inactive on active chromosome - Xist
+ - Like chickenwire around chromosome, moves it to periphery of nucleus
+ - (end of first lecture)
 
 * Slide 55, 56
-- No notes taken
+ - No notes taken
 
 * Slide 57
-- Triploidy = duplication of ALL chromosomes, not same thing as trisomy
-- Spontaneous abortions ~8% triploid
-- 1/3 of these normal sperm into diploid eggs
-- 2/3 two sperms into same egg, esp with IVF
+ - Triploidy = duplication of ALL chromosomes, not same thing as trisomy
+ - Spontaneous abortions ~8% triploid
+ - 1/3 of these normal sperm into diploid eggs
+ - 2/3 two sperms into same egg, esp with IVF
 
 * Slide 58, 59
-- No notes taken
+ - No notes taken
 
 * Slide 60
-- Number of genes lost, whether they are involved in developmental processes
+ - Number of genes lost, whether they are involved in developmental processes
 
 * Slide 61, 62, 63
-- No notes taken
+ - No notes taken
 
 * Slide 64
-- Duplications/insertions - partial trisomy, not a whole extra chromosome, just a bit
+ - Duplications/insertions - partial trisomy, not a whole extra chromosome, just a bit
 
 * Slide 65, 66
-- No notes taken
+ - No notes taken
 
 * Slide 67
-- Fertility problems or pregnancy loss
+ - Fertility problems or pregnancy loss
 
 * Slide 68
-- No notes taken
+ - No notes taken
 
 * Slide 69
-- 45 chromosomes, trisomy 3, actually 13/14 fusion
-- Acrocentric - fuse to end to end
+ - 45 chromosomes, trisomy 3, actually 13/14 fusion
+ - Acrocentric - fuse to end to end
 
 * Slide 70, 71, 72
-- No notes taken
+ - No notes taken
 
 * Slide 73
-- Pairing cross
-- Slows meiosis down, hence infertility
-- Also leads to unbalanced gametes
+ - Pairing cross
+ - Slows meiosis down, hence infertility
+ - Also leads to unbalanced gametes
 
 * Slide 74
-- No notes taken
+ - No notes taken
 
 * Slide 75
-- Paracentric :: not involving centromere
-- Pericentric :: across centromere
+ - Paracentric :: not involving centromere
+ - Pericentric :: across centromere
 
 * Slide 76
-- No notes taken
+ - No notes taken
 
 * Slide 77
-- Inversions form a pairing loop
-- Translocations form a pairing cross
+ - Inversions form a pairing loop
+ - Translocations form a pairing cross
 
 * Slide 78
-- No notes taken
+ - No notes taken
 
 * Slide 79
-- X chromosomes break a lot esp while culturing cells
-- Hence fragile X name
+ - X chromosomes break a lot esp while culturing cells
+ - Hence fragile X name
 
 * Slide 80
-- No notes taken
+ - No notes taken
 
 * Slide 81
-- XXX not as serious fertility issues
+ - XXX not as serious fertility issues
 
 * Slide 82
-- No notes taken
+ - No notes taken
 
 * Slide 83
-- Infertile because of other trisomies -> fatal
+ - Infertile because of other trisomies -> fatal
 
 * Slide 84
-- No notes taken
+ - No notes taken
 
 * Slide 85
-- Smoking increases sperm anuploidy also chemotherapy
+ - Smoking increases sperm anuploidy also chemotherapy
 
 * Slide 86
-- Kleinfelters XXY
-- half of cases from XY disomic sperm
-- half from XX egs fertilised by Y egg
-- In picture, Y green, X yellow, 21 red
+ - Kleinfelters XXY
+ - half of cases from XY disomic sperm
+ - half from XX egs fertilised by Y egg
+ - In picture, Y green, X yellow, 21 red
 
 * Slide 87
-- 5-10x increase associated with severe male factor infertility
-- Usually sex chromosome issues
+ - 5-10x increase associated with severe male factor infertility
+ - Usually sex chromosome issues
 
 * Slide 88
-- Coates et al, Fertility and Sterility
-- Babies with more genetic abnormalities? Effects mostly in sex chromosomes
+ - Coates et al, Fertility and Sterility
+ - Babies with more genetic abnormalities? Effects mostly in sex chromosomes
 
 * Slide 89
-- No notes taken
+ - No notes taken
 
 * Slide 90
-- Boundaries getting blurred
-- TSGs regulate cell division, keeps genes in check. Deletion -> tumor
-- Oncogenes - overactive, amplified -> itself causes cancer
-- Tumour alone - no blood samples (unless leukemia!)
-- Consistent translocations can also indicate there is an oncogene (not aneuploidy)
+ - Boundaries getting blurred
+ - TSGs regulate cell division, keeps genes in check. Deletion -> tumor
+ - Oncogenes - overactive, amplified -> itself causes cancer
+ - Tumour alone - no blood samples (unless leukemia!)
+ - Consistent translocations can also indicate there is an oncogene (not aneuploidy)
 
 * Slide 91
-- 9:22 translocation
-- Chromosome 9 varies in length person to person
-- Chromosome 22 easy to spot
-- BCR drives transcription of ABL as fusion product
-- Cytogenetic story to therapy
-- 9:22 translocation identified
-- FISH to assay for it
-- cheaper PCR method
-- Gleevec (imatinib) targets fusion protein product of gene for CML patients
+ - 9:22 translocation
+ - Chromosome 9 varies in length person to person
+ - Chromosome 22 easy to spot
+ - BCR drives transcription of ABL as fusion product
+ - Cytogenetic story to therapy
+ - 9:22 translocation identified
+ - FISH to assay for it
+ - cheaper PCR method
+ - Gleevec (imatinib) targets fusion protein product of gene for CML patients
 
 * Slide 92
-- Grey looking thing - oncogene amplified several times
-- Lots of dots looking like bacteria - actually amplified oncogene?
-- CGH - hybridise normal DNA (green) and tumour (red)
-- 1:1 signal = yellow
-- Skewing of signal = tumour mutation
+ - Grey looking thing - oncogene amplified several times
+ - Lots of dots looking like bacteria - actually amplified oncogene?
+ - CGH - hybridise normal DNA (green) and tumour (red)
+ - 1:1 signal = yellow
+ - Skewing of signal = tumour mutation
 
 * Slide 93
-- No notes taken
+ - No notes taken
 
 * Slide 94
-- Clinical view
+ - Clinical view
 
 * Slide 95
-- No notes taken
+ - No notes taken
 
 * Slide 96
-- Spontaneous abortion - collect tissue! Identify cause!
-- Any trisomy but not 1 or 19
+ - Spontaneous abortion - collect tissue! Identify cause!
+ - Any trisomy but not 1 or 19
 
 * Slide 97
-- No notes taken
+ - No notes taken
 
 * Slide 98
-- Multiple congenital abnormalities? Look at chromosomes!
+ - Multiple congenital abnormalities? Look at chromosomes!
 
 * Slide 99
-- Downs
+ - Downs
 
 * Slide 100
-- Patau
+ - Patau
 
 * Slide 101
-- No notes taken
+ - No notes taken
 
 * Slide 102
-- Sex chromosomes affected at this age
+ - Sex chromosomes affected at this age
 
 * Slide 103
-- Turners
+ - Turners
 
 * Slide 104, 105
-- No notes taken
+ - No notes taken
 
 * Slide 106
-- Prenatal diagnosis is invasive! Small but significant risk of effect on fetus
+ - Prenatal diagnosis is invasive! Small but significant risk of effect on fetus
 
 * Slide 107, 108
-- No notes taken
+ - No notes taken
 
 * Slide 109
-- Why do it?
+ - Why do it?
 
 * Slide 110
-- No notes taken
+ - No notes taken
 
 * Slide 111
-- Non invasive prenatal testing (NIPT)
-- Cell free DNA from fetus in mothers blood
+ - Non invasive prenatal testing (NIPT)
+ - Cell free DNA from fetus in mothers blood
 
 * Slide 112
-- Contamination - sticking needle through mother!
-- Unless know how to spot maternal tissue
+ - Contamination - sticking needle through mother!
+ - Unless know how to spot maternal tissue
 
 * Slide 113, 114, 115
-- No notes taken
+ - No notes taken
 
 * Slide 116
-- DMD gene on X chromosome
+ - DMD gene on X chromosome
 
 * Slide 117
-- Look in nondividing cells
-- Lose info on where it is
-- Gain info on gene order
+ - Look in nondividing cells
+ - Lose info on where it is
+ - Gain info on gene order
 
 * Slide 118
-- Treat with detergent, stretch out
+ - Treat with detergent, stretch out
 
 * Slide 119, 120
-- No notes taken
+ - No notes taken
 
 * Slide 121
-- Barr body with Giemsa
-- Not much more until FISH
-- Different chromosomes, different locations
-- Gene density - rich in middle, poor on periphery
-- Transcriptional active cells -> gene density
-- Not so transcriptionally active -> chromosome size
-- So depends on cell line
+ - Barr body with Giemsa
+ - Not much more until FISH
+ - Different chromosomes, different locations
+ - Gene density - rich in middle, poor on periphery
+ - Transcriptional active cells -> gene density
+ - Not so transcriptionally active -> chromosome size
+ - So depends on cell line
 
 * Slide 122
-- Tiny chromosome, gene rich?
+ - Tiny chromosome, gene rich?
 
 * Slide 123
 * Cells of the eye, other way round!
 
 * Slide 124
-- Flatten out
-- Middle? Could be a chromosome on periphery folded in
-- Periphery? Probably there
+ - Flatten out
+ - Middle? Could be a chromosome on periphery folded in
+ - Periphery? Probably there
 
 * Slide 125, 126, 127
-- No notes taken
+ - No notes taken
 
 * Slide 128
-- Microarray
+ - Microarray
 
 * Slide 129, 130, 131, 132
-- No notes taken
+ - No notes taken
 
 * Slide 133
-- Array CGH used a lot to replace traditional cytogenetics
-- Net gain or loss -> accurate diagnosis
-- Next generation sequencing of small bit
-- Similar results, but much cleaner signal
-- Starting to replace array CGH
+ - Array CGH used a lot to replace traditional cytogenetics
+ - Net gain or loss -> accurate diagnosis
+ - Next generation sequencing of small bit
+ - Similar results, but much cleaner signal
+ - Starting to replace array CGH
 
 * Slide 134
-- No notes taken
+ - No notes taken
 

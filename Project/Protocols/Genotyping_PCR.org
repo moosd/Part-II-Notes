@@ -1,12 +1,12 @@
 * Tissue digestion
-- Put tail into lysis buffer to release DNA (proteinase K)
-- Obtain a crude lysate - digets tissues, incubate for 3 hours at 55oC
+ - Put tail into lysis buffer to release DNA (proteinase K)
+ - Obtain a crude lysate - digets tissues, incubate for 3 hours at 55oC
 
 ** Using crude lysate
-- Inactivate protease by incubation for 45 mins at 85oC
-- Otherwise PCR wont work (protease will digest PCR polymerase!)
-- 1\microL of the 200\microL crude lysate for PCR
+ - Inactivate protease by incubation for 45 mins at 85oC
+ - Otherwise PCR wont work (protease will digest PCR polymerase!)
+ - 1\microL of the 200\microL crude lysate for PCR
 
 ** More sensitive samples
-- Purify DNA from lysate
-- Add salt and isopropanol to precipitate out nucleic acids
+ - Purify DNA from lysate
+ - Add salt and isopropanol to precipitate out nucleic acids

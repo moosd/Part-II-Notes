@@ -4,16 +4,16 @@
 bibliography:Refs.bib
 
 * Individual cells have the ability to defend themselves
-- danger receptors - doesnt detect pathogen but changes caused to organism by pathogen
+ - danger receptors - doesnt detect pathogen but changes caused to organism by pathogen
 
 * PRRs
-- some in plasma membrane
-- some in cytosol, etc
-- IFN response buys some time for until adaptive response kicks in
-- TLR -> TBK, ubiq IKK -> NFkB production
-- APOBECs - hypermutates to kill HIV
-- detect viral dsRNA (intermediate in replication)
-- 2'5'oas - production of nucleotide-like molecules as signalling molecules mean virus cant mutate proteins against them without affecting itself!
+ - some in plasma membrane
+ - some in cytosol, etc
+ - IFN response buys some time for until adaptive response kicks in
+ - TLR -> TBK, ubiq IKK -> NFkB production
+ - APOBECs - hypermutates to kill HIV
+ - detect viral dsRNA (intermediate in replication)
+ - 2'5'oas - production of nucleotide-like molecules as signalling molecules mean virus cant mutate proteins against them without affecting itself!
 
 * Tetherin
 _____ C-terminus
@@ -23,48 +23,48 @@ _____ C-terminus
 hence virions stay linked to cell
 
 * Bacteria
-- Very few live in cytosol despite it being far richer in nutrients
-- Bacteria prevents fusion with lysosome or prevents self being killed
+ - Very few live in cytosol despite it being far richer in nutrients
+ - Bacteria prevents fusion with lysosome or prevents self being killed
 
 * Autophagy
-- Done by yeast in response to starvation
-- Phagophore forms with two membranes, growing until they close at the other end
-- lysosome fuses, inner membrane degrades
+ - Done by yeast in response to starvation
+ - Phagophore forms with two membranes, growing until they close at the other end
+ - lysosome fuses, inner membrane degrades
 
 * Salmonella escapes into cytosol
-- coated in ubiquitin
-- TBK1 -/- -> many more in cytosol! Same kinase as the IFN one
-- NDP52 - receptor for ubiquitinated bacteria
-- TBK1 recruited to this
-- link eat me signal to phagophore
-- eat me ---- cargo receptor (e.g. p62, optineurin) --- LC3 (recruits phagophore formation
-- ubiquitination enzymes unclear - PRR?
+ - coated in ubiquitin
+ - TBK1 -/- -> many more in cytosol! Same kinase as the IFN one
+ - NDP52 - receptor for ubiquitinated bacteria
+ - TBK1 recruited to this
+ - link eat me signal to phagophore
+ - eat me ---- cargo receptor (e.g. p62, optineurin) --- LC3 (recruits phagophore formation
+ - ubiquitination enzymes unclear - PRR?
 
 * Galectins
-- Carbohydrate binding receptors (lectins)
-- Cytosol is an environment free of complex carbohydrates
-- Yet there are galectins in the cytosol -> lectins binding free complex carbohydrates in response to disturbance of homeostasis?
-- galectin 3,8,9 around Salmonella!
-- ko of NDP52 = ability of NDP52 to protect cells
-- galectin 3 has antimicrobial activity
-- Flag-galectin luciferin-protein X
-- Show that NDP52 and galectin-8 co-localise
-- Galectin-8 is the receptor, NDP52 piggybacks and forms complex
-- Conclusion :: galectin-8 is a danger receptor that detects HOST glycans
-- Tryptophan and arginine as conserved carbohydrate binding domains
-- No binding of galectin-8 to bacteria themselves! Vacuole inside same as outside of cell, membrane full of complex carbohydrates.
-- Upon damage (e.g. bacteria escaping) the membrane is destroyed and exposes the carbohydrates for galectins to bind and form phagophore around
-- O86 (blood group B0 = known binding ligand for galectin-8
-- Conclusion :: Galectin-8 is a danger receptor that surveys integrity of host endomembranes
-- Clever way to detect destruction of membranes, detects both ram +ve and -ve bacteria
+ - Carbohydrate binding receptors (lectins)
+ - Cytosol is an environment free of complex carbohydrates
+ - Yet there are galectins in the cytosol -> lectins binding free complex carbohydrates in response to disturbance of homeostasis?
+ - galectin 3,8,9 around Salmonella!
+ - ko of NDP52 = ability of NDP52 to protect cells
+ - galectin 3 has antimicrobial activity
+ - Flag-galectin luciferin-protein X
+ - Show that NDP52 and galectin-8 co-localise
+ - Galectin-8 is the receptor, NDP52 piggybacks and forms complex
+ - Conclusion :: galectin-8 is a danger receptor that detects HOST glycans
+ - Tryptophan and arginine as conserved carbohydrate binding domains
+ - No binding of galectin-8 to bacteria themselves! Vacuole inside same as outside of cell, membrane full of complex carbohydrates.
+ - Upon damage (e.g. bacteria escaping) the membrane is destroyed and exposes the carbohydrates for galectins to bind and form phagophore around
+ - O86 (blood group B0 = known binding ligand for galectin-8
+ - Conclusion :: Galectin-8 is a danger receptor that surveys integrity of host endomembranes
+ - Clever way to detect destruction of membranes, detects both ram +ve and -ve bacteria
 
 * Why not omnipotent?
-- Shigella professionally lives in the cytosol, Salmonella cannot, although both closely related
-- Galectins detect entry to cytosol
-- Shigella recruits NDP52
-- Autophagosome forms fine (LC3 levels same)
-- Yet bacteria somehow survive?
-- All professional cytosolic bacteria are motile - actin polymerisation - autophagy attacks membranes left behind!
-- But immobile shigella also are not destroyed despite not moving
-- The bacteria actively shed and destroy membrane which is dispersed into the cell - hence phagosomes form, but don't affect bacteria
-- Diphtheria strips off membrane carefully instead of ripping it apart (Shigella = messy teenager, Diptheria = professional stripper)
+ - Shigella professionally lives in the cytosol, Salmonella cannot, although both closely related
+ - Galectins detect entry to cytosol
+ - Shigella recruits NDP52
+ - Autophagosome forms fine (LC3 levels same)
+ - Yet bacteria somehow survive?
+ - All professional cytosolic bacteria are motile - actin polymerisation - autophagy attacks membranes left behind!
+ - But immobile shigella also are not destroyed despite not moving
+ - The bacteria actively shed and destroy membrane which is dispersed into the cell - hence phagosomes form, but don't affect bacteria
+ - Diphtheria strips off membrane carefully instead of ripping it apart (Shigella = messy teenager, Diptheria = professional stripper)

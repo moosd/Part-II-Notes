@@ -4,228 +4,228 @@
 bibliography:Refs.bib
 
 * Lunchtime seminar
-- T cells follow collagen lines
-- Around tumour, collagen laid down in concentric rings
-- Hence, Tc cells circle tumour and dont kill anything
+ - T cells follow collagen lines
+ - Around tumour, collagen laid down in concentric rings
+ - Hence, Tc cells circle tumour and dont kill anything
 
 * Features and functions of a T cell
-- Essential to express a receptor on surface (TCR)
-- TCR must recognise MHC molecules (MHC restriction)
+ - Essential to express a receptor on surface (TCR)
+ - TCR must recognise MHC molecules (MHC restriction)
 
-- TCR -> \beta chain -> VDJ
-- TCR \alpha chain - VJ only
-- T cell involves recombination of receptor, Nobel Prize for going against Beadle and Tatum's one gene one enzyme hypothesis
+ - TCR -> \beta chain -> VDJ
+ - TCR \alpha chain - VJ only
+ - T cell involves recombination of receptor, Nobel Prize for going against Beadle and Tatum's one gene one enzyme hypothesis
 
-- Two broad clones of T cells
-- CD8+ binding to MHC class I
-- CD4+ binding to MHC class II
+ - Two broad clones of T cells
+ - CD8+ binding to MHC class I
+ - CD4+ binding to MHC class II
 
 * What does a stem cell need to go through to be a T cell?
-- Stem cell has germline configuration
-- Recombination -> triggered by thymus
-- Potential malignancy with messing with genome, hence must be ordered
-- When T cells leave thymus, they are MHC restricted
+ - Stem cell has germline configuration
+ - Recombination -> triggered by thymus
+ - Potential malignancy with messing with genome, hence must be ordered
+ - When T cells leave thymus, they are MHC restricted
 
-- Functional mature T cells must be self tolerant
-- Lineage commitment
-- Repertoire selection (education)
-- Functional maturation
+ - Functional mature T cells must be self tolerant
+ - Lineage commitment
+ - Repertoire selection (education)
+ - Functional maturation
 
-- T cells educated by thymus
-- Stem cells pluripotent, migrate to thymus, progress to T cell lineage, unlike earlier ideas
+ - T cells educated by thymus
+ - Stem cells pluripotent, migrate to thymus, progress to T cell lineage, unlike earlier ideas
 
-- Secondary lymphoid organs around areas where likely to be infection
+ - Secondary lymphoid organs around areas where likely to be infection
    + Peyers patches in gut
 
-- Microenvironment - heterogeneous group of cells
-- Subcapsular epithelium
-- Cortical epithelium
-- Medullary epithelium - tolerance induction
+ - Microenvironment - heterogeneous group of cells
+ - Subcapsular epithelium
+ - Cortical epithelium
+ - Medullary epithelium - tolerance induction
 
 * THYMOPOIESIS
 
-- IL7 production
-- Delete/disrupt cell types in microenvironment, delete/disrupt T cell development
-- Foxn1 = nude mouse
-- Lacks hair/thymus
-- Stem cells not instructed to differentiate
+ - IL7 production
+ - Delete/disrupt cell types in microenvironment, delete/disrupt T cell development
+ - Foxn1 = nude mouse
+ - Lacks hair/thymus
+ - Stem cells not instructed to differentiate
 
 * Process
-- Double negative --- Checkpoint (\beta-selection) ---> Double positive ----- positive/negative selection, repertoire selection/functional maturation --> Single positive
+ - Double negative --- Checkpoint (\beta-selection) ---> Double positive ----- positive/negative selection, repertoire selection/functional maturation --> Single positive
 
 * Ratios
-- CD4/CD8 ratio normally ~2:1
-- HIV skews ratio to 0.8:1 when severely ill
+ - CD4/CD8 ratio normally ~2:1
+ - HIV skews ratio to 0.8:1 when severely ill
 
-- \gamma\delta T cells made into thymus, represent first line of defence
-- IEL lymphocytes
-- Skin, gut
-- Much less restricted, non classical restriction via CD1(a,b,c,d) - recognises bacterial products
+ - \gamma\delta T cells made into thymus, represent first line of defence
+ - IEL lymphocytes
+ - Skin, gut
+ - Much less restricted, non classical restriction via CD1(a,b,c,d) - recognises bacterial products
 
-- Receptor gene rearrangement is important
-- No expressing \alpha and \beta chain = no progression
-- \beta chain rearranged first
+ - Receptor gene rearrangement is important
+ - No expressing \alpha and \beta chain = no progression
+ - \beta chain rearranged first
 
-- DN1 -> DN2 -> DN3 -> DP cells
-- IL7 - produced by stromal cells
-- Cause rearrangement of TCR\beta and production of RAG1/2 (recombinase activation gene)
+ - DN1 -> DN2 -> DN3 -> DP cells
+ - IL7 - produced by stromal cells
+ - Cause rearrangement of TCR\beta and production of RAG1/2 (recombinase activation gene)
 
-- D-J rearranged
-- V-DJ rearranged
-- Expresses \beta chain
-- Heterodimer, needs both parts to get to cell surface
-- MHC, many other immune molecules too
-- pre-T\alpha chain (pre-T cell receptor)
-- Surrogate \alpha chain with functional \beta chain
+ - D-J rearranged
+ - V-DJ rearranged
+ - Expresses \beta chain
+ - Heterodimer, needs both parts to get to cell surface
+ - MHC, many other immune molecules too
+ - pre-T\alpha chain (pre-T cell receptor)
+ - Surrogate \alpha chain with functional \beta chain
 
-- flanking regions of VDJ allow enzymes to bind
-- Arabian foal - DNA kinase k/o = fail to rearrange receptor, immunocompromised
-- DN1/2 = pluripotent
-- DN3 = CD25 expression = commitment to T cell lineage
+ - flanking regions of VDJ allow enzymes to bind
+ - Arabian foal - DNA kinase k/o = fail to rearrange receptor, immunocompromised
+ - DN1/2 = pluripotent
+ - DN3 = CD25 expression = commitment to T cell lineage
 
-- pre TCR signalling terminates recombination, allelic exclusion
-- ZAP70 -> SLP76 = allelic exclusion
-- IL7/IL7R mutation -> X linked SCID
-- RAG1/2 mutation -> Omenn syndrome
+ - pre TCR signalling terminates recombination, allelic exclusion
+ - ZAP70 -> SLP76 = allelic exclusion
+ - IL7/IL7R mutation -> X linked SCID
+ - RAG1/2 mutation -> Omenn syndrome
 
-- To get to first checkpoint, must get to pre T cell receptor
-- IL7 receptor -> common \gamma chain to other receptors
-- IL2,4,27,9,15
-- Lack common chain, none of the above receptors expressed (since they must be heterodimers to get to cell surface membrane)
-- Hence, cell unresponsive to cytokines
+ - To get to first checkpoint, must get to pre T cell receptor
+ - IL7 receptor -> common \gamma chain to other receptors
+ - IL2,4,27,9,15
+ - Lack common chain, none of the above receptors expressed (since they must be heterodimers to get to cell surface membrane)
+ - Hence, cell unresponsive to cytokines
 
-- IL7 -> survival dactor, induces RAG1/2
-- Produced by thymic stroma
+ - IL7 -> survival dactor, induces RAG1/2
+ - Produced by thymic stroma
 
 * Notch signalling
-- Jagged or Delta, expressed in thymus
-- Knockout, embryonic lethal because used in development
-- Mouse, day 14 -> thymus development (~6mnths equivalent in humans)
-- Mouse gestation around 21 days
-- Need tissue knockout in thymus (Radke F et al, 1999)
-- Numbers of thymocytes low, T cell development blocked
-- Mostly all B cells!
+ - Jagged or Delta, expressed in thymus
+ - Knockout, embryonic lethal because used in development
+ - Mouse, day 14 -> thymus development (~6mnths equivalent in humans)
+ - Mouse gestation around 21 days
+ - Need tissue knockout in thymus (Radke F et al, 1999)
+ - Numbers of thymocytes low, T cell development blocked
+ - Mostly all B cells!
 
 ** Model
-- Stem cells migrate into the thymus, predetermined to be T cells? No! Pluripotent! Thymus skews them to T cell lineage!
-- Notch and so on important in cell fate determination
-- Why thymus not bone marrow?
-- Active Notch -> T cells
-- No Notch -> B cells
-- Notch into bone marrow -> T cells produced!
+ - Stem cells migrate into the thymus, predetermined to be T cells? No! Pluripotent! Thymus skews them to T cell lineage!
+ - Notch and so on important in cell fate determination
+ - Why thymus not bone marrow?
+ - Active Notch -> T cells
+ - No Notch -> B cells
+ - Notch into bone marrow -> T cells produced!
 
 * Microenvironment
-- (Takahama et al, 2006)
-- (Blackburn et al, 2002)
-- Thymus - endocrine gland, develops separately from third pharyngeal arch, T cells then migrate into it
-- IL7 - MUST come from thymic epithelium - must be through Notch and other proteins
-- thymic stem cells + nonTEC experiments
+ - (Takahama et al, 2006)
+ - (Blackburn et al, 2002)
+ - Thymus - endocrine gland, develops separately from third pharyngeal arch, T cells then migrate into it
+ - IL7 - MUST come from thymic epithelium - must be through Notch and other proteins
+ - thymic stem cells + nonTEC experiments
 
 * Thymic cross talk
-- thymocytes impact microenvironment
-- Cortical and medullary cells not differentiated
-- If block T cells at different stages at their development, different organisations seen
-- Only DN1 cells -> oTEC, mTEC present, disorganised
-- Lacking SP cells, no medulla
+ - thymocytes impact microenvironment
+ - Cortical and medullary cells not differentiated
+ - If block T cells at different stages at their development, different organisations seen
+ - Only DN1 cells -> oTEC, mTEC present, disorganised
+ - Lacking SP cells, no medulla
 
 * Short summary
-- T (and B) lymphocytes express antigenic receptor
-- Each cell expresses different clone
-- TCR + Ig made from gene segments
-- Diversity achieved - antigen independant
-- Somatic hypermutation only in B cells
-- T and B cells follow complex and regulated patern of development
-- Microenvironment
-- \gamma\delta T cells have their own separate VJC segments to rearrange from
-- (end of first lecture)
+ - T (and B) lymphocytes express antigenic receptor
+ - Each cell expresses different clone
+ - TCR + Ig made from gene segments
+ - Diversity achieved - antigen independant
+ - Somatic hypermutation only in B cells
+ - T and B cells follow complex and regulated patern of development
+ - Microenvironment
+ - \gamma\delta T cells have their own separate VJC segments to rearrange from
+ - (end of first lecture)
 
 * Central tolerance
-- pre T cell receptor triggers \alpha gene rearrangement
-- Surrogate light chain decreased
-- \alpha:\beta TCR produced
-- Decision is made - express TCR
-- Selected CD4 or CD8
-- Driver is TCR itself
+ - pre T cell receptor triggers \alpha gene rearrangement
+ - Surrogate light chain decreased
+ - \alpha:\beta TCR produced
+ - Decision is made - express TCR
+ - Selected CD4 or CD8
+ - Driver is TCR itself
 
-- Expansion of double positives establish a wide repertoire for selection
-- Interaction between TCR and MHC
-- Fails to bind -> die by neglect
-- Binds too strongly -> die by apoptosis
-- Selection for "appropriate" interaction
-- Tregs develop in thymus, receptor binding stronger than +ve, slightly weaker than -ve
-- Given all thymocytes destined to die, only cells responding appropriately survive
-- DIverse TCR because MHC are diverse
-- Speed dating, no interaction/too much interaction
+ - Expansion of double positives establish a wide repertoire for selection
+ - Interaction between TCR and MHC
+ - Fails to bind -> die by neglect
+ - Binds too strongly -> die by apoptosis
+ - Selection for "appropriate" interaction
+ - Tregs develop in thymus, receptor binding stronger than +ve, slightly weaker than -ve
+ - Given all thymocytes destined to die, only cells responding appropriately survive
+ - DIverse TCR because MHC are diverse
+ - Speed dating, no interaction/too much interaction
 
 * Evolutionary
-- Parallel between diversity of MHC and TCR repertoire during development
-- Debate :: TCR strength of signal or conformational change? Both?
+ - Parallel between diversity of MHC and TCR repertoire during development
+ - Debate :: TCR strength of signal or conformational change? Both?
 
 * Models for selection process
-- Instruction model :: TCR binding to MHC class I instructed to be CD8+, downregulate CD4
-- Stochastic/selective model :: cells that downregulate randomly, those that match survive
-- TCR transgenics - certain TCR specificity, used to look at process of development
-- Expressed at different times - somewhat artificial - expressed during DN phase for example
-- Strength of signal model :: TCR binds to MHC, signal strength appropriate, positive lymphocyte selection
-- Positive selection is driven by the MHC
+ - Instruction model :: TCR binding to MHC class I instructed to be CD8+, downregulate CD4
+ - Stochastic/selective model :: cells that downregulate randomly, those that match survive
+ - TCR transgenics - certain TCR specificity, used to look at process of development
+ - Expressed at different times - somewhat artificial - expressed during DN phase for example
+ - Strength of signal model :: TCR binds to MHC, signal strength appropriate, positive lymphocyte selection
+ - Positive selection is driven by the MHC
 
-- Irradiated to allow donor bone marrow to stay
-- Skin cells have ability to be regulated to either
-- Only select T cells restricted to host -> thymus
+ - Irradiated to allow donor bone marrow to stay
+ - Skin cells have ability to be regulated to either
+ - Only select T cells restricted to host -> thymus
 
 * Minor histocompatibility
-- Major histocompatibility from tissue grafts on burns victims in WW2
-- Minor, only difference is on Y chromosome
-- Rejecting male skin
-- Transgenic mice with CD8 clone. T cell receptor deleted, negative selection
-- When TCR expressed, endogenous TCRs dont rearrange because of allelic exclusion
+ - Major histocompatibility from tissue grafts on burns victims in WW2
+ - Minor, only difference is on Y chromosome
+ - Rejecting male skin
+ - Transgenic mice with CD8 clone. T cell receptor deleted, negative selection
+ - When TCR expressed, endogenous TCRs dont rearrange because of allelic exclusion
    + monoclonal mouse!
-- T cell receptor transgenics against liver proteins
-- Deleted
-- Thymus expresses uniquely genes from lots of tissues - promiscuous gene expression
-- In MEDULLA
-- (Derbinski J et al, 2001)
+ - T cell receptor transgenics against liver proteins
+ - Deleted
+ - Thymus expresses uniquely genes from lots of tissues - promiscuous gene expression
+ - In MEDULLA
+ - (Derbinski J et al, 2001)
 
-- +ve selection in cortex, CCR7 up to drag cells to medulla
-- -ve selection in medulla
+ - +ve selection in cortex, CCR7 up to drag cells to medulla
+ - -ve selection in medulla
 
-- (Kristen A et al, 2005)
-- survival signal depleted
-- Fail to undergo negative selection -> autoimmune disease
-- LT\beta, TRAF6, MK-REL-B knockout leads to this
-- AIRE responsible for promiscuous gene expression
-- Dendritic cells => negative selection contribution through their cross presentation
+ - (Kristen A et al, 2005)
+ - survival signal depleted
+ - Fail to undergo negative selection -> autoimmune disease
+ - LT\beta, TRAF6, MK-REL-B knockout leads to this
+ - AIRE responsible for promiscuous gene expression
+ - Dendritic cells => negative selection contribution through their cross presentation
 
-- AIRE -> histone 3 -> DNA methylation modulation
-- Also epithelial cells lacking AIRE undergo tolerance induction - so AIRE not be all and end all
-- But AIRE plays important role
-- Central tolerance also -> Treg production - (Seddon B et al, 2010)
-- Thymectomy - 3-6weeks = autoimmunity, 10weeks = no autoimmune disease
-- Selected (Hseih C-Y et al, 2012)
-- FoxP3 deletion -> IPEX -> disease APECED
+ - AIRE -> histone 3 -> DNA methylation modulation
+ - Also epithelial cells lacking AIRE undergo tolerance induction - so AIRE not be all and end all
+ - But AIRE plays important role
+ - Central tolerance also -> Treg production - (Seddon B et al, 2010)
+ - Thymectomy - 3-6weeks = autoimmunity, 10weeks = no autoimmune disease
+ - Selected (Hseih C-Y et al, 2012)
+ - FoxP3 deletion -> IPEX -> disease APECED
 
 * Age induced thymic involution
-- Different from thymic atrophy, which happens in e.g. T cruzi, deliberately damaging thymus, or stress involution (reversible)
-- Universal feature in all species
-- Aged thymus -> reduce in size, disintegration, decreased T cell output
-- No of cells dont change in periphery. But shift from naive to memory cells
-- Thymopoiesis defective
-- Homeostatic proliferation, occupy space, expand accordingly
-- Repertoire different, more restricted
-- If common antigen, e.g. tetanus, can respond
-- If new antigen, e.g. changing virus, lacking receptor to fight it off
-- (Vallejo AN, 2007)
+ - Different from thymic atrophy, which happens in e.g. T cruzi, deliberately damaging thymus, or stress involution (reversible)
+ - Universal feature in all species
+ - Aged thymus -> reduce in size, disintegration, decreased T cell output
+ - No of cells dont change in periphery. But shift from naive to memory cells
+ - Thymopoiesis defective
+ - Homeostatic proliferation, occupy space, expand accordingly
+ - Repertoire different, more restricted
+ - If common antigen, e.g. tetanus, can respond
+ - If new antigen, e.g. changing virus, lacking receptor to fight it off
+ - (Vallejo AN, 2007)
 
-- telomere shortening of memory cells with more cell division
-- Aged individuals, more T cells lack CD28 (no costimulation)
-- Cant proliferate, NK like phenotype
-- Immune senescence, mortality highest in oldest population for influenza outbreak, for example
-- Involution of thymus as catalyst?
-- Calorie restriction -> delay in involution, slightly healthier
+ - telomere shortening of memory cells with more cell division
+ - Aged individuals, more T cells lack CD28 (no costimulation)
+ - Cant proliferate, NK like phenotype
+ - Immune senescence, mortality highest in oldest population for influenza outbreak, for example
+ - Involution of thymus as catalyst?
+ - Calorie restriction -> delay in involution, slightly healthier
 
 * More
-- dpalmer@rvc.ac.uk
+ - dpalmer@rvc.ac.uk
 ** Thymus disappears at puberty? 
-- Castrate male mice, increase in thymocytes
-- Stars decreasing, doesnt manifest effects until later life?
-- Not a straight line of involution - at least biphasic!
+ - Castrate male mice, increase in thymocytes
+ - Stars decreasing, doesnt manifest effects until later life?
+ - Not a straight line of involution - at least biphasic!

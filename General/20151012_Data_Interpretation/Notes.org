@@ -1,43 +1,43 @@
 * Central tendancy
-- Mean
-- Median
-- Mode
+ - Mean
+ - Median
+ - Mode
 
 * Spread
-- range
-- IQR
-- standard deviation
+ - range
+ - IQR
+ - standard deviation
 
 * Dealing with skew
-- Geometric mean of titres/concentrations instead if skew (log'd)
+ - Geometric mean of titres/concentrations instead if skew (log'd)
 
 * Normal distribution
-- 68% = 1 \sigma
-- 95% = 2 \sigma
-- 99.7% = 3 \sigma
+ - 68% = 1 \sigma
+ - 95% = 2 \sigma
+ - 99.7% = 3 \sigma
 
 * Confidence intervals
-- Building evidence against a null hypothesis
-- Z test, or if small data set, t-test
+ - Building evidence against a null hypothesis
+ - Z test, or if small data set, t-test
 
 * p values
-- lower p -value = stronger evidence against H0
-- Higher p value, less evidence
-- Nothing magical about 0.05
-- Too big a p value may mean sample size is not big enough to show an effect
-- Report *actual* p-value, not just p > 0.05 - gives measure of amount of evidence
+ - lower p -value = stronger evidence against H0
+ - Higher p value, less evidence
+ - Nothing magical about 0.05
+ - Too big a p value may mean sample size is not big enough to show an effect
+ - Report *actual* p-value, not just p > 0.05 - gives measure of amount of evidence
 
 * Type of hypothesis test
-- Two means, Z test/F test
-- Many means, ANOVA
+ - Two means, Z test/F test
+ - Many means, ANOVA
 
 * Interpretations
-- Plot data - may not be linear!
+ - Plot data - may not be linear!
 
 * Interpretations of data
-- No of subjects/experiments
-- Data visualisations?
-- Statistical test described? Is it appropriate?
-- Interpret 95% CI and p value
-- Biological significance
-- Agree with conclusions of author? Or does the data tell you something different?
+ - No of subjects/experiments
+ - Data visualisations?
+ - Statistical test described? Is it appropriate?
+ - Interpret 95% CI and p value
+ - Biological significance
+ - Agree with conclusions of author? Or does the data tell you something different?

@@ -3,136 +3,136 @@
 #+DATE Tue 20 Oct, 2015
 
 * Slide 1
-- No notes taken
+ - No notes taken
 
 * Slide 2
-- even within caucasian population, several specific genetic signatures associated with different areas of UK
-- Because people in rural areas did not move around very much!
+ - even within caucasian population, several specific genetic signatures associated with different areas of UK
+ - Because people in rural areas did not move around very much!
 
 * Slide 3
-- Population stratification means a homogenous population is not really homogenous
+ - Population stratification means a homogenous population is not really homogenous
 
 * Slide 4, 5
-- No notes taken
+ - No notes taken
 
 * SLide 6
-- Results from association studies and then map them onto many small pedigrees to confirm results
-- Family-based association tests - large families with lots of association
+ - Results from association studies and then map them onto many small pedigrees to confirm results
+ - Family-based association tests - large families with lots of association
 
 * Slide 7
-- Association studies, 6-7 individuals per slide
+ - Association studies, 6-7 individuals per slide
 
 * Slide 8
-- Genomic locations are ultimate goal
+ - Genomic locations are ultimate goal
 
 * Slide 9
-- Transcript level misses out a lot - lots of mutations affect not the mRNAs but the genetic control over them
+ - Transcript level misses out a lot - lots of mutations affect not the mRNAs but the genetic control over them
 
 * Slide 10, 11, 12, 13
-- No notes taken
+ - No notes taken
 
 * Slide 14
-- admixed, e.g. S America with native population and European population
+ - admixed, e.g. S America with native population and European population
 
 * Slide 15
-- de novo mutation rate previously estimated with enzyme error rate
-- BRCA2 SNPs - want to know which SNPs are normal polymorphisms or ones that confer disease phenotypes? Need to first know normal polymorphisms
+ - de novo mutation rate previously estimated with enzyme error rate
+ - BRCA2 SNPs - want to know which SNPs are normal polymorphisms or ones that confer disease phenotypes? Need to first know normal polymorphisms
 
 * Slide 16
-- Most genes dont show haploinsufficiency - one gene enough even if other is mutated
-- Far lower de novo mutation rate - unclear whether because of QC mechanisms in gonads or because no viable embryo for lots of mutations
+ - Most genes dont show haploinsufficiency - one gene enough even if other is mutated
+ - Far lower de novo mutation rate - unclear whether because of QC mechanisms in gonads or because no viable embryo for lots of mutations
 
 * Slide 17
-- No notes taken
+ - No notes taken
 
 * Slide 18
-- Primer ends before polymorphic base, attached to beads
+ - Primer ends before polymorphic base, attached to beads
 
 * Slide 19
-- No notes taken
+ - No notes taken
 
 * Slide 20
-- Red/green signal - one or other allele
-- Orange - both present, heterozygous
-- Intensity should be roughly the same
-- If signal is higher, suggests third allele, log ratio somewhere in between
-- If signal is lower, only one allele, in line with homozygous log ratio
+ - Red/green signal - one or other allele
+ - Orange - both present, heterozygous
+ - Intensity should be roughly the same
+ - If signal is higher, suggests third allele, log ratio somewhere in between
+ - If signal is lower, only one allele, in line with homozygous log ratio
 
 * Slide 21
-- Top graph, log ratio of intensity on chip. Log base 2 = expect 0 or 1 - two alleles
-- Bottom graph, genotypes separated
+ - Top graph, log ratio of intensity on chip. Log base 2 = expect 0 or 1 - two alleles
+ - Bottom graph, genotypes separated
 
 * Slide 22
-- Blank region in bottom graph - interval is completely homozygous for all genes here. Gene for recessive disorder is likely to be here
+ - Blank region in bottom graph - interval is completely homozygous for all genes here. Gene for recessive disorder is likely to be here
 
 * Slide 23
-- MS have many markers at each locus
-- SNPs only have two
+ - MS have many markers at each locus
+ - SNPs only have two
 
 * Slide 24
-- Used traits that are not quantitative - either disease present or not
+ - Used traits that are not quantitative - either disease present or not
 
 * Slide 25
-- No notes taken
+ - No notes taken
 
 * Slide 26
-- Plotting log P to get a big number, P is small and hard to discern from background
+ - Plotting log P to get a big number, P is small and hard to discern from background
 
 * Slide 27, 28
-- No notes taken
+ - No notes taken
 
 * Slide 29
-- People who move from Africa to the UK -> increased incidence!
-- Environmental factors :: Sunlight + Vitamin D?
+ - People who move from Africa to the UK -> increased incidence!
+ - Environmental factors :: Sunlight + Vitamin D?
 
 * Slide 30
-- No notes taken
+ - No notes taken
 
 * Slide 31
-- Subset in other autoimmune disorders - so some resemblence!
-- Odds ratio = risk of disease with inheriting certain allele
+ - Subset in other autoimmune disorders - so some resemblence!
+ - Odds ratio = risk of disease with inheriting certain allele
 
 * Slide 32, 33, 34, 35, 36
-- No notes taken
+ - No notes taken
 
 * Slide 37
-- IBD = Identity by descension
-- GAD2 is a target in T1D for the autoantibodies
-- Both GAD2 and POMC in insulin producing cells and in controlling behavioural traits
+ - IBD = Identity by descension
+ - GAD2 is a target in T1D for the autoantibodies
+ - Both GAD2 and POMC in insulin producing cells and in controlling behavioural traits
 
 * Slide 38, 39, 40
-- No notes taken
+ - No notes taken
 
 * Slide 41
-- UK links to chromosome 9
-- Adding US families makes LOD score vanish
+ - UK links to chromosome 9
+ - Adding US families makes LOD score vanish
 
 * Slide 42
-- TSC1 on chr 9 - point mutations vs deletions in TSC2 in chr 16
+ - TSC1 on chr 9 - point mutations vs deletions in TSC2 in chr 16
 
 * Slide 43
-- TSC proteins interact with each other!
+ - TSC proteins interact with each other!
 
 * Slide 44, 45, 46
-- No notes taken
+ - No notes taken
 
 * Slide 47
-- Amino acid changes
-- Same genes with T1D and T2D...
-- Pathways for other candidate genes?
+ - Amino acid changes
+ - Same genes with T1D and T2D...
+ - Pathways for other candidate genes?
 
 * Slide 48, 49, 50, 51, 52
-- No notes taken
+ - No notes taken
 
 * Slide 53
-- Loss of one allele exposes mutation on other allele?
+ - Loss of one allele exposes mutation on other allele?
 
 * Slide 54, 55, 56, 57, 58
-- No notes taken
+ - No notes taken
 
 * Slide 59
-- Sickle cell disease - even monogenic disorder not quite so straightforward!
+ - Sickle cell disease - even monogenic disorder not quite so straightforward!
 
 * Slide 60, 61, 62, 63, 64
-- No notes taken
+ - No notes taken
 

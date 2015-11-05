@@ -4,154 +4,154 @@
 bibliography:Refs.bib
 
 * Intro
-- Part of innate immunity of all living organisms - made by microbes too!
-- kills multidrug resistant strains!
-- what are they?
-- where are they made?
-- how do they work?
-- how do they achieve their specificity towards microbes?
-- how are they produced?
-- how is variety generated?
-- how do microbes protect themselves?
+ - Part of innate immunity of all living organisms - made by microbes too!
+ - kills multidrug resistant strains!
+ - what are they?
+ - where are they made?
+ - how do they work?
+ - how do they achieve their specificity towards microbes?
+ - how are they produced?
+ - how is variety generated?
+ - how do microbes protect themselves?
 
 * What are they?
-- All kingdoms of life
-- Potent, broad spectrum
-- Small, < 100 aa
-- Net +ve charge - Arg, Lys (or His in acidic environments)
-- Large proportion of hydrophobic residues
-- Disulfide bonds
-- Defensins, cathelicidins, ones in the middle
-- Made completely unstructured, only adopts conformation in interacting with microbes
+ - All kingdoms of life
+ - Potent, broad spectrum
+ - Small, < 100 aa
+ - Net +ve charge - Arg, Lys (or His in acidic environments)
+ - Large proportion of hydrophobic residues
+ - Disulfide bonds
+ - Defensins, cathelicidins, ones in the middle
+ - Made completely unstructured, only adopts conformation in interacting with microbes
 
 * Where are they?
-- Epithelial cells of mucosal surfaces
-- Granule-containing leukocytes - neutrophils, NK cells, Tc cells, etc
-- defensins present in mM concentrations, up to 5% of total protein in cell!
+ - Epithelial cells of mucosal surfaces
+ - Granule-containing leukocytes - neutrophils, NK cells, Tc cells, etc
+ - defensins present in mM concentrations, up to 5% of total protein in cell!
 
 * How do they work?
-- direct killing - membrane permeabilisation
-- amphipathic - hydrophilic one side, hydrophobic other side to slot into membranes
-- Initially carpet model then eventually pore model?
-- Pore causes leakage of small ions, depleting transmembrane potential, so no ATP
-- water let into cell -> osmotic lysis
-- release of metabolites/proteins when even more severe membrane damage
-- AMPs can get into cell itself
-- Inhibits anything important!
-- Interferes with metabolism
-- Inhibits cell wall synthesis
-- DNA RNA and protein synthesis inhibited
-- Certain enzymes inhibited
-- May be able to insert into grooves in DNA because of charge and lack of nucleus
+ - direct killing - membrane permeabilisation
+ - amphipathic - hydrophilic one side, hydrophobic other side to slot into membranes
+ - Initially carpet model then eventually pore model?
+ - Pore causes leakage of small ions, depleting transmembrane potential, so no ATP
+ - water let into cell -> osmotic lysis
+ - release of metabolites/proteins when even more severe membrane damage
+ - AMPs can get into cell itself
+ - Inhibits anything important!
+ - Interferes with metabolism
+ - Inhibits cell wall synthesis
+ - DNA RNA and protein synthesis inhibited
+ - Certain enzymes inhibited
+ - May be able to insert into grooves in DNA because of charge and lack of nucleus
 
 * Broad specificity
-- AMPs kill:
-- Gram positive and negative bacteria
-- Mycobacteria
-- enveloped viruses
-- fungi
-- parasites
-- cancerous cells
+ - AMPs kill:
+ - Gram positive and negative bacteria
+ - Mycobacteria
+ - enveloped viruses
+ - fungi
+ - parasites
+ - cancerous cells
 
 * How are they selective for non-human cells?
-- Hydrophobic, hence inserts into membrane
-- Initial contact of charged AMP (opposite charge to bacterial membrane) and bacteria
-- Bacterial membranes are more anionic (phospholipids, etc) (Hence, more cationic AMP the better) - strong electrostatic interaction
-- In order to insert, need certain membrane fluidity. Cholesterol provides this in human cells, not present in bacteria
-- Cholesterol - lack of fluidity - reduces activity of AMPs, stabilises bilayers. AMPs struggle to insert, doesn't disturb action much
-- Interactions between charged AMPs and cholesterol/glycoproteins?
-- Anionic AMPs also exist - but these all need Zn2+ to mediate interaction!
+ - Hydrophobic, hence inserts into membrane
+ - Initial contact of charged AMP (opposite charge to bacterial membrane) and bacteria
+ - Bacterial membranes are more anionic (phospholipids, etc) (Hence, more cationic AMP the better) - strong electrostatic interaction
+ - In order to insert, need certain membrane fluidity. Cholesterol provides this in human cells, not present in bacteria
+ - Cholesterol - lack of fluidity - reduces activity of AMPs, stabilises bilayers. AMPs struggle to insert, doesn't disturb action much
+ - Interactions between charged AMPs and cholesterol/glycoproteins?
+ - Anionic AMPs also exist - but these all need Zn2+ to mediate interaction!
 
 * Also
-- Link between innate and adaptive immunity - chemotactic activity
-- Recruit neutrophils, monocytes, etc to sites of infection
-- Stimulates them to release chemokines from these cells
-- Stimulates degranulation of these cells, induce release of NO, promotes phagocytosis
-- Binds to chemokine receptors directly? Maybe?
+ - Link between innate and adaptive immunity - chemotactic activity
+ - Recruit neutrophils, monocytes, etc to sites of infection
+ - Stimulates them to release chemokines from these cells
+ - Stimulates degranulation of these cells, induce release of NO, promotes phagocytosis
+ - Binds to chemokine receptors directly? Maybe?
 
 * How are they produced?
-- Don't want them floating around freely inside cells (could mess up proteins) or in gut (immunomodulatory effects could be dangerous if not controlled)
-- Some are constitutive (e.g. dermicidin)
-- Some are triggered (e.g. \beta-defensin by inflammation)
-- Can be enhanced by cytokines/microbial products
-- Controlled - stored in secretory granules, so not available in cell
-- Only released as appropriate
-- Often produced as a precursor protein, cleaved by proteases for activity
-- Secretory granule with precursor protein, protease in endosomal vesicle or extracellular space
-- Bacteria endocytosed, endosome and secretory granule merge
-- Or, secretory granule released and cleaved extracellularly
+ - Don't want them floating around freely inside cells (could mess up proteins) or in gut (immunomodulatory effects could be dangerous if not controlled)
+ - Some are constitutive (e.g. dermicidin)
+ - Some are triggered (e.g. \beta-defensin by inflammation)
+ - Can be enhanced by cytokines/microbial products
+ - Controlled - stored in secretory granules, so not available in cell
+ - Only released as appropriate
+ - Often produced as a precursor protein, cleaved by proteases for activity
+ - Secretory granule with precursor protein, protease in endosomal vesicle or extracellular space
+ - Bacteria endocytosed, endosome and secretory granule merge
+ - Or, secretory granule released and cleaved extracellularly
 ** Case study
-- Paneth cells in gut - sense bacteria via MyD88 dependant TLR
-- trypsin present in sites in guy
-- Activation of AMPs restricted to part of intestinal tract away from stem cells in crypt
-- Only want them to become active as they are released from the crypt
+ - Paneth cells in gut - sense bacteria via MyD88 dependant TLR
+ - trypsin present in sites in guy
+ - Activation of AMPs restricted to part of intestinal tract away from stem cells in crypt
+ - Only want them to become active as they are released from the crypt
 
 * More interesting bits and pieces
-- Only one human cathelicidin, hCAP18 in neutrophils, but lots of defensins
-- hCAP18 = precursor, cleaved to LL-37 as active peptide
-- Unprocessed form also found in seminal plasma
-- Together with enzyme, gastricsin, but is inactive at basic pH
-- Activated by acidic pH of vagina
-- Different cleavage of precursor to lead to different active AMP produced, which affects diff microorganisms
-- Prevents infection following sex!
+ - Only one human cathelicidin, hCAP18 in neutrophils, but lots of defensins
+ - hCAP18 = precursor, cleaved to LL-37 as active peptide
+ - Unprocessed form also found in seminal plasma
+ - Together with enzyme, gastricsin, but is inactive at basic pH
+ - Activated by acidic pH of vagina
+ - Different cleavage of precursor to lead to different active AMP produced, which affects diff microorganisms
+ - Prevents infection following sex!
 
 * How is variety generated?
-- Same precursor, cleaved by different enzymes into different molecules
-- Short peptides can be fused and cyclised in different combinations
-- theta-defensins present in primarily non-human primates
-- 18-residue circular defensin
-- Four subunits can be combined to produce 10 different defensins
-- Protection against HIV like viruses
-- Humans have a premature stop codon in theta-defensin, but rest of machinery for circularisation, etc, still present
-- Stop codon removed, makes retrocyclin, active against HIV (Penburthy et al, 2011)
+ - Same precursor, cleaved by different enzymes into different molecules
+ - Short peptides can be fused and cyclised in different combinations
+ - theta-defensins present in primarily non-human primates
+ - 18-residue circular defensin
+ - Four subunits can be combined to produce 10 different defensins
+ - Protection against HIV like viruses
+ - Humans have a premature stop codon in theta-defensin, but rest of machinery for circularisation, etc, still present
+ - Stop codon removed, makes retrocyclin, active against HIV (Penburthy et al, 2011)
 
 * How do bacteria defend themselves?
-- They can alter their surface charges to repel AMP binding
-- Change charge on peptidoglycans, teichoic acid or lipopolysaccharide
-- can alter bacterial membrane fluidity
-- can make proteases to degrade activity of AMPs or binding proteins to sequester their activity
-- Proteolytic attack - hence disulphide bonds and circularisation present, to develop tight, stable peptides.
-- use multidrug efflux pumps to remove them from cell
+ - They can alter their surface charges to repel AMP binding
+ - Change charge on peptidoglycans, teichoic acid or lipopolysaccharide
+ - can alter bacterial membrane fluidity
+ - can make proteases to degrade activity of AMPs or binding proteins to sequester their activity
+ - Proteolytic attack - hence disulphide bonds and circularisation present, to develop tight, stable peptides.
+ - use multidrug efflux pumps to remove them from cell
 
 * Resistance by commensals?
-- Commensal makes SufA to target and cleave AMPs, degradation products active against pathogen
-- Bacteria make own AMPs - bacteriocidins, lantibiotics
-- Novel amino acids, e.g. lanthionine - proteases can't act upon them!
-- Colicidin made by E coli against E coli
-- Vibriocidins made by Vibrio sp against Gram negative bacteria
-- nisin made by Lactococcus and used for food preparation
+ - Commensal makes SufA to target and cleave AMPs, degradation products active against pathogen
+ - Bacteria make own AMPs - bacteriocidins, lantibiotics
+ - Novel amino acids, e.g. lanthionine - proteases can't act upon them!
+ - Colicidin made by E coli against E coli
+ - Vibriocidins made by Vibrio sp against Gram negative bacteria
+ - nisin made by Lactococcus and used for food preparation
 
-- AMPs can lead to diseases if inappropriately expressed
-- Cancers, e.g. colorectal
-- Inflammatory conditions from immunomodulatory effects
-- arthritis
-- Atherosclerosis
-- Crohns disease - gut microbiota vs human AMPs - start to damage mucosal cells
+ - AMPs can lead to diseases if inappropriately expressed
+ - Cancers, e.g. colorectal
+ - Inflammatory conditions from immunomodulatory effects
+ - arthritis
+ - Atherosclerosis
+ - Crohns disease - gut microbiota vs human AMPs - start to damage mucosal cells
 
 * Membrane active peptides
-- Short amphipathic peptides
-- Pre-amyloid toxins
-- Cell penetrating peptides
-- Likely not distinct classes
+ - Short amphipathic peptides
+ - Pre-amyloid toxins
+ - Cell penetrating peptides
+ - Likely not distinct classes
 
 * Amyloid beta as an AMP?
-- Cathepsin B inhibitor -> no AD phenotype - immune system involvement!
-- Fibrils found in plaques, but these are likely not the disease-causing form
-- Soluble form are cytotoxic pore-forming soluble oligomers
-- AB has antimicrobial activity
-- Mitochondrial damage frequently evident in dementia
-- Mitochondria come from bacteria evolutionarily, hence amyloid B localises to mitochondrial membrane and causes damage
+ - Cathepsin B inhibitor -> no AD phenotype - immune system involvement!
+ - Fibrils found in plaques, but these are likely not the disease-causing form
+ - Soluble form are cytotoxic pore-forming soluble oligomers
+ - AB has antimicrobial activity
+ - Mitochondrial damage frequently evident in dementia
+ - Mitochondria come from bacteria evolutionarily, hence amyloid B localises to mitochondrial membrane and causes damage
 
 * Therapeutics?
-- Broad spectrum - even somewhat antiviral
-- Act without high specificity - hence less chance of resistance developing
-- Bacteriocidal not static
-- Short contact time needed for killing
-- Frog skin AMPs against many multidrug resistant bacteria eg. Pseudomonas
-- Uccelletti, 2010
+ - Broad spectrum - even somewhat antiviral
+ - Act without high specificity - hence less chance of resistance developing
+ - Bacteriocidal not static
+ - Short contact time needed for killing
+ - Frog skin AMPs against many multidrug resistant bacteria eg. Pseudomonas
+ - Uccelletti, 2010
 
 * Bad aspects
-- High concentrations needed for effectiveness
-- Harmful immunomodulatory effects if used too much
-- Developing resistance to AMPs more dangerous than antibiotic resistance!
-- Inhibitors of enzymes responsible for changing bacterial surfaces to make them more susceptible to current AMPs might be a viable option?
+ - High concentrations needed for effectiveness
+ - Harmful immunomodulatory effects if used too much
+ - Developing resistance to AMPs more dangerous than antibiotic resistance!
+ - Inhibitors of enzymes responsible for changing bacterial surfaces to make them more susceptible to current AMPs might be a viable option?

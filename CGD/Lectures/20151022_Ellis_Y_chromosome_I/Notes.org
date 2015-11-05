@@ -3,219 +3,219 @@
 #+DATE Thu 22 Oct, 2015
 
 * Slide 1
-- Molecular genomics and structure to functional stuff
-- Function of Y chromosome has profound impact on structure
-- Structure as consequence of function
-- Structure in turn influences which functions accumulate on them
-- Not as simple as X chromosome female, Y male
+ - Molecular genomics and structure to functional stuff
+ - Function of Y chromosome has profound impact on structure
+ - Structure as consequence of function
+ - Structure in turn influences which functions accumulate on them
+ - Not as simple as X chromosome female, Y male
 
 * Slide 2, 3, 4
-- No notes taken
+ - No notes taken
 
 * Slide 5
-- Plants have both male and female!
+ - Plants have both male and female!
 
 * Slide 6
-- Drosophila XY male but sex is dosage dependant not Y dependant
+ - Drosophila XY male but sex is dosage dependant not Y dependant
 
 * Slide 7
-- cell positive feedback - Sox9 transcription factor activates itself
-- Autocrine - Fgf9 and Fgf receptor
-- Paracrine via Prostaglandin D2
-- Negative feedback leads to stabilising feedback
-- Positive feedback leads to switching behaviour, nowhere in between
-- Organ makes an executive decision as a whole to be one or other
+ - cell positive feedback - Sox9 transcription factor activates itself
+ - Autocrine - Fgf9 and Fgf receptor
+ - Paracrine via Prostaglandin D2
+ - Negative feedback leads to stabilising feedback
+ - Positive feedback leads to switching behaviour, nowhere in between
+ - Organ makes an executive decision as a whole to be one or other
 
 * Slide 8
-- Look at evolutionarily conserved bits and pieces
-- Male module, self reinforcing
-- Female module, self reinforcing
-- Each represses other
-- Sox9, Fgf9 all conserved
-- Allows for choice - then choice reinforced by network
-- Activating any one gene activates all others
-- Oestrogen receptors can be temperature sensitive - alligators! Below temperature, do signal!
-- Originally, environmental/social factors to determine sex
-- Superceded by genetic switch to force the choice, becomes in Y chromosome
-- Global warming/cooling -> would affect number of males/females -> selection pressure to make genetic force
+ - Look at evolutionarily conserved bits and pieces
+ - Male module, self reinforcing
+ - Female module, self reinforcing
+ - Each represses other
+ - Sox9, Fgf9 all conserved
+ - Allows for choice - then choice reinforced by network
+ - Activating any one gene activates all others
+ - Oestrogen receptors can be temperature sensitive - alligators! Below temperature, do signal!
+ - Originally, environmental/social factors to determine sex
+ - Superceded by genetic switch to force the choice, becomes in Y chromosome
+ - Global warming/cooling -> would affect number of males/females -> selection pressure to make genetic force
 
 * Slide 9
-- Like jump starting a car - short circuits to skip choosing process, flips module on
-- Dominant negative - inactivates one module
-- Dmrt1 and Foxl2 important for maintaining differentiation, else can use tetracycline inducible factors to transdifferentiate
+ - Like jump starting a car - short circuits to skip choosing process, flips module on
+ - Dominant negative - inactivates one module
+ - Dmrt1 and Foxl2 important for maintaining differentiation, else can use tetracycline inducible factors to transdifferentiate
 
 * Slide 10
-- No notes taken
+ - No notes taken
 
 * Slide 11
-- Small regions are homologous to allow for pairing and segregation during cell division, else apoptosis
-- Y degenerates because it forces the switch
+ - Small regions are homologous to allow for pairing and segregation during cell division, else apoptosis
+ - Y degenerates because it forces the switch
 
 * Slide 12, 13, 14
-- No notes taken
+ - No notes taken
 
 * Slide 15
-- Two autosomes per person
-- Half Y per person
-- 1.5 X per person
-- Hence, much smaller population
-- So much more vulnerable to genetic drift
-- Efficiency of selection is low
-- Random factor much higher
-- Deleterious mutations more likely
+ - Two autosomes per person
+ - Half Y per person
+ - 1.5 X per person
+ - Hence, much smaller population
+ - So much more vulnerable to genetic drift
+ - Efficiency of selection is low
+ - Random factor much higher
+ - Deleterious mutations more likely
 
 * Slide 16
-- Stochastic loss of undamaged chromosome once recombination can no longer happen
+ - Stochastic loss of undamaged chromosome once recombination can no longer happen
 ** Muller's Ratchet
-- Rate of mutation > rate of selection
-- Smaller population relative to autosomes
-- every Y chromosome gets some sort of damage
-- So eventually we lose the pure undamaged haplotype from population
-- Autosomal genes can recombine to fix this, get one with no mutations, one with two, deleterious combination selected against - not the case in Y!
+ - Rate of mutation > rate of selection
+ - Smaller population relative to autosomes
+ - every Y chromosome gets some sort of damage
+ - So eventually we lose the pure undamaged haplotype from population
+ - Autosomal genes can recombine to fix this, get one with no mutations, one with two, deleterious combination selected against - not the case in Y!
 
 ** Background selection
-- If high background deleterious mutation rate, one beneficial mutation may not give enough of a fitness advantage to stay!
-- Doesnt happen in autosomes because recombination can rescue beneficial mutation into a clean background
-- Doomed on Y chromosome
-- Hence, few beneficial mutations accumulate
+ - If high background deleterious mutation rate, one beneficial mutation may not give enough of a fitness advantage to stay!
+ - Doesnt happen in autosomes because recombination can rescue beneficial mutation into a clean background
+ - Doomed on Y chromosome
+ - Hence, few beneficial mutations accumulate
 
 ** Hitchhiking
-- A very beneficial mutation can drag along with it all the deleterious background mutations that have accumulated with it
-- Pulled to fixation with other bad mutations
+ - A very beneficial mutation can drag along with it all the deleterious background mutations that have accumulated with it
+ - Pulled to fixation with other bad mutations
 
 ** Eventually
-- Deleterious mutations accumulate over time, eventually deleted
-- Hence, Y chromosome shrinks!
-- All to do with lack of recombination
-- Parasitic genomic elements, e.g. LINEs, SINEs, retroviral elements can all build up on Y
+ - Deleterious mutations accumulate over time, eventually deleted
+ - Hence, Y chromosome shrinks!
+ - All to do with lack of recombination
+ - Parasitic genomic elements, e.g. LINEs, SINEs, retroviral elements can all build up on Y
 
 * Slide 17
-- Global warming/cooling -> imbalance in gender -> selection pressure to evolve more of other gender by forcing it
-- Chromosomal inversions = lead to lack of recombination
-- Why suppress recombination?
-- Antagonistic selection - genes that confer benefit to one gender but not other
-- Gene may be deleterious to females but beneficial to males
-- Differential fitness benefits - want to preserve good linkage between maleness gene and male sperm motility/punch lion in face gene
-- Interest to preserve favourable linkages
+ - Global warming/cooling -> imbalance in gender -> selection pressure to evolve more of other gender by forcing it
+ - Chromosomal inversions = lead to lack of recombination
+ - Why suppress recombination?
+ - Antagonistic selection - genes that confer benefit to one gender but not other
+ - Gene may be deleterious to females but beneficial to males
+ - Differential fitness benefits - want to preserve good linkage between maleness gene and male sperm motility/punch lion in face gene
+ - Interest to preserve favourable linkages
 
 * Slide 18, 19
-- No notes taken
+ - No notes taken
 
 * Slide 20
-- To not break up favourable combination of alleles - good placenta genes not on Y chromosome!
+ - To not break up favourable combination of alleles - good placenta genes not on Y chromosome!
 
 * Slide 21
-- All other genes not relevant to gender-based advantages undergo degeration because of the lack of recombination!
-- Lost! Y shrinks
-- Only genes beneficial to males or deleterious to females kept on Y chromosome
+ - All other genes not relevant to gender-based advantages undergo degeration because of the lack of recombination!
+ - Lost! Y shrinks
+ - Only genes beneficial to males or deleterious to females kept on Y chromosome
 
 * Slide 22
-- When non recombining chromosome, build up on LINEs and SINEs
-- Drosophila, neo-Y - begun to degenerate but hasnt to same extent yet
+ - When non recombining chromosome, build up on LINEs and SINEs
+ - Drosophila, neo-Y - begun to degenerate but hasnt to same extent yet
 
 * Slide 23
-- Jenny Graves articles very weird
-- Some species have lost it completely - hence, dose dependance on number of X chromosomes?
-- But not necessarily
+ - Jenny Graves articles very weird
+ - Some species have lost it completely - hence, dose dependance on number of X chromosomes?
+ - But not necessarily
 
 * Slide 24
-- PAR :: pseudoautosomal region
-- Pairing region retained
-- Gene traffic between X and Y here
+ - PAR :: pseudoautosomal region
+ - Pairing region retained
+ - Gene traffic between X and Y here
 
 * Slide 25
-- If 4-5 copes, mutation in 1 leads to little difference
+ - If 4-5 copes, mutation in 1 leads to little difference
 
 * Slide 26
-- Strata of degree of similarity
-- Some recent papers - up to 11?
+ - Strata of degree of similarity
+ - Some recent papers - up to 11?
 
 * Slide 27
-- XAR :: X added region - present in placental mammals but not marsupials
-- XCR :: X conserved region
-- Iterative process, gradual addition and attrition of segments
+ - XAR :: X added region - present in placental mammals but not marsupials
+ - XCR :: X conserved region
+ - Iterative process, gradual addition and attrition of segments
 
 * Slide 28
-- Y enriched for spermatogenesis genes
-- Layer cake effect
+ - Y enriched for spermatogenesis genes
+ - Layer cake effect
 
 * Slide 29
-- Stochastic processes involved - hence different species retain different genes
-- Sry conserved because thats the point of the Y chromosome...
+ - Stochastic processes involved - hence different species retain different genes
+ - Sry conserved because thats the point of the Y chromosome...
 
 * Slide 30
-- X transposed - transposed to X recently in human lineage
+ - X transposed - transposed to X recently in human lineage
 
 * Slide 31
-- No notes taken
+ - No notes taken
 
 * Slide 32
-- X chromosome more conserved than autosomes
-- Some law? Ernols?
+ - X chromosome more conserved than autosomes
+ - Some law? Ernols?
 
 * Slide 33
-- No notes taken
+ - No notes taken
 
 * Slide 34
-- Comparison of syntenic sequences
-- Autosomes traffic lots of genes between them
-- X conserved
+ - Comparison of syntenic sequences
+ - Autosomes traffic lots of genes between them
+ - X conserved
 
 * Slide 35
-- Genetic sex determination - solved
-- Sex chromosomes to link advantageous alleles - solved
-- Now, with one copy in males and two copies in females - gene dosage issue
-- Humans, one X does work of two autosomes
+ - Genetic sex determination - solved
+ - Sex chromosomes to link advantageous alleles - solved
+ - Now, with one copy in males and two copies in females - gene dosage issue
+ - Humans, one X does work of two autosomes
 
 * Slide 36
-- Xp = paternal
-- Xm = maternal
-- Lots of ways to achieve it, marsupials have it imprinted
+ - Xp = paternal
+ - Xm = maternal
+ - Lots of ways to achieve it, marsupials have it imprinted
 
 * Slide 37
-- As X and Y diverge, X and autosomes shut down traffic - impacts dosage
-- LINEs spread X inactivation
+ - As X and Y diverge, X and autosomes shut down traffic - impacts dosage
+ - LINEs spread X inactivation
 
 * Slide 38
-- PAR - everyone has two copies of it anyway, so no inactivation here
+ - PAR - everyone has two copies of it anyway, so no inactivation here
 
 * Slide 39
-- Zfx and Zfy
-- Zfx escapes X inactivation, one present on each chromosome
-- Mouse, Zfx inactivated, Zfy expressed only in testes, male specific
-- Xic on q arm
-- Centromere messes with inactivation
-- Hence Xp arm leaky inactivation
-- So difference between XO and XX
+ - Zfx and Zfy
+ - Zfx escapes X inactivation, one present on each chromosome
+ - Mouse, Zfx inactivated, Zfy expressed only in testes, male specific
+ - Xic on q arm
+ - Centromere messes with inactivation
+ - Hence Xp arm leaky inactivation
+ - So difference between XO and XX
 
 * Slide 40, 41, 42
-- No notes taken
+ - No notes taken
 
 * Slide 43
-- Dispermy - absolute gene dosage matters
+ - Dispermy - absolute gene dosage matters
 
 * Slide 44, 45
-- No notes taken
+ - No notes taken
 
 * Slide 46
-- Fertility issues because cant line up in meiosis!
+ - Fertility issues because cant line up in meiosis!
 
 * Slide 47, 48, 49, 50
-- No notes taken
+ - No notes taken
 
 * Slide 51
-- Translocations because Sry is close to autosomal region, edge of Y terminus
-- If recombination in PAR, chiasma slip slightly further down, Sry moved
-- Most species have it far away from PAR boundaries
+ - Translocations because Sry is close to autosomal region, edge of Y terminus
+ - If recombination in PAR, chiasma slip slightly further down, Sry moved
+ - Most species have it far away from PAR boundaries
 
 * Slide 52
-- Calves bigger paradoxically, because they are working harder to keep body up
+ - Calves bigger paradoxically, because they are working harder to keep body up
 
 * Slide 53
-- Silencing may spread to autosomal region
-- These die off because autosomal bits silenced
-- Only ones that make other choice survive, hence inactivation skew
-- Hence, normal copy is inactivated
+ - Silencing may spread to autosomal region
+ - These die off because autosomal bits silenced
+ - Only ones that make other choice survive, hence inactivation skew
+ - Hence, normal copy is inactivated
 
 * Slide 54, 55, 56
-- No notes taken
+ - No notes taken

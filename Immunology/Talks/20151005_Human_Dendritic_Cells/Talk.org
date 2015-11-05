@@ -16,14 +16,14 @@ Naturally acquired microchimerism has recently been investigated in autoimmune d
 A study was performed in infants with SCID cite:pmid11535520 to determine the presence of materal lymphocytes. It was found that many of these infants showed signs of GvHD (!)
 
 ** Immunological consequences
-- One theory is that all T cells are induced to become Treg cells (as proposed by cite:pmid14996783) such that all foreign antigens are tolerated. However, in utero transplantation tends to prevent excessive organ damage, provides long-term tolerance and is more successful with a fetal immunodeficiency.
+ - One theory is that all T cells are induced to become Treg cells (as proposed by cite:pmid14996783) such that all foreign antigens are tolerated. However, in utero transplantation tends to prevent excessive organ damage, provides long-term tolerance and is more successful with a fetal immunodeficiency.
 
-- The speaker gave an account of her journey in investigating the fetal immune system.
+ - The speaker gave an account of her journey in investigating the fetal immune system.
 
 * What are dendritic cells?
-- Dendritic cells were discovered by Paul Langerhans in 1868. They were named for their starry shape.
+ - Dendritic cells were discovered by Paul Langerhans in 1868. They were named for their starry shape.
 
-- Since then, we have learnt a lot about their functional role. Steinman received a Nobel Prize in 2011 for discovery of its role in adaptive immunity.
+ - Since then, we have learnt a lot about their functional role. Steinman received a Nobel Prize in 2011 for discovery of its role in adaptive immunity.
 
 * What do we know about dendritic cells in the adult immune system?
 
@@ -31,11 +31,11 @@ A study was performed in infants with SCID cite:pmid11535520 to determine the pr
 They can present viral antigens to the CD4+ cells via MHC Class I molecules, as well as cross-presenting exogenous antigen via the same MHC Class I molecules. They can also induce the naive CD4+ cells to differentiate into Th1, Th2 Th17 or Treg cells depending upon the interleukins secreted.
 
 ** Characterisation of subtypes
-- cDC1s have been characterised by cite:pmid22795876 to play a role in cross-presentation
+ - cDC1s have been characterised by cite:pmid22795876 to play a role in cross-presentation
 
-- cDC2 have been characterised by cite:pmid20018619 to play a role in the polarisation of the CD4 response.
+ - cDC2 have been characterised by cite:pmid20018619 to play a role in the polarisation of the CD4 response.
 
-- CD14+ cells have been thought to play a role in tolerogenic IL-10 release, cite:pmid25200712 showed that they actually transcriptionally align with monocytes/macrophages. expressing DCSIGN but not CD26 upon extravasation from the blood.
+ - CD14+ cells have been thought to play a role in tolerogenic IL-10 release, cite:pmid25200712 showed that they actually transcriptionally align with monocytes/macrophages. expressing DCSIGN but not CD26 upon extravasation from the blood.
 
 ** Other
 FETAL HAEMATOPOIESIS OCCURS IN THE LIVER UNTIL ~ 10 weeks THEN BONE MARROW AFTER THAT (with some overlap)
@@ -47,17 +47,17 @@ Saw this by transcriptionally aligning adult and fetal dendritic cells to show m
 Gene expression profiling (GEP) via microarray analysis is a widely used tool for assessing risk and other patient diagnostics in clinical settings. However, non-biological factors such as systematic changes in sample preparation, differences in scanners, and other potential batch effects are often unavoidable in long-term studies and meta-analysis. In order to reduce the impact of batch effects on microarray data, Johnson, Rabinovic, and Li developed ComBat for use when combining batches of gene expression microarray data. \cite{pmid25887219}
 
 * Fetal DCs migrate to lymph nodes
-- Fetal DCs migrate in the human cite:pmid22795876 and in the mouse cite:pmid15308107
-- From the skin to lymph cite:pmid25200712
+ - Fetal DCs migrate in the human cite:pmid22795876 and in the mouse cite:pmid15308107
+ - From the skin to lymph cite:pmid25200712
 
 * What immune responses do fetal DCs promote?
-- Fetal DCs promote Treg induction through FOXP3 and TGF\beta - shown in graphs.
+ - Fetal DCs promote Treg induction through FOXP3 and TGF\beta - shown in graphs.
 
-- Differential gene expression between adults and fetus - Arg2 and CD71 high in fetus, low in adult.
+ - Differential gene expression between adults and fetus - Arg2 and CD71 high in fetus, low in adult.
 
-- CD71+ leads to immunosuppression cite:pmid24196717
+ - CD71+ leads to immunosuppression cite:pmid24196717
 
-- Arg1 leads to immunosuppression, Arg2 closely related and seems to do the same.
+ - Arg1 leads to immunosuppression, Arg2 closely related and seems to do the same.
 
 #+CAPTION Activity of T cells in presence and absence of fetal DCs. Normally, DCs lead to stimulation, not suppression
 
@@ -69,10 +69,10 @@ Gene expression profiling (GEP) via microarray analysis is a widely used tool fo
 
 * Conclusions
 
-- The fetus has a complete APC network by 13 weeks EGA.
+ - The fetus has a complete APC network by 13 weeks EGA.
 
-- These APCs are immunocompetent, actively promoting tolerance.
+ - These APCs are immunocompetent, actively promoting tolerance.
 
-- This has developmental, immunological and clinical consequences. Tolerance to maternal antigens is lifelong.
+ - This has developmental, immunological and clinical consequences. Tolerance to maternal antigens is lifelong.
 
-- Arginase is released to convert L-arginine to ornithine, reducing its availability to NOS and helps to modulate immune responses. TNF\alpha induces its release.
+ - Arginase is released to convert L-arginine to ornithine, reducing its availability to NOS and helps to modulate immune responses. TNF\alpha induces its release.

@@ -1,47 +1,47 @@
 * Pedigrees
-- p 79 - 1900s, mendelians vs biometricians - solved by fischers theoretical model
+ - p 79 - 1900s, mendelians vs biometricians - solved by fischers theoretical model
 
-- complications to mendelian pedigrees - variable expression - type I Waardenburg (autosomal dominant)
-- penetrance
-- age related penetrance, e.g. huntingdons - slow accumulation of a substance, incremental tissue death, or inability to repair some environmental damage
+ - complications to mendelian pedigrees - variable expression - type I Waardenburg (autosomal dominant)
+ - penetrance
+ - age related penetrance, e.g. huntingdons - slow accumulation of a substance, incremental tissue death, or inability to repair some environmental damage
 
-- mitochondria are not self sufficient - some diseases involving mitochondrial dysfunction due to nuclear mutation hence Mendelian pedigrees
-- PAR diseases - Leri-Weill dyschondrosteiosis -> dwarfism
-- Bias of ascertainment - segregation ratio for recessive conditions not 0.25? No independant way of detecting carrier? Only affected families identified, those with only carriers missed
-- Above is complete truncate ascertainment
-- Single selection - family with more children affected more likely to be picked up
-- Subtle biases in non  recessive conditions distorting estimated biases
-- Beadle and Tatum - one gene one enzyme hypothesis
-- But no one to one correspondance bwteen transcriptional units and phenotypes for three types of heterogeneity:
+ - mitochondria are not self sufficient - some diseases involving mitochondrial dysfunction due to nuclear mutation hence Mendelian pedigrees
+ - PAR diseases - Leri-Weill dyschondrosteiosis -> dwarfism
+ - Bias of ascertainment - segregation ratio for recessive conditions not 0.25? No independant way of detecting carrier? Only affected families identified, those with only carriers missed
+ - Above is complete truncate ascertainment
+ - Single selection - family with more children affected more likely to be picked up
+ - Subtle biases in non  recessive conditions distorting estimated biases
+ - Beadle and Tatum - one gene one enzyme hypothesis
+ - But no one to one correspondance bwteen transcriptional units and phenotypes for three types of heterogeneity:
    + Locus heterogeneity :: Same phenotype from many loci - epistasis
    + Allelic heterogeneity :: Different mutations in different patients, same phenotype
    + Clinical heterogeneity :: Mutations in same gene -> two phenotypes - HPRT -> gout or Lesch-Nyhan syndrome (severe mental retardation)
-- Pleiotropy - different - same gene mutation, multiple effects in same organism
+ - Pleiotropy - different - same gene mutation, multiple effects in same organism
 
-- giuemsa staining stains low gc areas dark
-- mitochondrial genes as pseudogenes in nuclear dna
-- processed pseudogenes lack promoter
-- can be reincorporated into genome from cdna, intronless retrogenes, typically homologs of intron containing X gene
-- rationale is during male meiosis, XY body forms, inactivated x and y chromosomes
-- autosomal retrogenes provide continued synthesis of crucial proteins
+ - giuemsa staining stains low gc areas dark
+ - mitochondrial genes as pseudogenes in nuclear dna
+ - processed pseudogenes lack promoter
+ - can be reincorporated into genome from cdna, intronless retrogenes, typically homologs of intron containing X gene
+ - rationale is during male meiosis, XY body forms, inactivated x and y chromosomes
+ - autosomal retrogenes provide continued synthesis of crucial proteins
 
-- rna world hypothesis, rich and woese in 1960s
+ - rna world hypothesis, rich and woese in 1960s
 
-- small rna transcripts known to be useful in aiding gene expression, mostly posttranscriptional processing
-- labelled snrna to distinguish from pre-mRNA
-- many known to be uridine rich and so nanmed accordingly
-- U2 snRNA does not refer to famous irish rock band but second uridine rich small nuclear rna to be classified
-- snRNPs - ribozymes
+ - small rna transcripts known to be useful in aiding gene expression, mostly posttranscriptional processing
+ - labelled snrna to distinguish from pre-mRNA
+ - many known to be uridine rich and so nanmed accordingly
+ - U2 snRNA does not refer to famous irish rock band but second uridine rich small nuclear rna to be classified
+ - snRNPs - ribozymes
 
-- rna editing changes sequence after transcription - p 374
+ - rna editing changes sequence after transcription - p 374
 
-- phagemids
-- contig clones
+ - phagemids
+ - contig clones
 
 * Genome alignment
-- Waterman algorithm minimises mismatches
-- Needleman-Wunsch maximises matches
+ - Waterman algorithm minimises mismatches
+ - Needleman-Wunsch maximises matches
 
-- contiguous gene syndromes - well defined for X chromosomes, lots of nearby genes deleted
+ - contiguous gene syndromes - well defined for X chromosomes, lots of nearby genes deleted
 
-- estrogen receptor held in cytoplasm by hsp90
+ - estrogen receptor held in cytoplasm by hsp90

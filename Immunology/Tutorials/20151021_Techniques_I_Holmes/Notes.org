@@ -1,77 +1,77 @@
 * Intro
-- What are the limitations of differet techniques
-- Fractionate tissues, purify out using antibodies
-- gene level to protein level integration
+ - What are the limitations of differet techniques
+ - Fractionate tissues, purify out using antibodies
+ - gene level to protein level integration
 
 * Fractionation - Magnetic separation
-- Magetic beads coupled to monoclonal Abs
-- Or streptavidin (binds to biotin moieties)
-- Paramagnetic column, matrix of conducting material with spaces for cells
-- Many spaces mean many chances for cells to interact with magnetised matrix and stick around
+ - Magetic beads coupled to monoclonal Abs
+ - Or streptavidin (binds to biotin moieties)
+ - Paramagnetic column, matrix of conducting material with spaces for cells
+ - Many spaces mean many chances for cells to interact with magnetised matrix and stick around
 
-- Good :: SCALABLE - can sort many more cells by making column longer but takes same time.
-- Bad :: Purity not as good as fluorescence
+ - Good :: SCALABLE - can sort many more cells by making column longer but takes same time.
+ - Bad :: Purity not as good as fluorescence
 
 ** Positive selection
-- Antibodies against protein of interest
-- Bad :: This may activate receptor, altering biology of cell
-- Good :: 90-95% efficiency
+ - Antibodies against protein of interest
+ - Bad :: This may activate receptor, altering biology of cell
+ - Good :: 90-95% efficiency
 ** Negative selection
-- Antibodies against everything else but protein of interest
-- Good :: Wont activate any receptors
-- Bad :: Need antibodies against everything else, always less effective than positive selection
+ - Antibodies against everything else but protein of interest
+ - Good :: Wont activate any receptors
+ - Bad :: Need antibodies against everything else, always less effective than positive selection
 
 * Fractionation - fluorescence cell sorting
-- Bad :: Not scalable - time increases with number of cells needed to sort
-- Hydrodynamic focussing - cells into fast flowing fluid, whose hydrodynamic properties separate the cells
-- Measure light scattered
-- PMT = photomultiplier tubes
-- more colours used - more work (emission spectra overlap)
-- create compensation matrix in software
-- measure FITC value, subtract ~27% of this value from value recorded from PE signal, for example
+ - Bad :: Not scalable - time increases with number of cells needed to sort
+ - Hydrodynamic focussing - cells into fast flowing fluid, whose hydrodynamic properties separate the cells
+ - Measure light scattered
+ - PMT = photomultiplier tubes
+ - more colours used - more work (emission spectra overlap)
+ - create compensation matrix in software
+ - measure FITC value, subtract ~27% of this value from value recorded from PE signal, for example
 ** Fluoresence Resonance Energy Transfer
-- Chemically couple PE to another dye, electron transfer to other dye through electron resonance
-- PE photon not produced - different wavelength made instead by this new resonant system
-- Shifts spectrum of fluorophore
-- (Practical Flow Cytometry, Howard Shapiro, 2003)
-- (First Flow Principles, Alice Given, 2001)
+ - Chemically couple PE to another dye, electron transfer to other dye through electron resonance
+ - PE photon not produced - different wavelength made instead by this new resonant system
+ - Shifts spectrum of fluorophore
+ - (Practical Flow Cytometry, Howard Shapiro, 2003)
+ - (First Flow Principles, Alice Given, 2001)
 ** More cytometry
-- Bad :: Compensation increases noise
-- Nozzle vibrated at high frequency to create droplets
-- Can vary intensity of charge
-- Droplets given different charges based on different laser readings
-- Droplets deflected differentially by charged plate (electrostatic)
-- Potentially 6 populations from one input!
-- Using same fluoresence protein in antibodies for selecting against traits in negative selection (saves no of fluorescent proteins available to use)
-- Fluorescence instruments just to categorise
+ - Bad :: Compensation increases noise
+ - Nozzle vibrated at high frequency to create droplets
+ - Can vary intensity of charge
+ - Droplets given different charges based on different laser readings
+ - Droplets deflected differentially by charged plate (electrostatic)
+ - Potentially 6 populations from one input!
+ - Using same fluoresence protein in antibodies for selecting against traits in negative selection (saves no of fluorescent proteins available to use)
+ - Fluorescence instruments just to categorise
    + Immunophenotyping (based on optical properties from Abs and lasers)
    + Low angle scatter, roughly proportional to size of cells
-- Isoforms from alternative splicing, only had one expressed - trans gene, not much control over expression
-- Immunophenotyping analysis may be tricky!
-- Retracted study claimed FOXP3+ cells that were not T cells
-- Actually, some cells were binding Fc of Ab instead of binding to FOXP3 - hence this result
-- Can be difficult to separate two different populations, dont always get good separation
+ - Isoforms from alternative splicing, only had one expressed - trans gene, not much control over expression
+ - Immunophenotyping analysis may be tricky!
+ - Retracted study claimed FOXP3+ cells that were not T cells
+ - Actually, some cells were binding Fc of Ab instead of binding to FOXP3 - hence this result
+ - Can be difficult to separate two different populations, dont always get good separation
 
 * Cytof
-- Cytometry by time of flight
-- Antibodies with heavy metals (e.g. isotopes of Lanthanum)
-- Add to cells, allow to bind Abs
-- nebulise cells
-- Fried and ions analysed using time of flight - looks at mass/charge ratio, but same charge ions = looking at mass
-- HIgh dimensional multiparameter analysis
-- Good :: Many more dimensions
-- Bad :: 32 markers means potentially 2^32 populations! Must use computerised clustering algorithms
-- SPADE analysis
+ - Cytometry by time of flight
+ - Antibodies with heavy metals (e.g. isotopes of Lanthanum)
+ - Add to cells, allow to bind Abs
+ - nebulise cells
+ - Fried and ions analysed using time of flight - looks at mass/charge ratio, but same charge ions = looking at mass
+ - HIgh dimensional multiparameter analysis
+ - Good :: Many more dimensions
+ - Bad :: 32 markers means potentially 2^32 populations! Must use computerised clustering algorithms
+ - SPADE analysis
 
 ** Example of use
-- Are variations in human immune cells driven by genetics or environment?
-- Compare MZ twins vs DZ twins
-- Majority of immune cell populations - no genetic influence
-- A few with heritable environment
-- CD27+ heritable
-- No explanation given why
+ - Are variations in human immune cells driven by genetics or environment?
+ - Compare MZ twins vs DZ twins
+ - Majority of immune cell populations - no genetic influence
+ - A few with heritable environment
+ - CD27+ heritable
+ - No explanation given why
 
 ** Caveat
-- Another group (Roederer et al, 2015) just three months later with conventional tools got exactly same results and more
-- Elucidated reasons
-- Heritability was due to expression levels, not more cells
+ - Another group (Roederer et al, 2015) just three months later with conventional tools got exactly same results and more
+ - Elucidated reasons
+ - Heritability was due to expression levels, not more cells

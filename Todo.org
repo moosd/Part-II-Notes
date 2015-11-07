@@ -1,30 +1,43 @@
 
-* Write DNA essay
+* TODO Write DNA essay
 
   Describe the signalling mechanisms by which DNA is detected by
   inflammasomes and how the products of inflammasome activation regulate the
   host response to viral infection
 
 ** Intro
-    - What is the inflammasome
-        - How was it discovered? How is it investigated?
+    - Intro to innate and danger hypothesis
     - Why DNA is detected
     - Where the DNA might come from - parasites, bacteria, viruses, own
       cells, what might stop it from being detected
     - DNA degradation products as proxy for DNA - uric acid
+
+    - What is the inflammasome
+    - How was it discovered? How is it investigated?
 ** Detection
-    - Initial receptors for these ligands
+    - Initial receptors for these ligands - DNA-PK, cGAS, STING, AIM, cytoplasmic vs
+      TLRs
         - Evidence
         - experiments
 ** Signal transduction
-    - Secondary messengers
+    - Secondary messengers, domains and conformational changes
         - evidence and experiments
 ** Assembly of inflammasome
-    - Assembly of inflammasomes
+    - Assembly of inflammasomes - canonical, non canonical
         - different types, different expts
 ** Result of inflammasome, e.g. with viral infection
     - How it works
         - outputs
+    - Output to control inflammasomes
     - Possible outcomes in viral infection - ISGs, etc
+    - pathogens using it like m tuberculosis actively secreting dna
 ** Aberrant activation
     - What happens when it goes wrong?
+
+* TODO Read Robbins
+* TODO Read Strachan
+* TODO Parham
+* TODO CGD recommended refs
+* TODO Immunology recommended references
+* TODO Refs on slides CGD
+* TODO Refs on slides Immun

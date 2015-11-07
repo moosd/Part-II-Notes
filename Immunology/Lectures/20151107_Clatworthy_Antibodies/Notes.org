@@ -1,0 +1,182 @@
+#+TITLE B cell response to antigen
+#+AUTHOR Dr M Clatworthy
+#+DATE Sat 7 Nov, 2015
+
+* Intro
+    - Bigger picture
+    - T independent responses
+    - B cells required for the formation and maintenance of SLO (Secondary
+      Lymphoid Organs)
+        + T cells need B cells to mount optimal responses?
+    - IRA B cells
+    - B cells as regulator
+
+* T independent
+    - T dependent on protein antigens (presented on MHC)
+    - But important to have responses to non-protein antigens
+    - T dependent in follicles within lymph nodes/spleen - Follicular B cells
+    - Specific B cell subset in marginal zone of spleen (CD21/CD35 heterodimer)
+      recognises complement activation component
+    - CD1d recognises lipids
+    - Follicular B cells monoreactive
+    - These ones are polyreactive, low affinity for more than one antigen,
+      promiscuous
+    - Another subset, B1 cells - best characterised in the mouse
+    - May have different origin - yolk sac, and so long living
+    - Occupy different anatomical region. Mice, peritoneal and pleural
+      cavity, sites interfacing with environment in more direct way
+    - B1 cells and marginal zone cells -> T independant responses
+    - B1 into two subsets
+        + B1a, B1b, based on CD5 expression
+        + B1a :: produce natural antibody - antibodies that are present,
+          without any evidence organism was exposed to that antigen
+          previously, cross reactivity with commensals in gut
+        + Natural antibodies not undergone somatic hypermutation
+        + Can recognise self antigens important to dispose of (opsonisation)
+        + One reference suggesting natural antibodies important preventing
+          atherosclerosis, getting rid of ox-LDL
+        + Lupus (SLE), thought that natural antibodies help to dispose of
+          apoptotic cells, but if too much of this debris -> lupus
+
+    - T independent :: occur in athymic mice
+    - Can cross link multiple BCRs, if additional signals from
+      PAMPs/cytokines, sufficient to drive B cells to even class switch
+    - MZ B cells (Marginal zone) critical for T independent sinus
+    - Blood flows through marginal zone, hence can look through immunological
+      information going through blood
+    - (Cerruti et al, 2013) Get significant help from other cells
+      (Macrophages to pick up antigens, dendritic cells, some evidence
+      neutrophils picking up antigens in periphery bring them to spleen)
+    - Neutrophil B helpers - cytokines (eg IL-21)
+    - Neonatal mice/humans have poorly developed marginal zones, and hence
+      susceptibility to encapsulated organisms - Strep pneumoniae
+    - Pneumovax - carbohydrate antigens - limited utility in neonates because
+      little MZ B cells
+    - New vaccine, protein antigens bolted to carbohydrates - T dependent
+      response, hence much better response
+
+* Antibody independent B cell functions
+** B cells as APC
+    - Took some mice, gave them anti-\mu antibody, cytotoxic to kill cells
+    - Immunised mice with KLH
+    - Looked at lymph nodes, did restimulation assay
+    - Hence presence of B cells helps with T cell proliferation
+    - Got rid of B cells, so lack of proliferation?
+    - T cells in vitro, cocultured with other B cells
+    - B cells withh mito C = B cells there but cant divide
+    - Selected B cells based on IgG expression - much better capacity to
+      stimulate T cell proliferation
+    - Suggested B cells could be important APCs
+    - Made mice lacking MHC class II expression - produces B cell that can do
+      everything apart from present antigen
+    - CD19 - B cell specific marker
+    - Much lower number of total B cells, cant proliferate
+    - Interestingly, T cell phenotype - (CD44Pos, CD62Lneg = activated T
+      cells) - much lower
+    - Back-crossed mice to inbred strain of lupus mice
+    - Antibody (rituximab, antiCD20) efficacy in treating lupus
+    - Mouse heart transplant model, block costim to allow graft to survive
+    - Made mouse with B cells that cannot secrete antibody, severity of
+      chronic rejection same as wildtype - antibodies less important here
+    - Bone marrow chimera strategy, irradiate and give 50% bone marrow, 50%
+      MHCII knockout bone marrow
+    - Only thing that lacks class II now B cells
+** SLO formation and maintenance of subcapsular sinus macrophages
+    - B cells make important contributions to development and maintenance of
+      SLOs and particularly cell division
+    - SCID mice, lymph node and splenic architecture disrupted
+    - SCID with wt splenocytes, normal structures reforming
+    - Follicular dendritic cells. Transferring splenocytes, restore
+      architecture
+    - Cytokines (lymphotoxins) important in formation
+    - LT\alpha required?
+    - Splenocytes lacking LT\alpha dont form follicles
+    - Put in mixtures - B cells are the important cells
+    - LT\alpha deficient B cells with wt T cells - funny disorganised
+      architecture
+    - Hence B cell LT\alpha required for normal formation of structures
+    - (Golovkina et al, 1999) Look at Peyers patches. Without B cells, dont
+      form
+      - Expt without B cells, reconstituted B cell production, show Peyers
+        patches reform
+    - Required for maintenance of number of cell types in lymph node
+      (Moseman et al, 2012)
+    - Subcapsular sinus macrophages (CD169+), mark out macrophages living in
+      medulla (SIGN-R1)
+    - B cells function independent of antibody required for this
+    - Via production of LTalpha1\beta2
+    - almost complete loss of CD169+ cells
+    - LT\betaR results in failure to contain viruses within SCS and systemic
+      spread of infection -> death
+    - SCS maintain integrity of layer to prevent systemic spread from
+      subcutaneous infection
+
+** Promote innate immune responses
+    - Lots of GM-CSF in sepsis
+    - (Rauch et al, 2012)
+    - Injected mice with LPS
+    - Where is GM-CSF made? In spleen! Which type of cells? Expected
+      myeloid/stromal cells, actually B cells!
+    - Flow cytometry on whole of spleen, keep gating on markers for B cells
+      and look at GM-CSF, it is in B cell population (IgM+) where it is made
+    - Are producers B2 or B1 cells?
+    - CD45.1+ mouse - unusual, can distinguish between recipient and donor
+    - Splenic B cells not contributing much, peritoneal B1 cells do matter
+    - Bone marrow chimera strategy, reconstitute with \muMT and GM-CSF
+      deficient marrow
+    - Survival a lot worse. GM-CSF production critical for survival
+    - Sequal ligation and puncture - model of appendicitis, massive exposure
+      to Gram negative bacteria
+
+** Important regulators of immune responses
+    - Expanded hugely in last 5 years
+    - Thought of them as effectors of immune response (Abs or cytokines)
+    - Whole other face as regulators
+    - Know B cells in mice and humans to produce immunoregulatory cytokines
+      IL-10 and TGF-\beta
+    - Tregs make these!
+    - Part of function to skew production of tregs?
+    - Maybe principle producers are terminally differentiated cells - Pregs
+      rather than Tregs!
+    - IL-35 too
+    - Rituximab, 85% acute T cell rejection! Not 15% like normal!
+    - B cell deficient mice have worse autoimmune disease
+    - Myelin + adjuvant = MS disease, B cells limit disease (in EAE model)
+    - (Mauri et al, 2003) - collagen induced arthritis, transferred anti-CD40
+      Ab B cells (hence activated). B cells transferred able to prevent
+      arthritis, dependant on ability to produce IL-10
+    - To date, no transcription factor specific to Il10 making B cells, seems
+      that subset of all B populations
+    - (Yoshizaki et al, 2012) - CD1d+ CD5+ B cells ameliorate EAE. Transfer
+      CD5+- B cells, not the case. CD5+ (B1) cells important!
+    - CD5+ lacking IL10 no good
+    - CD5+ lacking MHCII no good - cognate interaction required!
+    - CD40 also needed
+    - But requires T cell signals - IL-21, implicating a cognate interaction
+    - Human blood B cells and stimulate them (CPG and CD40L) make them
+      produce IL-10
+    - CD24 and CD38 = B cell on its way to becoming Follicular or Marginal
+      zone
+    - Look in patients with lupus and stimulate, IL10 made not as much
+    - Regulatory B cells may be deficient!
+    - Some patients are tolerant kidney patients - stopped immunosupression
+      because silly or cancer, despite this do not reject allograft
+    - Peripheral blood transcriptomics, look at differentiation profile
+    - 24 of 30 genes are B cell genes, not Treg genes!
+    - Stimulates ex-vivo, produce far more IL-10 and far higher proportion
+      making IL-10
+    - IL-35 also investigated, transfer wt B cells
+    - IL-35 has two subunits, come together to form active cytokine
+      May also be another regulatory cytokine
+    - Regulatory B cells function via Granzyme B? Killing machinery! B cells
+      could kill effector T cells directly???
+    - Finally, regulatory B cells explosion, but also regulatory plasma
+      cells? Induce IL10 in any infection to switch off response eventually.
+    - In vivo expression, look in middle of response, found highest IL-10
+      producers, seems plasma cells are
+    - Hence proposed Pregs
+    - Mouse models, transplant rejection, argue that staggered production of
+      plasma cells. Giving second dose of rituximab, took out cells at that
+      point?
+* Summary points
+    - In contrast to TCR, can clonally proliferate, can become dominant APC

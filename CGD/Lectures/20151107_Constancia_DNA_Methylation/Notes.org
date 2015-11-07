@@ -1,0 +1,158 @@
+#+TITLE DNA methylation and gene activity
+#+AUTHOR Miguel Constancia, University of Cambridge
+#+DATE Sat 7 Nov, 2015
+
+* Slide 1
+  Proteins recognising specifically methyl bits
+
+* Slide 2
+    - No notes taken
+
+* Slide 3
+    - Fifth base as a bit of a joke
+    - 1-6% of nucleotides depending on species
+    - 5hydroxymethyl-cytosine as oxidation product
+
+* Slide 4
+    - Pretty ancient process
+    - Same enzymatic superfamily in bacteria and eukaryotes
+    - S-adenosyl homocysteine = donor group
+
+* Slide 5
+    - Can put methyl group on or off
+    - Not always repression!
+
+* Slide 6
+    - No notes taken
+
+* Slide 7
+    - Evolved as defence mechanism against jumping elements!
+    - Transgene silencing to silence in transgenic mice, foreign DNA
+      silenced
+
+* Slide 8
+    - Long term cellular memory
+    - Patterns of methylation different - differing methylomes
+    - transcription factors important to change state, epigenetic marks to
+      maintain
+
+* Slide 9
+    - CpG methylation most common because it is SYMMETRICAL and so can be
+      heritable, guide for maintenance of pattern
+    - But other transient (one cell life only) changes too - CpA, CpT
+
+* Slide 10
+    - 5mC is mutagenic, but mismatch repair
+    - Most of chromosome methylated (default state)
+    - Apart from CpG islands - these contain ~60-70% of human promoters
+    - Need unmethylated to allow transcription
+    - Associated with promoters are genes that are active
+
+* Slide 11
+    - Xist recruits histone markers and DNA methylation
+
+* Slide 12
+    - Exception to the CpG island spared rule, but not all genes inactivated
+
+* Slide 13
+    - Methylation of CpG island, another exception with imprinting
+
+* Slide 14
+    - Another exception in tumours, but pathogenic; especially tumour
+      supressor genes
+
+* Slide 15
+    - Oct4, Nanog - pluripotency factors
+    - Silenced through DNA methylation during differentiation
+
+* Slide 16
+    - Looks stable, but examples where it is rather dynamic
+
+* Slide 17
+    - DNMT3A/DNMT3B :: De novo methyltransferase
+    - Hemimethylated after DNA replication, filled in by DNMT1
+    - DNMT1 :: Maintenance methyltransferase, copies it to new strand
+    - If DNMT1 lost, passive demethylation
+    - Active methylation = something taking off methyl groups not related to
+      loss via passive mechanisms, unknown enzyme
+
+* Slide 18
+    - Shift to extraembryonic lineages
+    - Methylation leads to well differentiated cells
+    - Done in cooperation with transcription factors
+
+* Slide 19
+    - No notes taken
+
+* Slide 20
+    - Can drive differentiated cells
+    - Only a few iPS cells after treatment - must overcome barrier of
+      epigenetics
+    - Reprogramming protocols now include HDACs and other epigenetic modifier
+      drugs
+
+* Slide 21
+    - Stain for DNA methylation on top picture
+    - Left most dot on bottom picture = paternal pronucleus
+    - Paternal nucleus demethylates from few hours, DYNAMIC REGULATION
+    - Methylation increases at blastocyte
+    - Active demethylation with paternal - because it is FAST
+    - Passive demethylation with maternal - because it is a gradual loss upon
+      cell division
+    - methylcystein -> hydroxymethylcysteine
+
+* Slide 22
+    - Important to restore totipotency from most terminally differentiated
+      cells, spermatozoa and oocyte
+    - Germ cells creation involves loss of DNA methylation by active and
+      passive processes
+
+* Slide 23
+    - Hence by dynamic on some cases, static in others
+    - Off on off based on oestrogens in bottom picture
+
+* Slide 24, 25, 26
+    - No notes taken
+
+* Slide 27
+    - Np95 to help target DNMT to hemimethylated DNA
+      K/o results in same phenotype as DNMT1 ko
+    - These work in big complexes of different proteins!
+
+* Slide 28
+    - ICF :: Immunodeficiency, centromeric instability, facial abnormalities
+    - Methylation important for satellite DNA of paracentric regions
+
+* Slide 29
+    - methyl binding proteins -> histone acetylated -> recruits other protein
+      complexes
+
+* Slide 30
+    - Rett syndrome :: females, neurogenetic disorder
+
+* Slide 31
+    - No notes taken
+
+* Slide 32
+    - Would need enzyme with enormous catalytic activity to break C-C bonds
+      to actually remove the physical methyl group
+    - Not found yet. Main one seems to be oxidative demethylation
+
+* Slide 33
+    - No notes taken
+
+* Slide 34
+    - TDG :: Base excision repair
+    - 5hmC - Can it act as epigenetic mark too?
+    - Lose modification through replication (passive)?
+
+* Slide 35
+    - No notes taken
+
+* Slide 36
+    - Instrinsic sequence properties? Not really...
+    - Most evidence for steric hindrance/binding inhibition
+
+* Slide 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48
+    - No notes taken
+

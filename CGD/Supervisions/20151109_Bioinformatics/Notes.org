@@ -1,0 +1,6 @@
+* Enrichment
+    - Take genes at random, 10% for certain function
+    - If list of genes has > 10% of genes with these functions, this means
+      enrichment - identify interesting things
+    - Enrichment score = >2 = interesting
+    - Compared with random gene list

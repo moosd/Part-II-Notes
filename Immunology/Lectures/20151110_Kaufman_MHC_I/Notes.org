@@ -1,0 +1,114 @@
+#+TITLE MHC I
+#+AUTHOR Professor Jim Kaufman, Department of Pathology
+#+DATE Tue 10 Nov, 2015
+
+* MHC
+    - Match for tissue typing
+    - Why?
+    - H-2 in mice, HLA in humans
+
+* Adaptive immune system
+    - Naive require APC
+    - Viruses evolve lots of ways to downregulate class I MHC
+    - Hence NK cells - see balance of inhibitory and activating molecules,
+      one of stress molecules is class I MHC. Not enough MHC class I -> kill
+      cells
+    - \gamma\delta T cells recognise sorts of stuff too
+
+* Classical
+    - Highly polymorphic
+    - Lots of amino acid variation
+    - Present peptides to T cells
+    - Wide tissue distribution
+    - Facultative APCs - dont normally have Class II, until triggered by IFN,
+      keratinocytes, endothelium in blood vessels, etc
+
+* Non classical
+    - Differ in one or more of these attributes
+    - Original molecules were classical MHC molecules, more conserved in
+      evolution
+    - Non classical arise through particular selection mechs
+    - 1cM = % of progeny with a recombination event
+
+* Genes
+    - Class III - some in immune system, C4, factor B, C2, TNF, Lymphotoxin
+      alpha and beta, other peripheral
+    - 2245 alleles of HLA-A
+    - What is real MHC and what got stuck there by accident?
+    - Mouse vs human, genes get moved around and called different things
+
+* Structure
+    - Beta 2 microglobulin is in urine when it falls off class I molecules
+    - Alpha 3, Beta 2 microglobulin are Ig like domains
+
+* Peptide presentation
+    - Nucleus exchanging fluid and proteins with cytoplasm
+    - Proteins cut up by proteosome
+    - tapasin in peptide editing (quality control) -> Class I, look at
+      cytoplasmic and nuclear pathogen
+    - Class II takes care of endosomal components (vesicles, topologically
+      outside of cell) - different domain, intracellular vesicles
+    - Intracellular vesicles seen by Class II - like parasites
+
+* Nomenclature
+    - K and D not corresponding to HLA a b c - each species independantly
+      expands class I range, NOT orthologues, lineages
+    - Class II are orthologues
+    - DPA and DPB -> DP alpha and beta, but in mice, psuedogenes
+    - HLA-A* = name
+    - * 01:01 = alleles, lineages
+    - Class I molecules like HLA-A2, but some subtle variants by one or two
+      aas but affects binding.
+    - Class II, more than one DRB gene, hence DRB5*07:01
+    - Like in humans, populations of humans and so lots of shuffling from
+      recombination hence haplotypes
+    - In mice, inbred strains, haplotypes fixed. Ended up with letters -
+      H-2Kb, not dealing with recombinants
+    - Haplotypes. In mice, they are clear
+    - Haplotype - alleles ialong one chromosome, hence haploid?
+    - Some haplotypes more common - unsure whether selected FOR or selected
+      AGAINST (everyone else killed or one group better at surviving
+
+* Transplantation
+    - Chemicals painted on mice, or viruses, into mice, tried to move tumour
+      from one animal to another, failed, so used inbred mice
+    - Inbred mice, because pets, mice and rats as pets in far east, like them
+      to be different and odd
+    - Japanese waltzing mouse - waltzes, defect in inner ear due to recessive
+      mutation, must make it breed true by inbreeding
+    - Mrs Little kept mice
+    - In inbreeding, lots of mice die, the ones that survive are robust
+    - allo recognition came from allogeneic
+
+* Genetics
+    - P for parent, F for family
+    - F2 = F1 x F1
+    - Autograft accepted fine
+    - But between parents dont work, allogeneic
+    - Turns out either parent skin accepted into F1
+    - F1 onto parents rejected
+    - Codominance, and transplantation senses what is different
+    - Not just MHC, but other loci elsewhere determining graft rejection
+      segregating independantly
+    - 19 different loci, 1 major (mhc) others minor
+    - congenic mice :: Made by repeated backcrossing, trying to get MHC on
+      different background, dilute out other background genes
+    - Finally, F2 cross to get allele d/d onto other background, so now can
+      compare same genes everywhere but not MHC
+    - Major -> MHC led to rapid allograft rejection
+    - Others lest to slower rejection
+    - Multiple minor loci -> rapid rejection
+    - Minor antigens are peptides with alleles that present on MHC molecules
+
+* Clinical importance
+    - Liver can be mismatched a lot
+    - Both supression and volume of organ important
+    - von Boehmer et al, 1989 - thymys selects the sueful, neglects the
+      useless and destroys the harmful
+    - Rejection just an epiphenomenom of thumic selecion
+
+* Polymorphisms
+    - SNP every 200 bp for entire genome - we are very variable!
+    - IMPUTATION to look at MHC SNPs, use SNPs around to associate with genes
+      in MHC gene
+

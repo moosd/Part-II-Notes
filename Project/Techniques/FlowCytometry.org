@@ -1,0 +1,21 @@
+* FACS
+    - DAPI used as a vital dye like trypan blue, it is pumped out of living
+      cells and so stains only dead ones
+    - Fucci used to stain for different parts of cell cycle, fluorescence
+      fused to cyclin like domain, ubiquitination dependant
+    - fcs files generated
+    - FSC :: Forward scatter, proportional to size of cells
+    - SSC :: Side scatter, proportional to granularity (e.g. when looking at
+      granulocytes vs agranulocytes in blood)
+** FSC-A vs FSC-H,W
+    - Forward scatter area, width, height
+    - Have cells passing through cytometer one by one
+    - As passes through, measure forward scatter
+    - Normal distribution - signal slowly increases then decreases as cell
+      passes through
+    - Plot on graph and measure area under curve, height of peak and width of
+      peak at 1/e
+    - If two cells stuck together, we get a doublet on the graph. Double the
+      area but measured as single event with same height
+    - Hence plotting FSC-A against FSC-H gives us gating for single cells
+      only

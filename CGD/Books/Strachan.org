@@ -15,7 +15,11 @@
  - But no one to one correspondance bwteen transcriptional units and phenotypes for three types of heterogeneity:
    + Locus heterogeneity :: Same phenotype from many loci - epistasis
    + Allelic heterogeneity :: Different mutations in different patients, same phenotype
-   + Clinical heterogeneity :: Mutations in same gene -> two phenotypes - HPRT -> gout or Lesch-Nyhan syndrome (severe mental retardation)
+   + Clinical heterogeneity :: Mutations in same gene -> two phenotypes -
+     HPRT -> gout or Lesch-Nyhan syndrome (severe mental retardation)
+    + Also, mutation in Androgen receptor -> AR insensitivity, female body,
+      but trinucleotide repeat expansion -> spinobulbar muscular atrophy,
+      Kennedy's disease
  - Pleiotropy - different - same gene mutation, multiple effects in same organism
 
  - giuemsa staining stains low gc areas dark

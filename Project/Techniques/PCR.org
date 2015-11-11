@@ -1,0 +1,9 @@
+* Not getting two bands, one small one large?
+    - Due to small amplicon using far more resources (since goes more
+      quickly) than the large one
+    - Hence small band shows up but large one higher up does now
+
+* Non specific bands
+    - No band expected, can have some non specific amplification
+    - Drowned out by specific amplification
+

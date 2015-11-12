@@ -1,0 +1,72 @@
+#+TITLE The MHC: Classical and non-classical molecules
+#+AUTHOR Prof Jim Kaufman
+#+DATE Thu 12 Nov, 2015
+
+* Intro
+    - MIC-A an MIC-B not MYC-A and MYC-B
+    - Non classical class I molecules also in paralogous regions
+    - alpha 2 macroglobulin in class I
+    - CD1 presents lipids
+    - FcRn for neonates in chr 19
+    - Two rounds of genome wide duplication
+
+* Classical
+    - CDR3 in TCRs sits over peptide, CDR1 and 2 go over alpha 1 and alpha2
+    - cd4 and cd8 look very different, but bind to almost exact same region
+    - both class I and II undergo peptide editing
+    - tapasin and TAPBPR bind same alpha3 loop as CD8 class I
+    - Also class I undergo quality control by UGT system, uses lectin
+      domains, calreticulin and calnexin
+    - NK cell receptors go after class I
+    - Some based on Ig others based on lectins
+    - Evidence that a couple of amino acids hanging out class II can interact
+      with MHC
+    - Thirsty after drinking -> add water to break down peptides
+    - Main chain atoms = non-residue bits of peptide
+    - Histidine good at binding metals, also enzymes, pH changes
+    - HLA-A02:01:02 - Third group are for synomynous changes (DNA change but not protein)
+    - Can find peptides that bind despite not matching anchor residues
+    - Think about the hydrophicness of the residues we see
+    - Different lengths hang off class II, cant use motifs - too promiscuous
+    - Immunoprotemoics
+    - Why residue 45 so polymorphic? Pocket starts up here but goes
+      underneath and touches residue 45.
+    - Binding site determined by size and chemical properties
+    - abacavir - changes biding groove and creates 900 new peptides to
+      trigger allo reaction
+    - Influenxa virus peptide, peptide twisted in polyproline helix
+    - Hypocretin important to keep awake, neurones secreting it killed in
+      autoimmune reaction narcolepsy
+    - beryllium changes peptide binding and different peptides bind!
+
+* Non classical
+    - Adams and Luoma 2013 - READ REVIEW
+    - Rodgers and Cook 2005, Nat Rev Immunol - but not true, the phylogenetic
+      tree - old and young can be ignored, dont know rate of change of
+      selection and mutation
+    - MHC Class Ib = non classical -> immunological
+    - MHC Class 1c = non classical, not immunological
+    - HLA-E,F,G closely related to A,B,C but do different things
+    - HFE very different
+    - HLA-E -> 1a in mice, conservation or convergent evolution?
+    - viruses downregulate class I, NK cells recognise lack of class I, viruses make decoy class I's
+    - Also NK cells detect stress, put up by heat shock proteins
+    - MIC-A and B like class I but no b2 microglobulin
+    - NKG2D focus on polymorphism to frustrate viral evolution
+    - HFE regulates iron binding, where environment iron poor, HFE causing
+      transferrin receptor selection, sequester iron away from pathogens
+    - Move to a place with more iron, turn grey - too much iron, looks a lot
+      like MHC Class I
+    - Most cytoplasmic proteins - acetylmethionine
+    - Bacteria, formylMethionine, use M3 to detect it, or too much
+      mitochondria
+    - CD1 - structure like class I but binds things in endosomes like class
+      II - the Third way
+    - NKT cells
+    - Not just pathogen lipids, but self antigens that bind and start up
+      immune response (Brigl et al, 2011)
+    - Class I molecule end up binding Ig?
+    - MAIT (mucosal associated invariant T cells) cells and MR1 molecules;
+      detect bacterial vitamin metabolites, this is not likely to change!
+    - ZAG (Sinc alpha 2 glycoprotein) - class I without b2 microglobulin,
+      lipid degradation in adipocytes, important place for immune responss

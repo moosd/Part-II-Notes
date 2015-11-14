@@ -1,12 +1,58 @@
 * Tissue digestion
- - Put tail into lysis buffer to release DNA (proteinase K)
- - Obtain a crude lysate - digets tissues, incubate for 3 hours at 55oC
-
-** Using crude lysate
- - Inactivate protease by incubation for 45 mins at 85oC
- - Otherwise PCR wont work (protease will digest PCR polymerase!)
- - 1\microL of the 200\microL crude lysate for PCR
+    - Put tail into lysis buffer (Viagen DirectPCR Lysis reagent for ears) to release DNA (proteinase K)
+    - Obtain a crude lysate - digest tissues, incubate for 3 hours at 55oC
+    - Inactivate proteinase K by incubating further for 45 mins at 85oC
+    - Take 100\microL of this to use for genotyping
+    - Otherwise PCR wont work (protease will digest PCR polymerase!)
 
 ** More sensitive samples
- - Purify DNA from lysate
- - Add salt and isopropanol to precipitate out nucleic acids
+    - Purify DNA from lysate
+    - Add salt and isopropanol to precipitate out nucleic acids
+    - Mix the 100 \microL of crude lysate with 5\microL 5M NaCL and
+         73.5\microL isopropanol to precipitate out DNA
+    - isopropanol to precipitate DNA by removing hydration shell
+    - Na+ increases precipitation efficiency by shifting equilibrium
+        Na+ + DNA- <=> Na-DNA
+    - Vortex for 5 seconds for DNA to appear
+    - Centrifuge max speed (14.8x1000rpm) for 2 mins to bring it to the
+      bottom
+    - Discard supernatant
+    - Wash with 1ml 75% ethanol
+    - Centrifuge for 1 min again
+    - Discard supernatant
+    - Centrifuge briefly
+    - Aspirate remaining supernatant with 200\microL pipette tip
+    - Air dry for 5 minutes
+    - Reconstitute DNA with 100\microL of dH2O
+    - Measure concentration on NanoDrop spectrophotometer
+
+* PCR
+    - Dilute down samples that are > 150ng/\microL down to somewhere between
+      10-100ng/\microL by adding dH2O
+    - Set up reaction master mix from spreadsheet
+    - Then dispense given aliquots of master mix and add primers into assay
+      mix eppendorfs (10mM primers, if none left dilute 100mM stock down)
+    - Then pipette out onto PCR tubes, 19\microL and add 1\microL of
+      templates
+    - Cap strips with strip caps - press hard and label columns!
+    - Spin down in mini centrifuge (Labnet) then be careful to ensure fluid
+      remains at bottom of tube
+    - Open PCR machine lid, put tubes in and tighten hot lid (heated to
+      prevent condensation)
+    - Run PCR (PETER->HOTSTART), 20\microL reaction volume, with
+      polypropylene plates and tubes
+    - Press start
+
+* Agarose gel
+    - 200\microL 1.5% agarose gel
+    - Temperature dependant, unlike PAGE gel
+    - TAE (Tris-Acetate-EDTA) or TBE (Tris-Borate-EDTA) used
+    - Tape ends of container to be able to pour gel
+    - Using TAE - dilute to 1x
+    - Add after weighing agarose powder to flask
+    - Pour on TAE to required volume
+    - Mix, microwave to head until it boils, cool, boil again, stirring every
+      now and then
+    - Cool to 60oC and add intercalating dye (Ethidium bromide or SYBRsafe)
+      (1 in 1000 -> 20\microL)
+    - And pour gel, wait for it to set

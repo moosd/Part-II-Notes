@@ -1,0 +1,79 @@
+* Required
+    - TRI Reagent, containing guanidine thiophosphate and phenol in a
+      monophase solution (Chomczynski, 1993)
+** RNA Isolation
+    - Chloroform (C2432) or 1-bromo-3-chloropropane (B9673)
+    - 2-propanol (I9516)
+    - 75% ethanol
+    - DEPC (diethylpyrocarbonate) treated water OR formamide OR 1mM sodium
+      phosphate (S3264), pH 8.2, 0.5% SDS solution (L4522) diluted 20-fold
+** DNA isolation
+    - 8mM NaOH
+    - 0.1M trisodium citrate, 10% ethanol solution
+    - Absolute ethanol
+    - 75% ethanol
+    - EDTA
+** Protein isolation
+    - 2-propanol (I9516)
+    - Absolute ethanol (E7023)
+    - 95% ethanol (E7148)
+    - 1% SDS (L4522), diluted 10-fold
+    - 0.3M Guanidine hydrochloride (G3272) in 95% ethanol
+
+* Sample preparation
+** Tissue
+    - Homogenise tissue in TRI reagent, 1ml per 50-100mg of tissue in a
+      homogeniser
+** Monolayer cells
+    - Lyse cells directly on culture dish, using 1ml of TRI reagent per 10cm2
+      of glass culture dish plate surface area. After addition of reagent,
+      cell lysate should be passed several times through a pipette to form a
+      homogenous lysate.
+    - Note, TRI reagent not compatible with plastic culture plates
+** Suspension cells
+    - Isolate cells by centrifugation and then lyse in TRI reagent by
+      repeated pipetting
+    - One ml sufficient to lyse 5-10x10^6 animal, plant or yeast cells, or
+      10^7 bacterial cells
+** Notes
+    - If samples have a high content of fat, protein, polysaccharides or
+      exctracellular material such as muscle, fat tissue and tuberous parts
+      of plants, an additional step may be needed.
+    - After homogenisation, centrifuge the homogenate at 12000g for 10
+      minutes at 2-8oC to remove insoluble material (extracellular membranes,
+      polysaccharides and high MW DNA).
+    - The supernatant contains RNA and protein. If the sample had a high
+      fatty content, there will be a layer of fatty material on the surface
+      of the aqueous phase that should be removed
+    - Transfer the clear supernatant to a fresh tube and proceed to Phase
+      Separation. Recover the high MW DNA from the pellet by following DNA
+      isolation, steps 2 and 3.
+    - Some yeast and bacterial cells may require a homogeniser
+    - After the cells have been homogenised or lysed in TRI reagent, samples
+      can be stored at -70oC for up to a month
+
+* Phase Separation
+    - To ensure complete dissociation of nucleoprotein complexes, allow
+      samples to stand for 5 mins at room temperature
+    - Add 0.1ml of 1-bromo-3-chloropropane or 0.2ml of chloroform per ml of
+      TRI reagent used. Cover the sample tightly and shake vigorously for 15
+      seconds. Allow to stand at room temperature for 2-15mins.
+    - Centrifuge resulting mixture at 12000g for 15mins at 2-8oC.
+    - Centrifugation separates mixture into 3 phases - red organic containing
+      protein, interphase containing DNA, and colourless upper aqueous phase
+      containing RNA
+** Notes
+    - 1-bromo-3-chloropropane is less toxic than chloroform and its use
+      decreases contamination of RNA with DNA
+    - Chloroform used should not contain amyl alcohol or other additives
+    - For isolation of polyA fraction from aqueous phase, after RNA has been
+      precipitated with 2-propanol (RNA extraction step 1), dissolve pellet
+      in polyA binding buffer and pass through an oligo-dT cellulose column
+      to selectively remove mRNA
+
+* RNA extraction
+    - Transfer the aqueous phase into a fresh tube and add 0.5ml of
+      2-propanol per ml of TRI reagent and mix. Allow sample to stand for
+      5-10mins at room temperature. Centrifuge at 12000g for 10 minutes at
+      2-8oC. RNA precipitate forms a pellet on the side
+    - 

@@ -1,0 +1,65 @@
+* Intro
+    - WASP
+    - Integrins
+    - Cytokines
+    - Chemokines
+
+* WASP
+    - Most tyrosine in microclusters, cSMAC, pSMAC, etc
+    - Downregulation of TCR important
+    - Wiscott-Aldrich syndrome protein, X linked primary immunodeficiency
+      disorder, defect in immune system increasing susceptibility to
+      infection while giving autoimmune disease
+    - Actin cytoskeleton not formed properly - first evidence linking
+      signalling event with this disorder
+    - Lymphopenic but autoimmunity - paradoxical
+    - WASp - regulator of actin cytokeleton, elongation of actin cables
+    - Interact with ARP complex, and G-actins
+    - Little like a kinase, exists in closed inhibited form, opens up and
+      becomes active
+    - Cdc42, GTP binding protein, leads further downstream with actin-ARP
+      complex, elongation key to downregulation of TCR. Dynamic process.
+    - Extension of cables downregulate TCR
+    - When mutation, TCR not downregulated, immune deficiency disorder
+    - Affects Tregs more than normal T cells, hence autoimmunity
+
+* Integrins
+    - Inside out signalling pathway
+    - Intracellular adaptor proteins specifically for TCR signalling (AAP,
+      SKAP)
+    - Susceptibility to bacterial infections
+    - CD18 (LFA beta chain) for motility
+    - Mutations in processing integrins - LADS disorders
+
+* Cytokines
+    - Tregs make suppressive IL-10
+    - CCR5 promotes migration to lymph nodes (Used by HIV)
+    - Arthritis - anti-TNF, anti-IL1 , anti-IL17
+    - Cytokines employ innate type pathwa linked to NFkB -> inflammatory
+      disprders
+    - Others linked to different signaling pathways
+    - Northwood Park - cytokine storm incident
+    - Cytokine receptor - JAK pathway phosphorylates STATs, tyrosine
+      phosphorylation cascade, STATs dimerise, migrate to nucleus, act as
+      transcriptional activators
+    - JH = Janus homology domains
+    - JAK kinases - men growing hair back
+    - JH domains 3d similarity to SH2 domains to mediate binding
+    - STATs = Signal Transducer and Activator of Transcription
+    - IL2 ko -> autoimmunity? What? Because they are important for Tregs!
+      That express high affinity IL2 receptor
+    - Effectors of specific immune functions - IL2,4, etc
+    - Danger cytokines - effectors of inflammation - IL1, IL17
+    - IL1 signalling pathway as more primitive innate systems, but very
+      complicated pathway with many components
+    - IL17 very different structurally to Il2,4, etc receptors
+    - Interacts through TRAF molecules
+
+* Chemokines
+    - One cytokines act as a chemoattractant, but rest done by chemokines
+    - Chemokine receptors are GPCRs
+    - GPCRs make up 2% of human genome
+    - Add a little chemokine in pipette tip, slowly eject chemokine, cell
+      comes alive
+    - CXCR4 on T cells and CCR5 on macrophages required for HIV entry
+    - CCR5 delta 32 selected for in smallpox infection resistance

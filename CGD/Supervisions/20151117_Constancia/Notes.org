@@ -1,0 +1,153 @@
+* Hypothesis between why we have genomic imprinting
+    - Alternative hypotheses? Maternal aoffspring
+    - Problem with coming up with theory of genomic imprinting - needs to
+      explain many things! Being why doesnt every chromosome have imprinted
+      genes, some kos to lethality? Particular growth effects? Imprinting
+      particularly important for growth and metabolism, why only in placental
+      mammals?
+    - No unifying theory of genomic imprinting
+    - Some not taken too seriously, proposed by non molecular evolutionist
+    - Two theories stand out - proposed by those that study evolution,
+      mathematically modelled
+    - Genetic conflict theory, maternal coadaptation theory for imprinting
+    - Conflict - David Haig - kinship theory
+    - Selective pressure for imprinting, need situation of multiple paternity
+    - Dont have multiple paternity, shouldnt have imprinting
+    - Breeding scheme monogamous, degree relatedness high, no selective
+      pressure for imprinting
+    - Any given maternal allele, offspring will always be related to each
+      other and mother by 0.5
+    - Situation of monogamy, same for father
+    - High degree of genetic relatedness
+    - High degree of relatednes hence
+    - Multiple paternity, less than 0.5, depends on species and
+      promiscuousity, cat within single litter can have different fathers
+    - Alleles have possibility to be selected in favour of favorable trait,
+      e.g. growth factor, idea that paternal gene will be selfish and extract
+      as many resources from parent as it can without taking into account
+         other offspring.
+    - Igf2 - optimal level for paternal genes higher because lower degree of
+      relatedness
+    - Mother then responds to this by silencing growth factor from her OWN
+      allele. Father makes more of transcript, mother makes less
+    - Over many generations, outcome is paternal levels so high that only
+      paternal allele expressed, maternal allele silenced
+    - Need multiple paternity to force system to be selfish and work
+
+* Maternal coadaptation
+    - Dont need conflict
+    - Mother and offspring relationship
+    - Proposed because it seems there are more maternally expressed genes
+      than paternal ones
+    - Slightly controversial
+    - Not controversial - primary imprints. Imprintation occurs in germ
+      cells, DNA methylation important
+    - Most of them in terms of DNA methylation are maternal. Much more
+      maternal methylation to control imprinting than paternal. Only two
+      paternal we know of.
+    - Think its all about control of the mother. Interest of mother and
+      offspring to coadapt and cooperate to mutual benefit.
+    - A  little like host-parasite relationship - imprinting exists to
+      balance those traits, ensures mutual benefits and mother.
+    - Mother is controlling parent
+    - Parent that gives more investment to offspring, some species where this
+      is paternal in origin, postulates that in those cases, would see more
+      paternal methylation than maternal. Paternal coadaptation thory?
+      Maternal called because explored in mammals.
+
+* Conflict again
+    - Why does it exist in plants? Coevolved independantly in two kingdoms.
+      Imprinting in plants retricted to those with endosperm, "equivalent" to
+      placenta, reserve organ to provide nutrients to embryo. Point of view
+      of conflict theory can explain nicely - strengths is that it explains
+      phylogenetic distribution. No imprinting in egg laying, amount of
+      nutrients are fixed, embryo cannot manipulate nutrients amount
+      extracted. Hence, same applies to the plants
+    - Original proposals of conflict - explains in plants
+    - Maternal gene bias detected in placenta - tissue with 70% fetal origin,
+      30% from mother. Some genes found wrongly classified as maternally
+      expressed because contamination by maternal tissue. Maternal decidua
+      gives bias.
+    - Not sure if totally tre there are more maternally expressed than
+      paternally expressed
+    - Igf2 as major growth factor. System with many maternal expressed
+      systems to supress this, hence also explained by conflict theory
+    - Doesnt explain why if ko MASH2 (transcription factor, aka ASCL2, plays
+        role in placental differentiation) - ko, no placenta early on->
+      lethality, need to explain through bystander effect, imprinted gene
+      spread to other genes
+    - Hence no single theory of imprinting? Conflict theory explains nicely
+      for growth related ones, resource acquisition. Also suckling as
+      resource allocation, species with strong second period (marsupials,
+      platypus), room for imprinting. Platypus, egg laying, fixed nutrients,
+      but long period of suckling.
+    - Different selective pressures, multiple theories true? Mechanistic
+      theory. DNA methylation evolves to silence parasitic elements.
+      Imprinted genes have evolved exactly that system? Methylation going
+      awry - imprinted genes are very rich in repeat elements. May be true at
+      some loci?
+    - No unified theory for imprinting, there are many of them. Different
+      pressures working together?
+
+* Imprinted genes, how are they different?
+    - Repeat elements, slightly controversial
+    - Imprinting all about transcription
+    - May exist where levels of differential expression - can have all or
+      nothing, or 75/25, differential expression at level of transcripts.
+      PARENT OF ORIGIN
+    - Every single one has differentially methylated regions
+    - Placenta exception - many genes not to do with methylation
+    - As a rule, most imprinted genes show differeces in methylation in one
+      allele vs other, can be somatic (occured post fertilisation) or gametic
+      (present from germ cells)
+    - ICR1 - paternally methylated in sperm, maternally unmethylated in oocyte,
+      igf2
+    - Somatic one, H19, methylation from paternal allele spreads over to body
+      of gene from ICR1, somatic acquisition of methylation, soon after
+      fertilisation
+    - ICR is a gametic DMR
+    - ICR needs to be gametic, needs to delete, functional assay, or
+      directing methylation to this region and see if effect on neighbouring
+      imprinted genes
+    - Know a little about primary mark at Igf2, CTCF bound in oocyte already.
+      Not in sperm because methylation.
+    - SEQUENCE IS THE SAME
+    - Specific germ line producing proteins that other doesnt.
+    - Methylation important inboth gametic and somatic control
+
+    - * = silenced, o=methylated, x=unmethylated
+    - Paternal
+         ----(Igf2)--------O---(*H19)-----(enhancer)
+                             -> spreads to H19
+    - maternal
+        -----(*Igf2)------X---(h19)
+
+    - Imprinting based on whatever happens during sex determination
+    - MODEL :: Proteins bound to DNA differntially, everything not bound
+      gets methylated
+    - Sensitivity of mass spec not high enough to find small amounts of tiny
+      proteins that bind like this
+
+* Lamarck
+    - Trans = no direct exposure
+    - Inter = some direct exposure
+    - Transgenerational epigenerational inheritance
+    - Pesticide to mother when germ cells migrate to genital ridge
+    - Injected super high levels of endocrine disruptor
+    - Analysed offspring for phenotypes
+    - Initial -> males infertility, long past exposure, cannot be genetic,
+      too high for mutation, dreadful epigenetic studies
+    - Published also female phenotypes
+    - Several groups replicate and failed.
+    - Intergenerational one believed. Not after F3 or F2. Because waves of
+      reprogramming? Perhaps systems there to do that?
+    - Environment constantly changing, hence evolutionarily favourable to
+      keep wiping and going
+    - recent paper 2-3weeks ago with most convincing of epigenetic
+      inheritance (check email, Antoine Peters, Siklenka et al, 2015 -
+        10.1126/science.aab2006)
+    - Overexpressed histone demethylase in sperm.
+    - Histones demethylated, replaced by protamines! (but many more histones
+      left in human). Demethylated tails, see number of phenotypes from
+      growth to developmental phenotype
+    - Epigenetic ineheritance in plnts very common

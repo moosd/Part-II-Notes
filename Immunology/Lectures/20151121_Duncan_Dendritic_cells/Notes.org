@@ -1,0 +1,155 @@
+#+TITLE Dendritic Cells
+#+AUTHOR Dr Lidia Duncan
+#+DATE Sat 21 Nov, 2015
+
+* Intro
+    - Activate the adaptive immune response
+    - Present antigens, also educate the adaptive immune response
+    - Without them, we would only have the innate immune response
+    - Only DC cells can regulate T, B and NK cells
+    - Master regulators and educators
+
+* Innate
+    - Dont recognise what it is
+    - Sense damage and inflammation, destroy it
+    - Same severity of response, no memory
+
+* Dendritic cells
+    - Detect nature of infection
+    - Collect pathogenic particles
+    - Seek out naive T and B cells to activate them
+    - Optimises antigen capture, cant expect T cells to be everywhere, only
+      a few T cells to an antigen
+    - Go down lymphatic system
+    - Lymph nodes are close to areas of infection
+    - Small numbers of DCs can activate large numbers of T cells
+    - Dendritic cells licence T cells
+    - CD4 cells can help activate CD8 cells further
+    - Many many activation events, slow and steady. Spatially and temporally
+      related, T cell doesnt just get activated, need lots of signalling,
+      much of this happens in lymph nodes
+    - T cells specific, stay with DC, start to mature and amplify and
+      duplicate, other T cells not recognising specific antigen leave back
+      out and go back into circulation
+    - T cells leave to attack infection, some become memory cells
+    - Next time, may not even notice
+
+* Specialised areas of DC function
+    - DCs may bring pathogen education right where infection is
+    - Peyers patches - like lymph nodes but tiny and all along gut
+    - DCs rely on health of M cells (microfold) - highly phagocytic, sampling
+      intestinal fluids, allow transmission into mini germinal centre, with
+      follicles, education right there.
+    - Induce tolerance against food particles, but also if infection, need to
+      respond to that
+    - Difference made by PAMPs, DANGER/damage. Damaged cells signal too. Just
+      bc LPS (gut has more cells than human cells). PAMPs always there,
+      doesnt mean danger
+    - DCs can sample antigen directly by extending processes through gut
+      epithelium
+    - Assist in thymic selection of T cells
+
+* Dendritic cell lineage
+    - Mnay types of DCs like many types of CD4 T cells
+    - Common myeloid progenitors -> DCs, also MLP -> DCs
+    - classical DCs, plasmacytoid DCs
+    - Talk of non lymphoid tissue DCs, spontaneously appearing DCs,
+      classification expanding every day
+    - Be aware that the mouse is very different from human!
+    - Cannot always directly refer back to human, some viruses evade immune
+      system differently in mice vs humans
+    - cDC = tissue resident DCs
+    - pDCs - specialise at detecting viruses in blood
+
+* Differentiation
+    - Immature DCs poor at MHC presentation, low costimulatory molecules
+    - When initial danger signals occur, DCs begin to mature, needs many
+      steps before fully active
+    - Initially upregulates class I and II, expresses costimulatory molecules
+    - Langerhans cells - MIP3a sensed (from epithelial cells) through CCR6,
+      goes to epithelium
+    - On encounter with antigen, downregulates CCR6, expresses CCR7 to guide
+      it down to lymph node
+
+* Signalling
+    - COMMUNICATION - lots of signals, direct or indirect, necessary to
+      develop active response
+    - Can become infected and present antigen
+    - Can also cross present viral particles
+    - TLRs check identity of invader
+    - Endosomal TLRs sense viral antigens. why? Obvs facilitate
+      macropinocytosis, but another reason... Dont want to sense nucleic acid
+      in cytosol because they're there already! Try to locally separate
+      sensing of viral particles
+    - pDCs phagocyte viruses in blood
+    - cytosolic PAMPs receptors, signal different cytokines
+    - Intelligent response - not unrecognised response like innate
+    - IL-12
+    - Three crucial steps, spatial and temporal control. Signal 1 = delivery
+      of antigen by MHC, signal 2 = costim molecules, signal 3 = induction of
+      cytokines
+    - Signal 1 = activation signal 2 = long term survival, signal 3 =
+      differentiation in particular direction
+    - Sinal 3 is a powerful immunomodulatory signal. IL4 -> Th2 cells, IL-12,
+      IFN-\gamma -> Th1 cells, TGF\beta (from epithelial cells) -> Treg cells
+    - IL-10 has multiple roles. Not just nature of cytokine. Often secreted
+      as cocktail. Not what cytokine but how much and what combination?
+    - High TGF\beta, low IL6,IL23 -> go home, Tregs form
+    - High TGF-\beta, high IL6, IL23 -> Th17 to kill infections
+    - DC needs additional signals to fully activate! If CD4+ cell recognising
+      antigen of similar class -> double recognition causes CD40/CD40L
+      expression, signal to DC to stay alive
+    - T cell activation, will secrete some nasty stuff! Costim molecules,
+      etc. But dendritic cell stays alive big time? Dendritic cells express
+      serpins, inhibitors of perforins on surface. But eventually DCs die -
+      DC doesnt have to stay stimulating T cells when no more infection. same
+      for innate cells like neutrophils, eosinophils. They themselves become
+      lysed, negative feedback
+
+* Cross presentation
+    - virus may have tropism to different cell type
+    - Some bacteria can alter endosome and stay alive
+    - Tolerance or immunity - signal 3
+    - multivesicular bodies, class II and class I in these MIICs.
+    - endosomes start to become acidified, point to degrade proteins
+    - These ones dont do this, higher pH than lysosomes, process proteins for
+      class I and class II
+    - Three main mechanisms for x presentation
+        - Direct access to cytosol, intracellular pathogens - viruses,
+          listeria, mycobacteria
+        - Active transport back out into cytosol from endosomes/phagosomes
+        - Loading of class I molecules in MIICs themselves
+            - Evidence that bits of ER bud off, merge with endosome
+            - Potentially, when endocytosis, class I in membrane remains
+    - MHC class I not just viruses. Cross presentation crucial
+
+* Disease
+    - Unfortunately DCs are susceptible to disease. Goes from periphery to
+      lymphoid organs to interact with T cells.
+    - HIV binds to receptor but avoids endocytosis, Sitting on surface, goes
+      to lymph node, infect naive CD4 T cells
+    - Virus just sitting at surface waiting for 100s of CD4 T cells
+    - Role in allergy development
+    - Proteins/leftover from proteins (Der p1 is an enzyme from dustmites
+      excrement)
+    - Taken up, cuts tight junction between epithelial cells, recognised by
+      DCs, activate innate arm of immune system, create allergic response
+    - Enzyme activates DC to bring in mast cells
+    - Role in food allergy, 40% of world population allergic to gluten?
+    - Big bellies but not fat - could be gluten sensitive!
+    - Role in contact sensitivity - haptens
+    - Organs unmatched not rejected! No damage involved, no danger signals.
+      No other danger signals, DCs role in inducing tolerance. Heart could
+      come from any MHC reperetoire. Would have donors dendritic cells. Could
+      come out of heart, go to lymph nodes, cause trouble. Two different
+      types of problems.
+        - GvHD - dendritic cells in transplanted organ and and attacking
+          recipient
+        - Graft rejection - own dendritic cells recognising graft (esp if
+          danger signal or if immune system in overreactive state) and reject
+          graft
+    - Try to irradiate and kill dendritic cells
+
+Tutorial - find pathogen, different DCs, id, what signal is, and lots of examples from
+      different parts of the body, areas, etc. Try to adapt all it into
+      medieval city. How that responds to invasion.

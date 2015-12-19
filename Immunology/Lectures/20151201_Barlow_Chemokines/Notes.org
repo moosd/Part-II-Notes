@@ -1,0 +1,27 @@
+* Intro
+    - Turning cytokine biology into human treatment
+    - Allergic asthma no cure, steroid resistant, in trouble
+    - Block IL-25/IL-33 or both, prevent allergic asthma? IL-25 inhibitor,
+      read out airway contraction.
+    - Antibodies to target receptors
+    - Monoclonal - 1975 @ LMB, Kohler, GJF. and Milstein, C. - hybridomas
+    - 1986, Winter, G. for humanising antibodies @ LMB
+    - TNFalpha as first therapeutic antibody target
+    - Really complex network! Immune system is in balance. Taking one brick
+      away, gives good effects and bad effects - increase in TB infections -
+      latent infection. Subclinical.
+    - Trigger unknown - means everyone has a different trigger - cant use
+      blanket stats to say x is the trigger!
+    - Problem - taking spectrum of disease because biology not characterised,
+      and so cannot be targetted easily
+    - Lots of pidgeonholing/stereotyping not individual analysis
+    - Proproetrary biology - bad! Treats one thing as a product not a tool.  Start over with tools?
+    - Redundancy a problem, also multiple organ failure from cytokine storm.
+      Overdramatic? Dumping huge amount of cytokines systemically.
+    - Humans different from mice. Because of affinities and amounts needed?
+      Rather than scrapping therapy altogether?
+    - Spectrum of disease. Misleading term - stereotyping at its finest
+      again...
+    - Non allergic asthma - even cold air
+    - Redundancy of chemokine network
+    - Network - how much of a drug to treat?

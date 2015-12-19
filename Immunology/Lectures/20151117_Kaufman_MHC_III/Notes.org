@@ -1,0 +1,114 @@
+* Intro
+    - Such and such is linked to mhc - which one is it linked to?
+    - Linkage disequilibrium
+      Two markers found more often than expected, doesnt break up with
+      recombination as much
+    - Not enough time to break up haplotypes?
+    - HFE - high iron (fe)
+    - Two issues with mapping
+        - One, just because it has segregation with classical MHC allele, not
+          necessarily causing it
+        - LD between distant markers also an issue
+
+* Most of literature
+    - Not GWAS, classical mapping
+    - dominance recessiveness an epiphenomenon of genetic consequences
+
+* What makes MHC polymorphic
+    - Transplantation an epiphenomenon - T cells selection
+    - Mixed lymphocyte reaction, 10% of T cells will react with any given
+      allo MHC molecule
+    - Arms race with pathogens
+    - Heterozygosity gives selective advantage
+    - MHC has most genetic associations with disease, but mostly autoimmune
+    - NK cells often involved with pathogens
+    - Funny, why are infectious pathogen associations not so strong?
+    - Most classical association to class II, but some now class I thanks to
+      GWAS (weaker association)
+    - anti TNF alpha rescues a lot of rheumatoid arthritis cases
+    - Constellation of loci that really give the disease
+    - Shared epitope in HLA-DR4 - run of residues that had positive charges
+      important for association.
+    - Heavy smoking - environmental trigger for rheumatoid arthritis
+    - Arginine -> citrulline, no positive charges
+    - Trick for several disease
+    - Links mechanistically the genetic susceptibility and environmental
+      trigger with disease
+    - Vimentin, agrecan bound
+    - Not original peptides coming from proteins
+    - DRB1*04:02 does opposite
+    - Selected against arginine containing peptides, not citrulline peptides
+    - T cells may have just enough affinity that T cells start doing damage
+    - Have a T cell at just border of able to react, not negatively selected
+      but could recognise normal peptide if turned on, needs co-stimulation
+      to get going, then causes autoimmunity
+    - Ankylosing spondylitis - class I association, 95% HLA-B27, other
+      factors, genetic and environmental
+    - People in north more likely to get AS
+    - Vitamin D important for immune function, depends on sunlight, another
+      environmental trigger?
+
+* Celiac disease
+    - More like an allergy
+    - Described by Aretaeus from Cappadochia
+    - Protein in wheat - gluten is trigger
+    - Oats have high Q but low P -> not very toxic
+    - low Q, high A, L in maize zeins and proteins from millet and rice and
+      not toxic
+    - GENETIC! Can be tested,
+    - Mostly glutamamine, tissue transglutaminase = autoantigen
+    - Enzyme secreted when stress, normally intracellular, released in
+      wounding or infection, turns glutamine to glutamic acid, now LOTS of
+      negative charges, peptides that bind have lots of negative charges
+    - Needs to be proline-rich, prevents ERAP from chewing and destroying
+      them
+    - No reaction for a long time, then something triggers tTG, then T cells
+      against gluten, tissue damage -> more tTG released
+    - Can avoid gluten, to prevent this? Or inhibit tTG
+
+* Autoimmunity
+    - Need an immune system to go after things vigorously, bt will result in
+      tissue damage. Needs a balance!
+    - In other cases, NOT having a response leads to autoimmunity - hygeine
+      hypothesis!
+    - Set up immune system to focus on worms not any old thing? Respources
+      directed to strong stimuli rather than weaker self stimuli
+    - Only happen to people when order. Post reproductive people not under
+      selection?
+    - Not driver of polymorphism...
+
+* Mate choice
+    - Something a species focusses on as marker - undergoes rapid evolution
+      and gets more of it
+    - Peacock's tail. No conceivable advantage to having enormous tail, quite
+      a disadvantage, predators can catch them, really obvious
+    - Not great but attract females, end up with lots of offspring
+    - Reproductive variation important for future generation
+    - MHC has an effect on number of offspring that happen - higher fitness
+    - Which inbred/congenic mouse strains wanted to mate with whom?
+    - Lots of different things to select for
+    - Humans - T shirt experiments for body odour
+    - What was being recognised was not peptides but tripeptides,
+      cross-fostering shows this is a learned response
+
+* Infectious disease
+    - Pretty weak, strongest are viruses
+    - HLA-Bw53 important for avoiding cerbral malaria
+    - HTLV - human T lymophotrophic virus
+    - But hard to demonstrate!
+    - Anchor residues are mutated by HIV to escape CTLs
+    - Elite controllers have B27 that targets particular peptide hard for
+      virus to escape from
+    - B5701 - over 30years and havent developed AIDS
+    - NK cells important too
+    - Elite controlling HLA bind few peptides, Super death HLA binds lots of
+      peptides
+    - Few significant associations, to MHC at HCP5 - endogenous retrovirus,
+      6.5% of set point correlation
+    - Historic selection provie evidence for infectious disease. Synonymous
+      changes unselected, accumulates
+    - HIgh dN/dS where peptide is bound
+    - Conurbation - lots of little bands, each one developed own MHC to fight
+      off own pathogens
+    - Then when we went into cities, 2000 alleles as another epiphenomenon
+      where 20 would be enough?

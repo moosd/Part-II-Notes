@@ -1,0 +1,111 @@
+* Intro
+    - Immune response requires comunication
+        - Developmental specialisation
+        - Cell-to-cell contact directly
+        - Direct pattern recognition of bacterial products with pathogen
+        - Soluble mediators they produce - antibodies, complement, cytokines
+    - Cytokines important way that innate and adaptive response communicate
+      with each other
+    - Cyto = cell, kine = movement, molecules that cause cell movement
+    - Secreted from cell to ECM
+    - Signalling molecules
+    - Self signalling -> Autocrine, neughbouring cell -> paracrine, into
+      circulation, systemic effect -> endocrine
+
+* Pathways
+    - Redundancy, multiple effects via different mechanisms
+    - Evolutionary :: More difficult for pathogens to disrupt signalling
+    - PLEIOTROPY - one cytokine differrent effects in different cells
+    - REDUNDANCY - Multiple cytokines, same effect
+    - ANTAGONISM - One cytokine can block the activity of another (IFN\gamma
+      vs IL4)
+    - CASCADE INDUCTION - release of one cytokine has effect on lymphocyte to
+      cause differentiation, causes waves of more production of same and
+      different cytokines.
+
+* Chemokines
+    - Chemokine even more redundant
+    - Cytokines - one cytokine binds to one receptor
+    - Each chemokine can be recognised by multiple receptors and each cell
+      can express more than one receptor
+    - Each receptor can bind other chemokines
+    - Are examples of faithful receptor interaction but few and far between
+      (CCL17 -> CCR4 [which can bind CCL22])
+    - chemokines operate much more redundantly
+    - Evolutionary :: Stronger selection pressure for redundancy (following
+      bacteria around to phagocytose it?)
+
+* Classification
+    - Structural
+        - Type I cytokines = contain four alpha helical bindle structure
+        - Type II cytokines
+    - Expression/broad function
+        - Interleukins (IL) = between leukocytes, thought that mainly
+          produced by T cells but can be made by epithelial cells, etc - 37
+          ILs known
+        - Tumour Necrosis Factors (TNFs) = antitumour effects after bacterial
+          infection, released as part of innate repsonse, 19 members
+        - Interferons - Intefere with viral infection (17 family members)
+        - Transforming Growth Factor (TGF) - anti proliferative factors, 33
+          members of family
+    - Chemokines :: Chemo-tactic cyto-kines, cause a change in movement down
+      a chemical gradient, 20-50% sequency similarity, much smaller
+      (8-10kDa). Rich in beta sheets in structure
+        - CC chemokines
+        - CXC chemokines
+        - XC chemokines
+        - CX3C chemokines
+
+* Immune disease
+    - Must differentiate self vs non self (Burnet) and threatening vs non
+      threatening (Matzinger)
+    - Failure of self vs non self -> Autoimmunity, different diseases driven
+      by different cytokine release profiles
+    - Failure of threatening vs non threatening, allergy -> ragweed pollen
+    - Diseases of MISCORRELATION
+    - IL2 gamma chain gene mutation - no signalling from cytokines affected,
+      key in B and T cells development - X-linked SCID
+
+* Development
+    - Homeostasis and haematopoiesis
+
+* Evolution
+    - Evolved in fish
+    - Guo P, Cooper MD 2009
+    - Cytokines co-evolved with adaptive immunity, how cells stay in contact
+
+* Studying function
+    - Deficient mice
+    - Trea wt mice with recombinant cytokine protein
+    - Knock in
+    - Deletions
+    - Making cytokine deficient mice
+        - Modify gene of interest and transfect into bacteria capable of
+          homologous recombination
+        - Transfect into mouse ES cells and select
+        - Inject GM ES cells into mouse blastocysts and implant
+        - Assay resulting mouse line for cDNA and protein expression
+    - Issues - whats if ko causes death, what if want to look at only in
+      certain tissues
+        - cre LoxP
+
+* Use it to define immune populations
+    - Coffman first to define T cells by function not what they express on
+      cell surface (based on cytokine profiles)
+    - Th2 cell clones prod b cells to make IgE but not Th1 cell clones
+
+* Funcitonal networks produce specific immune responses
+    - Type I response for M tuberculosis to form granuloma to wall off
+      bacteria
+    - Without this differentiation event of macrophage, M tuberculosis takes
+      over and organism dies
+
+* Helminthic parasites
+    - In the US, 4000 people die of asthma a year
+    - type II evolved to remove parasites from gut, mucus produced by
+      intestine (weep), muscle contraction - "sweep"
+    - Weep and sweep - parasites cant attach and contracts to push parasites
+      out of system
+    - Many ILs involved (see slides)
+    - Assthma, obstructive pulmonary disease, inappropriate type 2 response
+      occuring in lungs rather than gut,

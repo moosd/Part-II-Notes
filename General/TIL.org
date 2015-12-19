@@ -1,0 +1,36 @@
+* Today I learnt... (17/11/15)
+
+  The CDC has a website for what to do in case of zombie apocalypse.
+  http://www.cdc.gov/phpr/zombies.htm
+
+  discovery of viruses by Pierre-Paul Emile Roux
+
+  Livor mortis :: Acumulation of blood on lower part of body, separating from
+  serum, leaking through capillaries that have necrosed and so have increased
+  in permeability
+
+  Algor mortis :: acclimatisation of body to ambient temperature, time of
+  death estimated wusing *Glaister equation*
+
+  Tsetse fly : Glossina
+
+  Thelazia :: Nemotode worm parasite spread by Diptera (flies) that
+  literally feed on your tears. And the parasite lives in eyelids, tear
+  ducts, tear glands, occasionally in eyeball, either under conjunctiva or in
+  vitreous cavity
+
+  Loa loa :: Nemotode worm causing filariasis (Calabar swellings under skin,
+  or African eyeworm). Humans contract it through bite of Mango fly (Chrysops
+  species) or Deer fly
+
+  HERC2 OCA2 for iris colour - mutation in HERC2 leads to skipping of
+  downstream OCA2 -> blue eyes
+
+  Dracunuliasis :: Guinea worm
+
+  CIPA fixed by opioid antagonist (NaV1.7)
+
+  Disulfiram (antabuse) kicks out HIV from latent state
+
+  YME1 controls number, type and shape of mitochondria in cell, deficiency
+  leads to heart disease

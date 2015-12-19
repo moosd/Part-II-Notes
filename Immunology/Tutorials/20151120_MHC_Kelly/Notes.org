@@ -1,0 +1,71 @@
+* MHC
+    - ERp57 has a thioreductase complex that can break S-S bonds in ER
+    - Do it in endosomal compartments? Unlikely...
+    - MHC Class II more resistant to proteolysis, more than class I
+    - Cross presentation - endosomally derived antigen onto class I, if
+      dendritic cell cannot be infected, other mechanism to generate CTLs
+    - Use same sort of machinery and editing capacity - use ER loading
+      chaperone system, if two different mechanisms, would we get the same
+      peptides?
+
+* Mutagenesis
+    - EMS - gives deletion mutations
+    - Other ones can give different types of mutations
+    - Selecting out phenotype desired (20-30years ago, these days can use
+      FACS sorting) - then, kill all cells still had receptor wanted to get
+      rid of, use Ab to bind to target, complement to kill them
+
+* T cella activation
+    - Signalling theshold, because TCRs can bind all sorts of MHC peptide
+      complexes, with different specificities
+    - Want to make long lived CTLs for chronic infections, long lived
+      (herpesviruses) have a LOT of molecules that evade MHC presentation
+      pathways
+    - virally infected cell, awful lot of the same protein
+    - Many viruses, want an antibody response generated.
+    - HLA-DM ensures peptides wont fall off when peptide gets to surface at
+      different pH
+    - Editing machinery gets rid of peptides with fast off rate
+    - 1hour to 6 hours to 24 hours - duration of MHC on surface of cell
+    - Class II binds anything that enters endocytic pathway
+
+* Does everywhere have the immunoproteosome?
+    - Lots of staining on vascular endothelium, very little on tissues, so all
+      cells express class I, but not very much. Places likely to have infection,
+      have more class I and immunoproteosomes
+    - When need to present antigen, upregulated!
+    - type I and type II interferons -> class I upregulation
+    - gamma interferons activate class II
+
+* Epitopes changing
+    - Have a number of peptide epitopes that are generally generated. Some
+      epitopes destroyed b/c readily cleaved. Found that internalised antigen
+      with different B cells with different B cell receptor binding to
+      different bits of toxoid, different peptides presented on MHC!
+    - Reasonably well folded protein, need to do something to it! To begin to
+      open up protein to allow proteases to access (thioreductases, pH
+      change) - weak spot opened up first, allows access, determines how it
+      is degraded
+    - Play around with it, must find another weak spot, influences how rest
+      of protein degraded
+    - Important :: Bind antibody to self protein, peptide epitopes to self protein not
+      generated in thymus!!!
+    - EPITOPE SPREADING :: during the course of an immune response, epitopes to
+      which made response initially to are altered over the course of the
+      response
+    - Also changes in SEQUENCE in viruses can have same effect! Different
+      weak spot, different peptides presented on T cells
+    - DNA vaccines work in some settings, make protein, cleave it up,
+      generate T cell responses against those epitopes.
+
+    - First crystal structures, dimer of dimers, ability to associate
+      inherently (artifact of crystallisation?)
+    - Cross presentation class II showing class I
+    - Cytosolic proteins into endosomal compartments - presenting class I
+      molecules in class II - some Heat Shock Proteins will do this
+
+    - Mostly see changes in gene expression, not tumour new antigens, mostly
+      just see altered levels of normal proteins. So context?
+    - Wound repair, switch to alternatively activated macrophage type
+      scenario
+    - LINK :: To Macrophage support for cancers?

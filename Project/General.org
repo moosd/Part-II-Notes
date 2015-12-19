@@ -10,3 +10,6 @@
 
 
 * Glycerol to prevent tissues freezing at -20oC
+
+
+* Pericentriolar satellites

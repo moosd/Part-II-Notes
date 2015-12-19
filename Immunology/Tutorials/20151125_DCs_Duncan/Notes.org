@@ -1,0 +1,57 @@
+* Castle
+  Minute amounts of allergens onto tongue for long periods of time for
+    tolerance - sublingual DCs
+  HIV - no damage, lentivirus, jumps silently into genome.
+  Helminths - detected by CLRs + fungi, FIND EXAMPLES OF PATHOGENS - how
+  would we recognise them?! + TLRs, (TLR2)
+  Eosinophils, basophils, neutrophils - innate immunity, kill everything...
+  Helminths - IL4,5,13, small amount of Il12 - TSLP inhibits IL12 secretion
+  DNA picked up
+  intracellular -> IL12 signal
+  secrete damage molecules - TNFalpha
+  eosinophils and neutrophils secrete factors that prime DCs too
+  Cleans up streets by killing cells, causes damage, more cytokines that
+  prime DC, causes DC to mature, one signal not enough
+
+  Fungi - DC secretes IL6 and IL23 (IL12 is cousin, sharing subunits)
+
+  signalling as heirarchy all the time - self defence, prevent activating all
+  the tine
+
+  Not enough for DC to send message out, needs confirmation back via
+  cd40/cd40l
+
+  Th17 -> IL17 and IL22, recruits innate cells to rid of fungus, helps
+  antibody forming. Activates wound repair, can encapsulate fungus
+
+  Pick pathogen, find important features in terms of recognition, tools for
+  recognising them, what are the signals
+
+  Fungus
+  CLRs (Dectin-1)
+  TLR2/6
+  IL-6, IL-23 secreted
+  MHC Class II, Co-stim
+  T CD4+ cell responds with CD40/CD40L, IL2 to self stimulate
+  Differentiates to Th17 -> makes IL17 and IL23
+
+
+  NK cells secrete IFNgamma, activates macrophages
+
+  Normal T cells express TCRs that bind with low affinity -> detect CHANGES,
+  upregulation of antigens e.g. in cancer
+
+  Cancer, DCs pick up HSPs, other damage signals
+
+  Survival signal from Tc to DC -> IBBL
+
+  Need to combine bits and pieces of DCs together - no chapter for them!
+  Create small story pictures!
+
+  Examples for five main pathogen types
+  Commensals - one signal missing, whole thing changes
+  Tumours
+  Transplantation + transplantation antigens
+
+  What the tools and messages are
+

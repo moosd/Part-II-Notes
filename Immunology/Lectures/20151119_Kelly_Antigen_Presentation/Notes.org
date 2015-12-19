@@ -1,0 +1,250 @@
+#+TITLE Antigen Presentation by Class II Molecules
+#+AUTHOR Dr Adrian Kelly
+#+DATE Thu 19 Nov, 2015
+
+* Intro
+    - Rules governing which peptides bound to MHC II molecules, can look at
+      pathogen genomes and predict which molecules will be a target for
+      immune system
+
+* Presentation pathway
+    - Type I membrane glycoproteins
+    - Assemble in ER, with invariant chain
+    - Proteolysis, number of features depend on this
+    - Exhange fragment of Ii, CLIP to Class II molecule
+    - Expression of class II much more restricted, just to professional APCs
+      constitutively.
+    - Other cells can be induced to present class II esp through IFN\gamma
+    - HLA-DP, DQ, DR, DM, DO, Ii
+    - Need to all be coregulated
+    - Class II expression by CIITA transcriptional control (class II
+      transactivator protein)
+    - All genes coregulated by CIITA have a conserved promoter - X and Y box
+      200-300 bp upstream, close proximity, bind set of proteins, many of
+      which are constitutively expressed in all cells
+    - Complex named RFX, uiquitously expressed but mainly functions in class
+      II expression
+    - At least four transcription factors required for expression of Class II
+    - Defects -> bare lymphocyte syndrome
+    - Enhancosome, bound by CIITA, fires off transcription.
+    - CIITA key factor to express class II in any cell wanted. All other
+      factors there constitutively.
+    - May also impinge on class I transcription. Class I has similar factor
+      to CIITA, NLRC5, can be induced to regulate class I expression
+    - CIITA gene has number of separate promoters upstream, four different
+      ones in different cell settings
+    - Promoter IV regulated by interferon (binds to IFN receptor, JAK-STAT
+      pathway, fires off promoter IV)
+    - Promoter III involved in expression in plasmacytoid dendritic cells and
+      B cells
+    - Upstream promoters involved in conventional dendritic cells expression
+      and macrophages
+    - Targets for pathogen intervention - many examples of interference.
+
+* Role of invariant chain chaperone, critical of class II expression
+    - folding chaperone to help class II fold properly
+    - Relatively invariant in protein structure
+    - Amazed by degree of polymorphism in class II molecules, nothing like
+      that with invariant chain
+    - Ii is a type 2 (N terminus inside cytosol, C term outside) TM proteins
+    - CLIP region has to bind into binding site of every single Class ii
+      molecule
+    - Invaraint chain forms a trimer, binds to three sets of \alpha\beta
+      class II molecules
+    - Assembly as a trimer of trimers
+    - 64aa exon -> protease inhibitor, inhibits cathepsins required to
+      process Ii itself - self regulatory capacity
+    - Can decide whether to incorporate a 16aa region, ER retention motif
+    - Combination of Ii allow assembly and processing as Ii moves out of ER
+      to endosome
+    - ER retention motifs masked
+    - Needs to be cleaved to isolate CLIP peptide
+    - One function is to target to endocytic pathway
+    - Chew away Ii once it gets to its location in endosome, released all
+      targeting information, class II molecule free to go anywhere it wants
+      after that
+    - Sequentially cleaved.
+    - Used inhibitor of proteolysis to slow proteolysis down to investigate
+    - Leupeptin
+    - Sequentially cleaved by cathepsins once it gets into endosomal pathway
+
+* CLIP
+    - Must bind to every class II molecule despite their polymorphism
+    - Well conserved, binds in a similar tight function even cross species
+    - Overlay Ii peptide with number of other peptides, see it has pretty
+      much same conformation
+    - Binds like a normal peptide but is a universal binder.
+    - Avoids any residues required for strong binding to particular MHC
+      alleles
+    - Avoids large charged bulky residues
+    - Avoids anything that would preclude it from binding
+    - Methionine residue in P1 pocket and P9 pocket to facilitate binding
+    - Class II molecules use backbone of peptide for binding
+    - So a lot less dependant than class I on residues themselves
+    - Main function of Ii as structural and targetting chaperone rather than
+      just preventing peptide binding in ER
+    - No Ii, no MHC class II expression, degrades because misfolded
+    - Now got a class II molecule with a peptide in it, binds like any other
+      peptide, but now need to exchange it
+    - Uses HLA-DM - Non classical class II. Folds into same sort of structure
+      as class II molecule itself.
+    - Structually very similar, evolved from same primordial genes but
+      completely different function
+    - Closest structural similarity is of neonatal Fc receptor (new molecule,
+      different function)
+
+* HLA DM
+    - Mutate lots of cells to find out about class II for transplantation
+    - Took cell line, hit with EMS mutagenesis, selected with antibody
+      against HLA-DR1, selected for cells surviving complement killing
+    - Had a deletion in class II region, from DMa to DRalpha gene, takes out
+      TAP transporters, DO gene, LMP genes, etc
+    - Useful for class I and class II presentation investigation
+    - Another round of mutagenesis, antibody against DR3, other haplotype
+    - Strange properties, recognised particular conformation of DR3
+    - Deficient in 16:23 binding
+    - Actual amount of DR3 hasnt changed
+    - Lost recognition by conformational sensitive antibody
+    - Properties of class II molecules, antigen presentation assay
+    - Has class II but wasnt able to present antigen through DR3 molecule
+      (tetanus toxoid)
+    - Couldnt present hep B through DP - unrelated class II - generalised
+      defect in class II presentation
+    - Mutant cells also has HLA structurally much weaker
+    - Looked using complementation, HLA-DM seemed to have feature in peptide
+      loading
+    - How was it doing this?
+    - Biochemistry, purified different variants, and add to HLA-DM to see
+      what it binds to
+    - Apparently binds to \alpha\beta CLIP, not anything else
+    - Associating with DR-CLIP, releasing CLIP, holding in a conformation
+      allowing it to sample peptides until it got a high affinity peptide
+    - At cell surface, want stable peptide-MHC interaction, otherwise after
+      that, can pick up anything exterior to cell, would lose control what it
+      was presenting
+    - Also want right information with antigen presented to T cell via
+      cytokines, etc
+    - Label peptide -> peptide exchange expreiments, look at peptide binding
+      characteristics
+    - Different pHs, optimal pH ~ 5.5 - endosomal pH, functions nicely at
+      late endosomal/lysosomal like pH
+    - Can also see it release CLIP through same assay
+    - Peptide editor by releasing CLIP and facilitating binding of antigenic
+      peptide
+    - Class II with high affinity peptide is NOT a good substrate for DM -
+      hence doesnt release these ones
+    - Related molecule, HLA-DO - much more related to DP, DQ, DR than DM
+    - Amino acid homology level
+
+* HLA DO
+    - DO as a cochaperone for DM, assisting function of DM (Kropshofer et al, 1999)
+    - Made DO in bacterial expression system, enhances DM function
+    - Also completely opposite data (Denzin et al, 1997) - isolated from
+      cells, no recombinant protein made. Action of DM in terms of peptide
+      loading, good activity, DO in, blocks activity.
+    - Also has effect on SDS stability
+    - Transfection data fits with this too...
+    - Need to interpret data yourself too! Controversial bits of data out
+      there in literature.
+** Function?
+    - Expression pretty much limited to B cells. Might be trying to regulate
+      the generation of high affinity interactions - low affinity
+      interaction, antigen degraded, DO inhibits function of DM. As down into
+      endosomal pathway, DO and DM dissociate, but no peptide there
+    - High affinity, DM function with peptide present
+    - But actually, DM and DO, once added together, can change as much as you
+      like, doesnt dissociate easily
+
+* how does DM work?
+    - Surface plasmon resonance, look at protein protein interactions
+    - DM to chip, pass class II over top and see if they bind
+    - Empty DR-DM are long lived
+    - Add high affinity peptide, they dissociate
+    - Load with high affinity peptide, they dont really bind
+    - region of peptide in p1 pocket regulates whether DM binds or not
+    - DM interacts with a partially folded DR
+    - Made DR molecule with CLIP epitope bound to it, made alpha and beta
+      chain
+    - Link peptide in but leave P1 open
+    - Made HLA-DM, physically coupled DM and DR together
+    - DM molecule binds predominantly over alpha region, 3-10 helix
+    - DM interacts predominantly with alpha chain, not beta chain - reflects
+      with why DR-beta more polymorphic than DR-alpha? Possibly.
+    - When DM interacts with classs II molecule, causes huge change - drags
+      tryptophan residue and pulls it out, lets bulky residues to feed into
+      P1 region from end of class II molecule
+    - Self regulating process. Editing process built into class II molecule
+    - Returns alpha helical region from position where it was down with
+      tryptophan residue
+    - HLA-DO acts as a substrate mimic to inhibit HLA-DM by competitive
+      mechanism
+    - Non polymorphic, so assoc with DM in ER
+    - Binds in same way as DM binds to class II
+    - Class II mimic
+    - Once it associates with DM< doesnt let go easily
+    - DO doesnt have the flexibility as DR. When DM binds, acts as
+      competitive inhibitor
+    - Fits with idea that DO is structurally and aa homology, really similar
+      to DP, DQ, DR
+    - Actual function still unknown, highly conserved, expressed in B cells,
+      so something to do with germinal centre reactions, probably affinity
+      maturation?
+
+* Class II regulated mainly at level of transcription
+    - But also some post transcriptionally
+    - Controlled by ubiquitination of class II molecule itself
+    - MARCH I
+    - MVB = multivesicular bodies
+    - When compartments fuse with lysosomes, destined for degradation
+    - Way of turning over class II
+
+    - When activate dendritic cell via LPS, boost in Class II transcription,
+      expression and also shut down MARCH I E3 ligase
+    - Pulse of class II and move up to cell surface
+    - Amount of class II loaded with peptide in context of inflammatory
+      response greatly increased
+    - Lots of ways of getting into cell, but essentially requires antigen
+      degraded and somehow loaded up onto MHC II molecules
+    - Lots of proteases potentially involved in this, many in cathepsin
+      family
+    - Thought to be a fairly random process, seemed sensible, degraded with
+      random cocktail of proteases
+    - BUT experiments with particular protease )Aspariginyl endopeptidase
+      [AEP]) - number of parasites modify these enzyme activities
+    - Tetanus toxin, (can isolate human cells with people immunised and
+      generate B cells with receptors against tetanus toxin)
+    - T cells that recognise certain epitopes generated from toxin, follow
+      degradation pattern
+    - Use BCR to bind antigen, look at degradation
+    - Tried mutating three asparagine residues because AEP investigated
+    - Processing of tetanus toxoid altered in these mutants - whole cocktail
+      of proteases, just mutating asparagine residues made major changes in
+      processing itself
+    - Simply mutating one asparagine-1219, found this one mutation altered
+      processing of peptide and prevented presentation via various T cell
+      epitopes
+    - Affects epitope in completely different part of protein
+    - Model :: protein needs specific opening up event, and needs to be
+      cleaved in a particular pattern
+    - Many proteins resistant to degradation - maybe thioreductase to degrade
+      disulphide bonds
+    - Can completely skew T cell epitopes in whole protein by blocking one
+      protease
+    - Take B cells that recognise tetanus toxoid, number of B cells
+      recognising different regions
+    - If internalised toxin, different patterns of proteolysis when bound by
+      BCR
+    - Simple act of BCR binding altered processing of protein, like single
+      mutation
+    - Maybe antibody was blocking access through important protease, causing
+      different processing?
+    - depending on where Ab binds, influences processing
+    - Antibodies are polyclonal responses. Also have ab bound elsewhere.
+      Knock on effect! Piggy backing another Ab skews processing again.
+    - Basic message - completely unpredictable, generating antibodies can
+      completely alter peptides presented on T cells - during course of
+      immune response, epitopes change
+    - So predicting peptides very difficult!
+    - Evolutionarily makes sense - pathogens can mutate much faster than
+      humans, and this is a way of generating unpredictability to prevent
+      evolutionary selection for resistant bacteria

@@ -1,0 +1,81 @@
+* IL-12
+    - M tuberculosis
+    - Mouse that no longer makes IL12 (p40 ko)
+    - Required for initiation step
+    - Enters Th1 cell stage
+
+* IFN gamma
+    - Dendritic cell still can influence differentiation
+    - M tuberculosis, IFN gamma loss -> all mice die.
+
+* CXCL10
+    - Chemokines tell where T ccells need to go (also Interferon inducible
+      protein 10, IP 10)
+
+* IL-13
+    - For extracellular parasites - S mansoni (bilharzia), hookworms, etc
+    - Looked at IgE production
+    - Far fewer eosinophils in IL13 knockout
+    - Hence important in driving Th2 response
+
+* CCL11
+    - Important chemokine (eotaxin) in type 2 response
+    - Mice no challenge, no eosinophils, wt with challenge, lots of
+      eosinophils, ko -> far fewer eosinophils
+    - What initiates a Th2 response?
+    - Ragweed pollen, recognised by epithelial cells lining airways, maybe
+      also by dendritic cells and alveolar macrophages. directly interacts
+      with pollen releases some factor that initiates Th2 -> Il4,5,13 ->
+      response
+    - 2001 and 2005, initiating factor probably two - IL-25, IL-33 (both
+      cytokines)
+    - When IL 25 or IL33 administered to mice, they both indce a type 2
+      response
+    - PAS stain - stains mucin
+
+* Th1 and Th2 cells alone?
+    - Koffman (1986) - Two types of response, Th1, Th2, adaptive response
+    - Not true! Accepted theory: IL12 essential for diferentiation of Th1
+      cells, using MS as model. Autoimmune mediated by Th1 response
+    - Give protein to induce autoimmunity, MS results
+    - Includes tip of tail to shoulders paralysis
+    - Then they get better, intact immune response
+    - p40-/- -> treated with agent inducing MS, animals were fine...
+    - p35 -/- -> autoimmunity!
+    - But both make up IL12 - if IL12 needed, knocking out either should give
+      same phenotype!
+    - Actually, another cytokine, another heterodimer, sharing p40 subunit.
+      Caries alternative p19 subunit. Knockout and was fine again.
+    - Conclusion, IL-23 not IL-12 required for autoimmunity
+    - IL-23 secondary driver?
+    - No, IL-17. IL-23 drives completely different type of response to Th1
+      response.
+    - Take IL23 knockout mice, look at CFU in lung, cant clear bacteria, but
+      add IL17A, removes bacteria.
+    - Differentiation of Th17, Th1 cells are flexible, not fixed lineages!
+      Not a polarising response! PLASTICITY - ability of a differeniated cell
+      to take on cytokine characteristics of another
+    - Th17 cells causing diabetes?
+    - CD4+ T cells, if see IL 12, Th1 cell
+    - If see IL6, TGFb, IL23, Th17 cell
+    - If see IL25, Il33, Th2 cell
+    - Th subsets defined by transcription factors
+
+* In vitro vs in vivo
+    - Th2 tissue specialisation - allergic or parasitic response
+    - Plasticity in terms of cytokine production
+    - Type of cytokines available influences
+    - IL4+ but GATA3- IL13- -> Tfh cell
+    - Look at location, green = IL4 producers, red=Bcells
+    - Located around B cell areas. Follicular helper cells. CXCR5+
+    - For CXCL13, essential for cells to enter lymph nodes, transcription
+      factor Bcl6
+    - Separate out parts of Th2 and Th1 responses
+
+* Also... Developmental! morphological influences of cytokines!
+    - Cytokines essential for development of immune response when system
+      becomes infected
+    - Cytokines essential for how spleen and lymph nodes are formed, etc
+    - B cell areas, T cell areas
+    - Maintained by chemokine system. CXCR13 made by stromal cells - CXCR5 on
+      B cells

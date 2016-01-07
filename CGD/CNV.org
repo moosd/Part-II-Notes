@@ -1,0 +1,194 @@
+If a complex disease is a result of a failure or abnormal function of some system,
+cycle or pathway, then it stands to reason that a change in any part of the
+system may give rise to disease. Some may require a single change anywhere in
+the system, while other abnormalities may depend upon certain combinations of
+changes in the system.
+
+This framework allows us to interpret the low power results of CNV and other
+association studies, and give us a reason why the impact of any one mutation
+is low, and why the same mutations seem enriched in seemingly disparate
+disease phenotypes.
+
+allelic, locus and clinical heterogeneity
+
+* Schizophrenia
+  Gottesman and Shields (1967) - polygenic theory of disease
+  Rucker and McGuffin (2012) - gene deletions more impact (50% loss) than
+  duplications (33% gain)
+
+  CNV arbitrarily defined as gain or loss of > 1000 bp (Sebat et al, 2004)
+
+  Schizophrenia has a strong heritable component, with first degree relatives
+  having a 10-fold increased risk (Gottesman, 1991)
+
+  22q11.2 deletion related to DiGeorge and schizophrenia (Murphy et al, 1999)
+
+  Kirov et al, 2007 - comparative array CGH to investigate 93 schizophrenics with
+  372 controls. Identified two CNVs likely to be significant
+    APBA2 - expressed in all areas of the brain, product binds to neurexins
+  modulating neurotransmitter output (LINK TO FILTER MODEL)
+    NRXN1 - also found in asymptomatic mother
+
+Walsh et al, 2008
+
+more severe disorder like autism only with deletion cnv
+
+* SOX9
+Sry acts on Sox9 by TESCO (Testis-specific Enhancer Complex)
+Sox9 surrounded by noncoding regions (chr 17q)
+Pierre Robin syndrome, Cook syndrome
+
+* PLP1
+  Pelizaeus-Merzbacher disease
+  Leukodystropy
+  Xq21-22 - 19bp deletion in intron 3
+  Removes regulatory element for its expression in oligodendrocytes
+
+* Shh
+  Developmental genes subject more to gene dosage effects
+
+Normal individuals may harbour harmful cnvs but because of lack of other 
+
+
+* GWAS
+  2000 cases and 3000 controls, still limited to high power effect sizes in
+  WTCC, 2007
+
+  Single univariate trumped by pathway analysis - Torkamani, 2008
+  e.g. CAD - Dominant processes target contractile functions of VSMCs
+     (vascular smooth muscle cells)
+     Cell adhesion, matrix interaction and neuronal factors important for
+     differentiation of migrating cells to contractile cells, inhibited in
+     atherosclerosis, switch to migrating VSMC type 
+
+     Evidence for series of mechanisms where Tubby plays a central role
+     LOF -> obesity in mice - metabolic parts involved
+     PLCG2 and GNG2 which modulate insulin and serotonin (respectively)
+     signalling through tubby highest hits
+
+* Origins of complex disease
+  The first proposition is that millions of years of stabilizing selection
+  have ensured that crucial mammalian physiological mechanisms — relating,
+  for example, to glucose metabolism, immune function and cognitive
+  performance — have evolved not just to an optimum, but towards a robust
+  optimum. This is the notion of canalization: genetic systems evolve to a
+  point of maximum stability in the face of genetic and environmental
+  perturbation2, 3. 
+  
+  The second proposition is that waves of genetic change
+  accompanying the origin of the genus Homo, the birth of the human species
+  and our subsequent migration around the globe have disrupted this stable
+  equilibrium. The physiological mechanisms underlying many biological
+  processes have been genetically perturbed, uncovering cryptic genetic
+  variation or allowing novel mutations to contribute to disease
+  susceptibility.
+  
+  The third proposition is that dramatic cultural changes in
+  the past 100 years have further pushed human physiology away from the
+  evolved robust mechanisms that would normally prevent disease. Principal
+  among these changes are dietary shifts, tobacco smoking, air pollution,
+  altered pathogen exposure and psychological stress. The conclusion is that
+  a process of decanalization has occurred as the proportion of the
+  population at risk for any of the major common diseases has risen from less
+  than one percent to more than ten percent in modern societies.
+
+* Missing heritability
+
+  Most variants identified so far confer relatively small increments in risk,
+  and explain only a small proportion of familial clustering, leading many to
+  question how the remaining, ‘missing’ heritability can be explained.
+
+  To understand where this comes from, it is important to measure
+  heritability properly. The accuracy of current heritability estimates is
+  also important, because experimentally identified variants could never
+  explain all the variance in an erroneously inflated heritability estimate.
+
+  Narrow-sense heritability estimates in humans can be inflated if family
+  resemblance is influenced by non-additive genetic effects (dominance and
+  epistasis, or gene–gene interaction), shared familial environments, and by
+  correlations or interactions among genotypes and environment. However,
+  heritabilities estimated from pedigree studies in animals agree well with
+  heritability estimated from response to artificial selection, suggesting
+  that estimates from family studies are not necessarily inflated.
+
+  Teasing apart the contributions to heritability of environmental factors
+  shared among relatives will soon be possible because the availability of
+  genome-wide markers now provides empirical estimates of identity-by-descent
+  (IBD) allele sharing between pairs of relatives. For example, full sibs
+  share on average half their genetic complement, but this proportion can
+  vary—in one large study it ranged from 0.37 to 0.62 (ref. 38). By relating
+  phenotypic differences to the observed IBD sharing fraction among sib
+  pairs, marker data were used to generate a heritability estimate of 0.8 for
+  height.
+
+** Where does it come from?
+
+  The underlying rationale for GWAS is the ‘common disease, common variant’
+  hypothesis, positing that common diseases are attributable in part to
+  allelic variants present in more than 1–5% of the population
+
+  (Pearson and Manolino, 2008) Limitations in the design of early GWAS, such
+  as imprecise phenotyping and the use of control groups of questionable
+  comparability, may have reduced estimates of effect sizes while preserving
+  some ability to identify associated variants
+
+  Age-related macular degeneration may provide the best example of a common
+  disease in which heritability is substantially explained by a small number
+  of common variants of large effect20, but for other conditions, such as
+  Crohn’s disease, the proportion of heritability explained is not nearly so
+  large despite a much larger number of identified variants
+
+  A probable contributor to the small genetic effect sizes observed so far is
+  that current investigations have incompletely surveyed the potential causal
+  variants within each gene. Relative risks observed for marker SNPs may
+  underestimate the actual risks associated with the true causal variants.
+  Notably, 11 out of 30 genes implicated as carrying common variants
+  associated with lipid levels also carry known rare alleles of large effect
+  identified in Mendelian dyslipidemias, including ABCA1, PCSK9 and
+  LDLR22,32, suggesting that genes containing common variants with modest
+  effects on complex traits may also contain rare variants with larger
+  effects.
+
+  An important consideration is that the overwhelming majority of GWAS and
+  other genetic studies have been limited to European ancestry populations,
+  whereas genetic variation is greatest in populations of recent African
+  ancestry2, and studies in non-Europeans have yielded intriguing new
+  variants
+
+** Rare Variants
+   Low frequency variants could have substantial effect sizes (increasing
+   disease risk two- to threefold) without demonstrating clear Mendelian
+   segregation, and could contribute substantially to missing heritability
+
+** Structural variation
+   Structural variation, including copy number variants (CNVs, such as
+   insertions and deletions) and copy neutral variation (such as inversions
+   and translocations), may account for some of the unexplained heritability
+   if those variants contribute to the genetic basis of human disease and are
+   incompletely assessed by commercial SNP genotyping arrays.
+
+   CNVs in particular (regions 1 kilobase (kb) or longer present in variable
+   numbers across individuals) have gained attention as methods to detect
+   them have improved52,53.
+
+   Other forms of structural variation such as
+   inversions, translocations, microsatellite repeat expansions, insertions
+   of new sequence, and complex rearrangements have been implicated in rare
+   Mendelian conditions. For the most part such variation has been largely
+   unexplored in relation to complex traits
+
+   Because both rare and common CNVs are under-ascertained by current
+   methods, the relative affect of these variants will continue to be an
+   important research question for CNVs just as for SNPs.
+
+   Of note, CNVs
+   arising de novo in current cases and shown to be of importance in
+   neuropsychiatric and developmental conditions56–58 will not contribute to
+   family resemblance and heritability, but could explain some of the
+   variation at present attributed to ‘environment’.
+
+   Several approaches have been developed for integrating analysis of CNVs
+   into GWAS, including innovation in the design of GWA arrays (with
+   associated discoveries in neuropsychiatric disorders59,60) and the use of
+   the linkage disequilibrium relationships between SNPs and common CNPs
+   (with associated discoveries in Crohn’s disease and body weight52,61)
